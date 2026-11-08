@@ -1,0 +1,20015 @@
+window.SPS_DATA = {
+  "appName": "SpS 2027",
+  "season": "2025/2026",
+  "generatedAt": "2026-11-04T17:48:46+01:00",
+  "totalClubs": 44,
+  "totalQualifyingArchers": 336,
+  "totalCupParticipants": 285,
+  "totalCupLimitMet": 117,
+  "bucketCount": 71,
+  "clubs": [
+    {
+      "id": 57,
+      "name": "LK Žebrák",
+      "slug": "lk-zebrak",
+      "spsLabel": "SpS B",
+      "counts": {
+        "total6Plus": 27,
+        "divRL": 4,
+        "divKL": 1,
+        "divHL": 24,
+        "divTL": 0,
+        "discHalova": 23,
+        "discTercova": 26,
+        "discTerenni": 25,
+        "disc3D": 12,
+        "cupParticipants": 23,
+        "cupLimitMet": 1
+      },
+      "archers": [
+        {
+          "id": 4826,
+          "name": "Nývltová Rozárka",
+          "slug": "nyvltova-rozarka",
+          "ageCategories": [
+            "Žákyně U13",
+            "Kadetky U18"
+          ],
+          "totalRaces": 35,
+          "divisions": {
+            "HL": 35
+          },
+          "disciplines": {
+            "halova": 11,
+            "tercova": 13,
+            "terenni": 9,
+            "3d": 2
+          },
+          "rankings": [
+            {
+              "bucketId": 1710,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 11,
+              "bestValue": "555"
+            },
+            {
+              "bucketId": 1842,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 7,
+              "bestValue": "610"
+            },
+            {
+              "bucketId": 1808,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "ŽWA720",
+              "races": 6,
+              "bestValue": "687"
+            },
+            {
+              "bucketId": 1738,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 4,
+              "bestValue": "290"
+            },
+            {
+              "bucketId": 1741,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "T24 / ŽT24",
+              "races": 5,
+              "bestValue": "286"
+            },
+            {
+              "bucketId": 1680,
+              "discipline": "3D lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "3D",
+              "races": 2,
+              "bestValue": "9.13"
+            }
+          ]
+        },
+        {
+          "id": 4419,
+          "name": "Huptichová Šárka",
+          "slug": "huptichova-sarka",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 26,
+          "divisions": {
+            "HL": 26
+          },
+          "disciplines": {
+            "halova": 9,
+            "tercova": 9,
+            "terenni": 6,
+            "3d": 2
+          },
+          "rankings": [
+            {
+              "bucketId": 1706,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 9,
+              "bestValue": "481"
+            },
+            {
+              "bucketId": 1842,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 9,
+              "bestValue": "596"
+            },
+            {
+              "bucketId": 1738,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 6,
+              "bestValue": "277"
+            },
+            {
+              "bucketId": 1828,
+              "discipline": "3D lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "3D",
+              "races": 2,
+              "bestValue": "6.45"
+            }
+          ]
+        },
+        {
+          "id": 4639,
+          "name": "Černochová Kateřina",
+          "slug": "cernochova-katerina",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 26,
+          "divisions": {
+            "HL": 26
+          },
+          "disciplines": {
+            "halova": 8,
+            "tercova": 7,
+            "terenni": 9,
+            "3d": 2
+          },
+          "rankings": [
+            {
+              "bucketId": 1706,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 8,
+              "bestValue": "489"
+            },
+            {
+              "bucketId": 1842,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 7,
+              "bestValue": "598"
+            },
+            {
+              "bucketId": 1738,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 9,
+              "bestValue": "308"
+            },
+            {
+              "bucketId": 1828,
+              "discipline": "3D lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "3D",
+              "races": 2,
+              "bestValue": "7.70"
+            }
+          ]
+        },
+        {
+          "id": 4825,
+          "name": "Štochlová Klára",
+          "slug": "stochlova-klara",
+          "ageCategories": [
+            "Žákyně U13"
+          ],
+          "totalRaces": 23,
+          "divisions": {
+            "RL": 19,
+            "HL": 4
+          },
+          "disciplines": {
+            "halova": 10,
+            "tercova": 9,
+            "terenni": 4,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1708,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "513"
+            },
+            {
+              "bucketId": 1710,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "485"
+            },
+            {
+              "bucketId": 1802,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "ŽWA720",
+              "races": 9,
+              "bestValue": "651"
+            },
+            {
+              "bucketId": 1733,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "T24 / ŽT24",
+              "races": 4,
+              "bestValue": "285"
+            }
+          ]
+        },
+        {
+          "id": 4635,
+          "name": "Ostatnická Alžběta",
+          "slug": "ostatnicka-alzbeta",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 22,
+          "divisions": {
+            "HL": 22
+          },
+          "disciplines": {
+            "halova": 7,
+            "tercova": 8,
+            "terenni": 6,
+            "3d": 1
+          },
+          "rankings": [
+            {
+              "bucketId": 1706,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 7,
+              "bestValue": "455"
+            },
+            {
+              "bucketId": 1842,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 8,
+              "bestValue": "590"
+            },
+            {
+              "bucketId": 1738,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 6,
+              "bestValue": "276"
+            },
+            {
+              "bucketId": 1828,
+              "discipline": "3D lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "3D",
+              "races": 1,
+              "bestValue": "7.11"
+            }
+          ]
+        },
+        {
+          "id": 4087,
+          "name": "Bak Tomáš",
+          "slug": "bak-tomas",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 21,
+          "divisions": {
+            "HL": 21
+          },
+          "disciplines": {
+            "halova": 9,
+            "tercova": 5,
+            "terenni": 7,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1709,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 9,
+              "bestValue": "436"
+            },
+            {
+              "bucketId": 1807,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 5,
+              "bestValue": "623"
+            },
+            {
+              "bucketId": 1795,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 7,
+              "bestValue": "332"
+            }
+          ]
+        },
+        {
+          "id": 2740,
+          "name": "Svobodová Ada",
+          "slug": "svobodova-ada",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 21,
+          "divisions": {
+            "HL": 21
+          },
+          "disciplines": {
+            "halova": 7,
+            "tercova": 8,
+            "terenni": 6,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1706,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 7,
+              "bestValue": "449"
+            },
+            {
+              "bucketId": 1842,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 8,
+              "bestValue": "558"
+            },
+            {
+              "bucketId": 1738,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 6,
+              "bestValue": "273"
+            }
+          ]
+        },
+        {
+          "id": 5258,
+          "name": "Pospíšil František",
+          "slug": "pospisil-frantisek",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 18,
+          "divisions": {
+            "HL": 5,
+            "KL": 13
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 8,
+            "terenni": 3,
+            "3d": 2
+          },
+          "rankings": [
+            {
+              "bucketId": 1717,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "435"
+            },
+            {
+              "bucketId": 1811,
+              "discipline": "Terčová lukostřelba",
+              "division": "KL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 8,
+              "bestValue": "541"
+            },
+            {
+              "bucketId": 1823,
+              "discipline": "Terénní lukostřelba",
+              "division": "KL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 3,
+              "bestValue": "301"
+            },
+            {
+              "bucketId": 1981,
+              "discipline": "3D lukostřelba",
+              "division": "KL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "3D",
+              "races": 2,
+              "bestValue": "7.06"
+            }
+          ]
+        },
+        {
+          "id": 4080,
+          "name": "Lipták Ladislav",
+          "slug": "liptak-ladislav",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 17,
+          "divisions": {
+            "HL": 17
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 5,
+            "terenni": 6,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1709,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "455"
+            },
+            {
+              "bucketId": 1807,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 5,
+              "bestValue": "608"
+            },
+            {
+              "bucketId": 1795,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 6,
+              "bestValue": "284"
+            }
+          ]
+        },
+        {
+          "id": 4082,
+          "name": "Hubert Jakub",
+          "slug": "hubert-jakub",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 16,
+          "divisions": {
+            "HL": 16
+          },
+          "disciplines": {
+            "halova": 7,
+            "tercova": 4,
+            "terenni": 4,
+            "3d": 1
+          },
+          "rankings": [
+            {
+              "bucketId": 1717,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 7,
+              "bestValue": "440"
+            },
+            {
+              "bucketId": 1848,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 4,
+              "bestValue": "538"
+            },
+            {
+              "bucketId": 1796,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 4,
+              "bestValue": "244"
+            },
+            {
+              "bucketId": 1678,
+              "discipline": "3D lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "3D",
+              "races": 1,
+              "bestValue": "6.55"
+            }
+          ]
+        },
+        {
+          "id": 4629,
+          "name": "Krézlová Magdaléna",
+          "slug": "krezlova-magdalena",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 15,
+          "divisions": {
+            "HL": 15
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 5,
+            "terenni": 4,
+            "3d": 1
+          },
+          "rankings": [
+            {
+              "bucketId": 1706,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "439"
+            },
+            {
+              "bucketId": 1842,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 5,
+              "bestValue": "530"
+            },
+            {
+              "bucketId": 1738,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 4,
+              "bestValue": "244"
+            },
+            {
+              "bucketId": 1828,
+              "discipline": "3D lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "3D",
+              "races": 1,
+              "bestValue": "5.54"
+            }
+          ]
+        },
+        {
+          "id": 3577,
+          "name": "Fischer Jan",
+          "slug": "fischer-jan",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 14,
+          "divisions": {
+            "HL": 14
+          },
+          "disciplines": {
+            "halova": 4,
+            "tercova": 5,
+            "terenni": 4,
+            "3d": 1
+          },
+          "rankings": [
+            {
+              "bucketId": 1709,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "449"
+            },
+            {
+              "bucketId": 1807,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 5,
+              "bestValue": "597"
+            },
+            {
+              "bucketId": 1795,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 4,
+              "bestValue": "300"
+            },
+            {
+              "bucketId": 1827,
+              "discipline": "3D lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "3D",
+              "races": 1,
+              "bestValue": "6.57"
+            }
+          ]
+        },
+        {
+          "id": 4081,
+          "name": "Hubert Lukáš",
+          "slug": "hubert-lukas",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 14,
+          "divisions": {
+            "HL": 14
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 3,
+            "terenni": 4,
+            "3d": 1
+          },
+          "rankings": [
+            {
+              "bucketId": 1709,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "355"
+            },
+            {
+              "bucketId": 1807,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 3,
+              "bestValue": "430"
+            },
+            {
+              "bucketId": 1795,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 4,
+              "bestValue": "188"
+            },
+            {
+              "bucketId": 1827,
+              "discipline": "3D lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "3D",
+              "races": 1,
+              "bestValue": "3.59"
+            }
+          ]
+        },
+        {
+          "id": 4632,
+          "name": "Votavová Zuzana",
+          "slug": "votavova-zuzana",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 13,
+          "divisions": {
+            "HL": 13
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 4,
+            "terenni": 2,
+            "3d": 1
+          },
+          "rankings": [
+            {
+              "bucketId": 1706,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "411"
+            },
+            {
+              "bucketId": 1842,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 4,
+              "bestValue": "484"
+            },
+            {
+              "bucketId": 1738,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 2,
+              "bestValue": "149"
+            },
+            {
+              "bucketId": 1828,
+              "discipline": "3D lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "3D",
+              "races": 1,
+              "bestValue": "6.38"
+            }
+          ]
+        },
+        {
+          "id": 4083,
+          "name": "Drbalová Eva",
+          "slug": "drbalova-eva",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 12,
+          "divisions": {
+            "RL": 12
+          },
+          "disciplines": {
+            "halova": 4,
+            "tercova": 5,
+            "terenni": 3,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "489"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 5,
+              "bestValue": "402"
+            },
+            {
+              "bucketId": 1729,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 3,
+              "bestValue": "231"
+            }
+          ]
+        },
+        {
+          "id": 4638,
+          "name": "Karasová Kateřina",
+          "slug": "karasova-katerina",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 12,
+          "divisions": {
+            "HL": 12
+          },
+          "disciplines": {
+            "halova": 3,
+            "tercova": 3,
+            "terenni": 4,
+            "3d": 2
+          },
+          "rankings": [
+            {
+              "bucketId": 1706,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 3,
+              "bestValue": "361"
+            },
+            {
+              "bucketId": 1842,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 3,
+              "bestValue": "424"
+            },
+            {
+              "bucketId": 1738,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 4,
+              "bestValue": "248"
+            },
+            {
+              "bucketId": 1828,
+              "discipline": "3D lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "3D",
+              "races": 2,
+              "bestValue": "6.45"
+            }
+          ]
+        },
+        {
+          "id": 3913,
+          "name": "Nováková Anna",
+          "slug": "novakova-anna",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 12,
+          "divisions": {
+            "HL": 12
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 2,
+            "terenni": 5,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1706,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "425"
+            },
+            {
+              "bucketId": 1842,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 2,
+              "bestValue": "472"
+            },
+            {
+              "bucketId": 1738,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 5,
+              "bestValue": "240"
+            }
+          ]
+        },
+        {
+          "id": 4634,
+          "name": "Husáková Jitka",
+          "slug": "husakova-jitka",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 9,
+          "divisions": {
+            "HL": 9
+          },
+          "disciplines": {
+            "halova": 1,
+            "tercova": 4,
+            "terenni": 4,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1706,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 1,
+              "bestValue": "363"
+            },
+            {
+              "bucketId": 1842,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 4,
+              "bestValue": "396"
+            },
+            {
+              "bucketId": 1738,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 4,
+              "bestValue": "219"
+            }
+          ]
+        },
+        {
+          "id": 5261,
+          "name": "Bejšovcová Marie",
+          "slug": "bejsovcova-marie",
+          "ageCategories": [
+            "Žákyně U13"
+          ],
+          "totalRaces": 8,
+          "divisions": {
+            "HL": 8
+          },
+          "disciplines": {
+            "halova": 0,
+            "tercova": 5,
+            "terenni": 3,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1808,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "ŽWA720",
+              "races": 5,
+              "bestValue": "629"
+            },
+            {
+              "bucketId": 1741,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "T24 / ŽT24",
+              "races": 3,
+              "bestValue": "194"
+            }
+          ]
+        },
+        {
+          "id": 5260,
+          "name": "Dorukoglu Bahar Tülin",
+          "slug": "dorukoglu-bahar-tuelin",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 8,
+          "divisions": {
+            "HL": 8
+          },
+          "disciplines": {
+            "halova": 4,
+            "tercova": 0,
+            "terenni": 3,
+            "3d": 1
+          },
+          "rankings": [
+            {
+              "bucketId": 1706,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "236"
+            },
+            {
+              "bucketId": 1738,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 3,
+              "bestValue": "156"
+            },
+            {
+              "bucketId": 1828,
+              "discipline": "3D lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "3D",
+              "races": 1,
+              "bestValue": "5.55"
+            }
+          ]
+        },
+        {
+          "id": 4684,
+          "name": "Dundáčková Anna",
+          "slug": "dundackova-anna",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 8,
+          "divisions": {
+            "RL": 8
+          },
+          "disciplines": {
+            "halova": 4,
+            "tercova": 2,
+            "terenni": 2,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "467"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 2,
+              "bestValue": "314"
+            },
+            {
+              "bucketId": 1731,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 2,
+              "bestValue": "185"
+            }
+          ]
+        },
+        {
+          "id": 5030,
+          "name": "Pokorný Daniel",
+          "slug": "pokorny-daniel",
+          "ageCategories": [
+            "Žáci U13"
+          ],
+          "totalRaces": 8,
+          "divisions": {
+            "HL": 8
+          },
+          "disciplines": {
+            "halova": 3,
+            "tercova": 5,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1718,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 3,
+              "bestValue": "423"
+            },
+            {
+              "bucketId": 1788,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "ŽWA720",
+              "races": 5,
+              "bestValue": "563"
+            }
+          ]
+        },
+        {
+          "id": 5036,
+          "name": "Šlapal Jakub",
+          "slug": "slapal-jakub",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 7,
+          "divisions": {
+            "HL": 7
+          },
+          "disciplines": {
+            "halova": 2,
+            "tercova": 2,
+            "terenni": 3,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1709,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 2,
+              "bestValue": "371"
+            },
+            {
+              "bucketId": 1807,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 2,
+              "bestValue": "495"
+            },
+            {
+              "bucketId": 1795,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 3,
+              "bestValue": "205"
+            }
+          ]
+        },
+        {
+          "id": 4916,
+          "name": "Štochlová Štěpánka",
+          "slug": "stochlova-stepanka",
+          "ageCategories": [
+            "Žákyně U13"
+          ],
+          "totalRaces": 7,
+          "divisions": {
+            "HL": 7
+          },
+          "disciplines": {
+            "halova": 0,
+            "tercova": 4,
+            "terenni": 3,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1808,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "ŽWA720",
+              "races": 4,
+              "bestValue": "535"
+            },
+            {
+              "bucketId": 1741,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "T24 / ŽT24",
+              "races": 3,
+              "bestValue": "132"
+            }
+          ]
+        },
+        {
+          "id": 2665,
+          "name": "Adámek Antonín",
+          "slug": "adamek-antonin",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 6,
+          "divisions": {
+            "HL": 6
+          },
+          "disciplines": {
+            "halova": 0,
+            "tercova": 4,
+            "terenni": 2,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1807,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 4,
+              "bestValue": "557"
+            },
+            {
+              "bucketId": 1795,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 2,
+              "bestValue": "217"
+            }
+          ]
+        },
+        {
+          "id": 5028,
+          "name": "Brůha Štěpán",
+          "slug": "bruha-stepan",
+          "ageCategories": [
+            "Žáci U13"
+          ],
+          "totalRaces": 6,
+          "divisions": {
+            "HL": 6
+          },
+          "disciplines": {
+            "halova": 0,
+            "tercova": 4,
+            "terenni": 2,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1788,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "ŽWA720",
+              "races": 4,
+              "bestValue": "600"
+            },
+            {
+              "bucketId": 1740,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "T24 / ŽT24",
+              "races": 2,
+              "bestValue": "172"
+            }
+          ]
+        },
+        {
+          "id": 4685,
+          "name": "Dundáčková Marie",
+          "slug": "dundackova-marie",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 6,
+          "divisions": {
+            "RL": 6
+          },
+          "disciplines": {
+            "halova": 4,
+            "tercova": 2,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "473"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 2,
+              "bestValue": "407"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+        {
+          "name": "Štochlová Klára",
+          "limitMet": true,
+          "bestAverage": 642.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "W",
+              "code": "RU13W",
+              "average": 642.3,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Nývltová Rozárka",
+          "limitMet": false,
+          "bestAverage": 674.7,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "BU18W",
+              "average": 603.3,
+              "limit": 999,
+              "met": false
+            },
+            {
+              "division": "B",
+              "ageClass": "U13",
+              "gender": "W",
+              "code": "BU13W",
+              "average": 674.7,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Bejšovcová Marie",
+          "limitMet": false,
+          "bestAverage": 615.3,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U13",
+              "gender": "W",
+              "code": "BU13W",
+              "average": 615.3,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Bak Tomáš",
+          "limitMet": false,
+          "bestAverage": 590.3,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "BU18M",
+              "average": 590.3,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Černochová Kateřina",
+          "limitMet": false,
+          "bestAverage": 586.3,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "BU18W",
+              "average": 586.3,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Lipták Ladislav",
+          "limitMet": false,
+          "bestAverage": 586.0,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "BU18M",
+              "average": 586.0,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Huptichová Šárka",
+          "limitMet": false,
+          "bestAverage": 585.7,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "BU18W",
+              "average": 585.7,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Ostatnická Alžběta",
+          "limitMet": false,
+          "bestAverage": 581.3,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "BU18W",
+              "average": 581.3,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Fischer Jan",
+          "limitMet": false,
+          "bestAverage": 579.0,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "BU18M",
+              "average": 579.0,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Brůha Štěpán",
+          "limitMet": false,
+          "bestAverage": 570.3,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U13",
+              "gender": "M",
+              "code": "BU13M",
+              "average": 570.3,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Svobodová Ada",
+          "limitMet": false,
+          "bestAverage": 556.3,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "BU18W",
+              "average": 556.3,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Pokorný Daniel",
+          "limitMet": false,
+          "bestAverage": 542.7,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U13",
+              "gender": "M",
+              "code": "BU13M",
+              "average": 542.7,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Adámek Antonín",
+          "limitMet": false,
+          "bestAverage": 534.0,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "BU18M",
+              "average": 534.0,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Štochlová Štěpánka",
+          "limitMet": false,
+          "bestAverage": 523.0,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U13",
+              "gender": "W",
+              "code": "BU13W",
+              "average": 523.0,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Pospíšil František",
+          "limitMet": false,
+          "bestAverage": 520.0,
+          "entries": [
+            {
+              "division": "C",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "CU15M",
+              "average": 520.0,
+              "limit": 600,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Krézlová Magdaléna",
+          "limitMet": false,
+          "bestAverage": 515.7,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "BU18W",
+              "average": 515.7,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Hubert Jakub",
+          "limitMet": false,
+          "bestAverage": 510.0,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "BU15M",
+              "average": 510.0,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Kaprhálová Rozárie",
+          "limitMet": false,
+          "bestAverage": 469.0,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "BU18W",
+              "average": 469.0,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Votavová Zuzana",
+          "limitMet": false,
+          "bestAverage": 460.0,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "BU18W",
+              "average": 460.0,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Hubert Lukáš",
+          "limitMet": false,
+          "bestAverage": 408.7,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "BU18M",
+              "average": 408.7,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Karasová Kateřina",
+          "limitMet": false,
+          "bestAverage": 391.3,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "BU18W",
+              "average": 391.3,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Collins Jakub Stuart",
+          "limitMet": false,
+          "bestAverage": 360.0,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "BU18M",
+              "average": 360.0,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Husáková Jitka",
+          "limitMet": false,
+          "bestAverage": 332.3,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "BU18W",
+              "average": 332.3,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Lukostřelba Ostrava",
+      "slug": "lukostrelba-ostrava",
+      "spsLabel": "SpS A",
+      "counts": {
+        "total6Plus": 25,
+        "divRL": 25,
+        "divKL": 0,
+        "divHL": 0,
+        "divTL": 0,
+        "discHalova": 25,
+        "discTercova": 25,
+        "discTerenni": 0,
+        "disc3D": 0,
+        "cupParticipants": 23,
+        "cupLimitMet": 15
+      },
+      "archers": [
+        {
+          "id": 3707,
+          "name": "Fucimanová Sofi",
+          "slug": "fucimanova-sofi",
+          "ageCategories": [
+            "Kadetky U18",
+            "Žákyně U15"
+          ],
+          "totalRaces": 31,
+          "divisions": {
+            "RL": 31
+          },
+          "disciplines": {
+            "halova": 12,
+            "tercova": 19,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "497"
+            },
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 7,
+              "bestValue": "543"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 19,
+              "bestValue": "631"
+            }
+          ]
+        },
+        {
+          "id": 1514,
+          "name": "Přeček Václav",
+          "slug": "precek-vaclav",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 30,
+          "divisions": {
+            "RL": 30
+          },
+          "disciplines": {
+            "halova": 11,
+            "tercova": 19,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 11,
+              "bestValue": "544"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 19,
+              "bestValue": "624"
+            }
+          ]
+        },
+        {
+          "id": 3469,
+          "name": "Tureničová Nikol",
+          "slug": "turenicova-nikol",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 22,
+          "divisions": {
+            "RL": 22
+          },
+          "disciplines": {
+            "halova": 11,
+            "tercova": 11,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 11,
+              "bestValue": "540"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 11,
+              "bestValue": "576"
+            }
+          ]
+        },
+        {
+          "id": 4489,
+          "name": "Kaválek Kryštof",
+          "slug": "kavalek-krystof",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 21,
+          "divisions": {
+            "RL": 21
+          },
+          "disciplines": {
+            "halova": 9,
+            "tercova": 12,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1707,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 9,
+              "bestValue": "501"
+            },
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 12,
+              "bestValue": "567"
+            }
+          ]
+        },
+        {
+          "id": 4752,
+          "name": "Mastná Magdalena",
+          "slug": "mastna-magdalena",
+          "ageCategories": [
+            "Žákyně U13"
+          ],
+          "totalRaces": 21,
+          "divisions": {
+            "RL": 21
+          },
+          "disciplines": {
+            "halova": 7,
+            "tercova": 14,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1708,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 7,
+              "bestValue": "471"
+            },
+            {
+              "bucketId": 1802,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "ŽWA720",
+              "races": 14,
+              "bestValue": "576"
+            }
+          ]
+        },
+        {
+          "id": 4493,
+          "name": "Šimandl Vojtěch",
+          "slug": "simandl-vojtech",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 19,
+          "divisions": {
+            "RL": 19
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 13,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1707,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "529"
+            },
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 13,
+              "bestValue": "592"
+            }
+          ]
+        },
+        {
+          "id": 2084,
+          "name": "Česelský Martin",
+          "slug": "ceselsky-martin",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 18,
+          "divisions": {
+            "RL": 18
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 12,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "511"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 12,
+              "bestValue": "604"
+            }
+          ]
+        },
+        {
+          "id": 2370,
+          "name": "Pokorná Sofie",
+          "slug": "pokorna-sofie",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 17,
+          "divisions": {
+            "RL": 17
+          },
+          "disciplines": {
+            "halova": 8,
+            "tercova": 9,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 8,
+              "bestValue": "535"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 9,
+              "bestValue": "569"
+            }
+          ]
+        },
+        {
+          "id": 4205,
+          "name": "Korbel Alexandr",
+          "slug": "korbel-alexandr",
+          "ageCategories": [
+            "Kadeti U18",
+            "Žáci U15"
+          ],
+          "totalRaces": 15,
+          "divisions": {
+            "RL": 15
+          },
+          "disciplines": {
+            "halova": 10,
+            "tercova": 5,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "518"
+            },
+            {
+              "bucketId": 1707,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "578"
+            },
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 5,
+              "bestValue": "645"
+            }
+          ]
+        },
+        {
+          "id": 4396,
+          "name": "Kružel Teodor",
+          "slug": "kruzel-teodor",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 15,
+          "divisions": {
+            "RL": 15
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 10,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "538"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 10,
+              "bestValue": "628"
+            }
+          ]
+        },
+        {
+          "id": 1892,
+          "name": "Nosek Alexandr",
+          "slug": "nosek-alexandr",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 15,
+          "divisions": {
+            "RL": 15
+          },
+          "disciplines": {
+            "halova": 7,
+            "tercova": 8,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 7,
+              "bestValue": "472"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 8,
+              "bestValue": "554"
+            }
+          ]
+        },
+        {
+          "id": 2822,
+          "name": "Severová Viktorie",
+          "slug": "severova-viktorie",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 15,
+          "divisions": {
+            "RL": 15
+          },
+          "disciplines": {
+            "halova": 8,
+            "tercova": 7,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 8,
+              "bestValue": "502"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 7,
+              "bestValue": "495"
+            }
+          ]
+        },
+        {
+          "id": 4491,
+          "name": "Kozáková Martina",
+          "slug": "kozakova-martina",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 13,
+          "divisions": {
+            "RL": 13
+          },
+          "disciplines": {
+            "halova": 9,
+            "tercova": 4,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 9,
+              "bestValue": "452"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 4,
+              "bestValue": "481"
+            }
+          ]
+        },
+        {
+          "id": 3706,
+          "name": "Vann Magdalena Elizabeth",
+          "slug": "vann-magdalena-elizabeth",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 13,
+          "divisions": {
+            "RL": 13
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 7,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "522"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 7,
+              "bestValue": "543"
+            }
+          ]
+        },
+        {
+          "id": 5015,
+          "name": "Dvořáková Nela",
+          "slug": "dvorakova-nela",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 12,
+          "divisions": {
+            "RL": 12
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 7,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "454"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 7,
+              "bestValue": "561"
+            }
+          ]
+        },
+        {
+          "id": 2821,
+          "name": "Lokaj Adam",
+          "slug": "lokaj-adam",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 12,
+          "divisions": {
+            "RL": 12
+          },
+          "disciplines": {
+            "halova": 4,
+            "tercova": 8,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "478"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 8,
+              "bestValue": "565"
+            }
+          ]
+        },
+        {
+          "id": 3862,
+          "name": "Čiklová Evelína",
+          "slug": "ciklova-evelina",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 12,
+          "divisions": {
+            "RL": 12
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 7,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "503"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 7,
+              "bestValue": "534"
+            }
+          ]
+        },
+        {
+          "id": 2085,
+          "name": "Kološ Ondřej",
+          "slug": "kolos-ondrej",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 11,
+          "divisions": {
+            "RL": 11
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 5,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "535"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 5,
+              "bestValue": "539"
+            }
+          ]
+        },
+        {
+          "id": 4395,
+          "name": "Harmečková Olívie",
+          "slug": "harmeckova-olivie",
+          "ageCategories": [
+            "Žákyně U13"
+          ],
+          "totalRaces": 10,
+          "divisions": {
+            "RL": 10
+          },
+          "disciplines": {
+            "halova": 3,
+            "tercova": 7,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1708,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 3,
+              "bestValue": "496"
+            },
+            {
+              "bucketId": 1802,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "ŽWA720",
+              "races": 7,
+              "bestValue": "602"
+            }
+          ]
+        },
+        {
+          "id": 4892,
+          "name": "Hlubková Julie",
+          "slug": "hlubkova-julie",
+          "ageCategories": [
+            "Žákyně U13"
+          ],
+          "totalRaces": 10,
+          "divisions": {
+            "RL": 10
+          },
+          "disciplines": {
+            "halova": 4,
+            "tercova": 6,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1708,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "480"
+            },
+            {
+              "bucketId": 1802,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "ŽWA720",
+              "races": 6,
+              "bestValue": "577"
+            }
+          ]
+        },
+        {
+          "id": 2086,
+          "name": "Valčík Tadeáš",
+          "slug": "valcik-tadeas",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 9,
+          "divisions": {
+            "RL": 9
+          },
+          "disciplines": {
+            "halova": 4,
+            "tercova": 5,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "494"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 5,
+              "bestValue": "495"
+            }
+          ]
+        },
+        {
+          "id": 3864,
+          "name": "Řeháková Karolína",
+          "slug": "rehakova-karolina",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 9,
+          "divisions": {
+            "RL": 9
+          },
+          "disciplines": {
+            "halova": 3,
+            "tercova": 6,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 3,
+              "bestValue": "434"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 6,
+              "bestValue": "472"
+            }
+          ]
+        },
+        {
+          "id": 4490,
+          "name": "Hlubek Matyáš",
+          "slug": "hlubek-matyas",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 8,
+          "divisions": {
+            "RL": 8
+          },
+          "disciplines": {
+            "halova": 2,
+            "tercova": 6,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1707,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 2,
+              "bestValue": "332"
+            },
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 6,
+              "bestValue": "447"
+            }
+          ]
+        },
+        {
+          "id": 2819,
+          "name": "Žáček Štěpán",
+          "slug": "zacek-stepan",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 8,
+          "divisions": {
+            "RL": 8
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 3,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "504"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 3,
+              "bestValue": "555"
+            }
+          ]
+        },
+        {
+          "id": 3993,
+          "name": "Langrová Elena",
+          "slug": "langrova-elena",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 6,
+          "divisions": {
+            "RL": 6
+          },
+          "disciplines": {
+            "halova": 2,
+            "tercova": 4,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 2,
+              "bestValue": "460"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 4,
+              "bestValue": "438"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+        {
+          "name": "Čerňanský Martin",
+          "limitMet": true,
+          "bestAverage": 647.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "M",
+              "code": "RU13M",
+              "average": 647.7,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Korbel Alexandr",
+          "limitMet": true,
+          "bestAverage": 643.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 643.0,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Fucimanová Sofi",
+          "limitMet": true,
+          "bestAverage": 627.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 627.7,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Kružel Teodor",
+          "limitMet": true,
+          "bestAverage": 618.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "RU18M",
+              "average": 618.7,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Mikulová Rozálie",
+          "limitMet": true,
+          "bestAverage": 612.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "W",
+              "code": "RU13W",
+              "average": 612.3,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Přeček Václav",
+          "limitMet": true,
+          "bestAverage": 604.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "RU18M",
+              "average": 604.3,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Harmečková Olívie",
+          "limitMet": true,
+          "bestAverage": 590.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "W",
+              "code": "RU13W",
+              "average": 590.0,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Šimandl Vojtěch",
+          "limitMet": true,
+          "bestAverage": 588.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 588.7,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Mikulová Stella",
+          "limitMet": true,
+          "bestAverage": 580.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "W",
+              "code": "RU13W",
+              "average": 580.0,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Mastná Magdalena",
+          "limitMet": true,
+          "bestAverage": 571.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "W",
+              "code": "RU13W",
+              "average": 571.0,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Kaválek Kryštof",
+          "limitMet": true,
+          "bestAverage": 562.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 562.0,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Tureničová Nikol",
+          "limitMet": true,
+          "bestAverage": 558.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "RU18W",
+              "average": 558.7,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Česelský Martin",
+          "limitMet": true,
+          "bestAverage": 558.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "RU18M",
+              "average": 558.0,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Hlubková Julie",
+          "limitMet": true,
+          "bestAverage": 556.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "W",
+              "code": "RU13W",
+              "average": 556.0,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Dvořáková Nela",
+          "limitMet": true,
+          "bestAverage": 534.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 534.3,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Pokorná Sofie",
+          "limitMet": false,
+          "bestAverage": 526.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "RU18W",
+              "average": 526.7,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Vann Magdalena Elizabeth",
+          "limitMet": false,
+          "bestAverage": 511.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 511.3,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Večerková Tea",
+          "limitMet": false,
+          "bestAverage": 511.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "RU18W",
+              "average": 511.0,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Čiklová Evelína",
+          "limitMet": false,
+          "bestAverage": 493.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "RU18W",
+              "average": 493.3,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Grygar Vojtěch",
+          "limitMet": false,
+          "bestAverage": 489.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "M",
+              "code": "RU13M",
+              "average": 489.7,
+              "limit": 550,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Kozáková Martina",
+          "limitMet": false,
+          "bestAverage": 464.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 464.0,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Severová Viktorie",
+          "limitMet": false,
+          "bestAverage": 460.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "RU18W",
+              "average": 460.7,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Hlubek Matyáš",
+          "limitMet": false,
+          "bestAverage": 435.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 435.3,
+              "limit": 550,
+              "met": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "name": "LK Votice",
+      "slug": "lk-votice",
+      "spsLabel": "SpS A",
+      "counts": {
+        "total6Plus": 21,
+        "divRL": 16,
+        "divKL": 0,
+        "divHL": 5,
+        "divTL": 0,
+        "discHalova": 21,
+        "discTercova": 21,
+        "discTerenni": 20,
+        "disc3D": 0,
+        "cupParticipants": 22,
+        "cupLimitMet": 10
+      },
+      "archers": [
+        {
+          "id": 3923,
+          "name": "Mašek Rostislav",
+          "slug": "masek-rostislav",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 31,
+          "divisions": {
+            "RL": 31
+          },
+          "disciplines": {
+            "halova": 9,
+            "tercova": 13,
+            "terenni": 9,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1707,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 9,
+              "bestValue": "510"
+            },
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 13,
+              "bestValue": "635"
+            },
+            {
+              "bucketId": 1730,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 9,
+              "bestValue": "305"
+            }
+          ]
+        },
+        {
+          "id": 3412,
+          "name": "Jíšová Zuzana",
+          "slug": "jisova-zuzana",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 30,
+          "divisions": {
+            "RL": 30
+          },
+          "disciplines": {
+            "halova": 8,
+            "tercova": 17,
+            "terenni": 5,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 8,
+              "bestValue": "513"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 17,
+              "bestValue": "592"
+            },
+            {
+              "bucketId": 1729,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 5,
+              "bestValue": "277"
+            }
+          ]
+        },
+        {
+          "id": 4478,
+          "name": "Mrázek Alois",
+          "slug": "mrazek-alois",
+          "ageCategories": [
+            "Žáci U13"
+          ],
+          "totalRaces": 27,
+          "divisions": {
+            "HL": 27
+          },
+          "disciplines": {
+            "halova": 9,
+            "tercova": 14,
+            "terenni": 4,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1718,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 9,
+              "bestValue": "421"
+            },
+            {
+              "bucketId": 1788,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "ŽWA720",
+              "races": 14,
+              "bestValue": "595"
+            },
+            {
+              "bucketId": 1740,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "T24 / ŽT24",
+              "races": 4,
+              "bestValue": "140"
+            }
+          ]
+        },
+        {
+          "id": 4476,
+          "name": "Masák Vojtěch",
+          "slug": "masak-vojtech",
+          "ageCategories": [
+            "Žáci U15",
+            "Kadeti U18"
+          ],
+          "totalRaces": 26,
+          "divisions": {
+            "RL": 26
+          },
+          "disciplines": {
+            "halova": 8,
+            "tercova": 13,
+            "terenni": 5,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1707,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 8,
+              "bestValue": "531"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 3,
+              "bestValue": "441"
+            },
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 10,
+              "bestValue": "591"
+            },
+            {
+              "bucketId": 1730,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 5,
+              "bestValue": "291"
+            }
+          ]
+        },
+        {
+          "id": 4474,
+          "name": "Masák Jakub",
+          "slug": "masak-jakub",
+          "ageCategories": [
+            "Žáci U13"
+          ],
+          "totalRaces": 25,
+          "divisions": {
+            "HL": 25
+          },
+          "disciplines": {
+            "halova": 8,
+            "tercova": 12,
+            "terenni": 5,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1718,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 8,
+              "bestValue": "466"
+            },
+            {
+              "bucketId": 1788,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "ŽWA720",
+              "races": 12,
+              "bestValue": "627"
+            },
+            {
+              "bucketId": 1740,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "T24 / ŽT24",
+              "races": 5,
+              "bestValue": "226"
+            }
+          ]
+        },
+        {
+          "id": 3652,
+          "name": "Klápová Renata",
+          "slug": "klapova-renata",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 24,
+          "divisions": {
+            "RL": 24
+          },
+          "disciplines": {
+            "halova": 8,
+            "tercova": 12,
+            "terenni": 4,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 8,
+              "bestValue": "544"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 12,
+              "bestValue": "624"
+            },
+            {
+              "bucketId": 1731,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 4,
+              "bestValue": "295"
+            }
+          ]
+        },
+        {
+          "id": 4477,
+          "name": "Jarolímek Šimon",
+          "slug": "jarolimek-simon",
+          "ageCategories": [
+            "Žáci U13"
+          ],
+          "totalRaces": 21,
+          "divisions": {
+            "HL": 21
+          },
+          "disciplines": {
+            "halova": 9,
+            "tercova": 10,
+            "terenni": 2,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1718,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 9,
+              "bestValue": "424"
+            },
+            {
+              "bucketId": 1788,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "ŽWA720",
+              "races": 10,
+              "bestValue": "519"
+            },
+            {
+              "bucketId": 1740,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "T24 / ŽT24",
+              "races": 2,
+              "bestValue": "114"
+            }
+          ]
+        },
+        {
+          "id": 5263,
+          "name": "Kočová Lucie",
+          "slug": "kocova-lucie",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 19,
+          "divisions": {
+            "RL": 19
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 10,
+            "terenni": 4,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "455"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 10,
+              "bestValue": "605"
+            },
+            {
+              "bucketId": 1731,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 4,
+              "bestValue": "280"
+            }
+          ]
+        },
+        {
+          "id": 1723,
+          "name": "Pavlas Vít",
+          "slug": "pavlas-vit",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 19,
+          "divisions": {
+            "RL": 19
+          },
+          "disciplines": {
+            "halova": 7,
+            "tercova": 8,
+            "terenni": 4,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 7,
+              "bestValue": "536"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 8,
+              "bestValue": "487"
+            },
+            {
+              "bucketId": 1728,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 4,
+              "bestValue": "295"
+            }
+          ]
+        },
+        {
+          "id": 3452,
+          "name": "Rohlík Marek",
+          "slug": "rohlik-marek",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 19,
+          "divisions": {
+            "RL": 19
+          },
+          "disciplines": {
+            "halova": 7,
+            "tercova": 8,
+            "terenni": 4,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1707,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 7,
+              "bestValue": "440"
+            },
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 8,
+              "bestValue": "517"
+            },
+            {
+              "bucketId": 1730,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 4,
+              "bestValue": "236"
+            }
+          ]
+        },
+        {
+          "id": 1840,
+          "name": "Zaujec Teodor",
+          "slug": "zaujec-teodor",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 19,
+          "divisions": {
+            "RL": 19
+          },
+          "disciplines": {
+            "halova": 8,
+            "tercova": 7,
+            "terenni": 4,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 8,
+              "bestValue": "498"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 7,
+              "bestValue": "470"
+            },
+            {
+              "bucketId": 1728,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 4,
+              "bestValue": "244"
+            }
+          ]
+        },
+        {
+          "id": 4472,
+          "name": "Šmejkal Pavel",
+          "slug": "smejkal-pavel",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 19,
+          "divisions": {
+            "RL": 19
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 9,
+            "terenni": 4,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1707,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "518"
+            },
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 9,
+              "bestValue": "621"
+            },
+            {
+              "bucketId": 1730,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 4,
+              "bestValue": "299"
+            }
+          ]
+        },
+        {
+          "id": 4187,
+          "name": "Klápa Dalibor",
+          "slug": "klapa-dalibor",
+          "ageCategories": [
+            "Žáci U13"
+          ],
+          "totalRaces": 16,
+          "divisions": {
+            "RL": 16
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 5,
+            "terenni": 6,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1704,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "456"
+            },
+            {
+              "bucketId": 1785,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "ŽWA720",
+              "races": 5,
+              "bestValue": "566"
+            },
+            {
+              "bucketId": 1732,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "T24 / ŽT24",
+              "races": 6,
+              "bestValue": "223"
+            }
+          ]
+        },
+        {
+          "id": 3921,
+          "name": "Kubíčková Valerie",
+          "slug": "kubickova-valerie",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 16,
+          "divisions": {
+            "RL": 16
+          },
+          "disciplines": {
+            "halova": 4,
+            "tercova": 9,
+            "terenni": 3,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "508"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 9,
+              "bestValue": "587"
+            },
+            {
+              "bucketId": 1731,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 3,
+              "bestValue": "273"
+            }
+          ]
+        },
+        {
+          "id": 4215,
+          "name": "Havlíčková Magdaléna",
+          "slug": "havlickova-magdalena",
+          "ageCategories": [
+            "Žákyně U13"
+          ],
+          "totalRaces": 15,
+          "divisions": {
+            "RL": 15
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 6,
+            "terenni": 3,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1708,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "474"
+            },
+            {
+              "bucketId": 1802,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "ŽWA720",
+              "races": 6,
+              "bestValue": "526"
+            },
+            {
+              "bucketId": 1733,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "T24 / ŽT24",
+              "races": 3,
+              "bestValue": "207"
+            }
+          ]
+        },
+        {
+          "id": 2439,
+          "name": "Vurm Matyáš",
+          "slug": "vurm-matyas",
+          "ageCategories": [
+            "Žáci U13"
+          ],
+          "totalRaces": 14,
+          "divisions": {
+            "RL": 14
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 4,
+            "terenni": 4,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1704,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "515"
+            },
+            {
+              "bucketId": 1785,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "ŽWA720",
+              "races": 4,
+              "bestValue": "568"
+            },
+            {
+              "bucketId": 1732,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "T24 / ŽT24",
+              "races": 4,
+              "bestValue": "242"
+            }
+          ]
+        },
+        {
+          "id": 4893,
+          "name": "Běhounek Pavel",
+          "slug": "behounek-pavel",
+          "ageCategories": [
+            "Žáci U13"
+          ],
+          "totalRaces": 13,
+          "divisions": {
+            "HL": 13
+          },
+          "disciplines": {
+            "halova": 4,
+            "tercova": 7,
+            "terenni": 2,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1718,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "377"
+            },
+            {
+              "bucketId": 1788,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "ŽWA720",
+              "races": 7,
+              "bestValue": "542"
+            },
+            {
+              "bucketId": 1740,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "T24 / ŽT24",
+              "races": 2,
+              "bestValue": "118"
+            }
+          ]
+        },
+        {
+          "id": 788,
+          "name": "Veselý Filip",
+          "slug": "vesely-filip",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 13,
+          "divisions": {
+            "RL": 13
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 4,
+            "terenni": 3,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "524"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 4,
+              "bestValue": "559"
+            },
+            {
+              "bucketId": 1728,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 3,
+              "bestValue": "313"
+            }
+          ]
+        },
+        {
+          "id": 3922,
+          "name": "Pitelková Adéla",
+          "slug": "pitelkova-adela",
+          "ageCategories": [
+            "Žákyně U13"
+          ],
+          "totalRaces": 11,
+          "divisions": {
+            "RL": 11
+          },
+          "disciplines": {
+            "halova": 1,
+            "tercova": 5,
+            "terenni": 5,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1708,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 1,
+              "bestValue": "438"
+            },
+            {
+              "bucketId": 1802,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "ŽWA720",
+              "races": 5,
+              "bestValue": "547"
+            },
+            {
+              "bucketId": 1733,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "T24 / ŽT24",
+              "races": 5,
+              "bestValue": "218"
+            }
+          ]
+        },
+        {
+          "id": 1267,
+          "name": "Veselý Tomáš",
+          "slug": "vesely-tomas",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 10,
+          "divisions": {
+            "RL": 10
+          },
+          "disciplines": {
+            "halova": 4,
+            "tercova": 3,
+            "terenni": 3,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "439"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 3,
+              "bestValue": "400"
+            },
+            {
+              "bucketId": 1728,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 3,
+              "bestValue": "183"
+            }
+          ]
+        },
+        {
+          "id": 5139,
+          "name": "Červenka Daniel",
+          "slug": "cervenka-daniel",
+          "ageCategories": [
+            "Žáci U13"
+          ],
+          "totalRaces": 8,
+          "divisions": {
+            "HL": 8
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 2,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1718,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "406"
+            },
+            {
+              "bucketId": 1788,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "ŽWA720",
+              "races": 2,
+              "bestValue": "439"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+        {
+          "name": "Mašek Rostislav",
+          "limitMet": true,
+          "bestAverage": 631.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 631.3,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Klápová Renata",
+          "limitMet": true,
+          "bestAverage": 617.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 617.0,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Šmejkal Pavel",
+          "limitMet": true,
+          "bestAverage": 612.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 612.7,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Kočová Lucie",
+          "limitMet": true,
+          "bestAverage": 598.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 598.7,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Kubíčková Valerie",
+          "limitMet": true,
+          "bestAverage": 583.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 583.7,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Masák Vojtěch",
+          "limitMet": true,
+          "bestAverage": 573.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 573.3,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Klápa Dalibor",
+          "limitMet": true,
+          "bestAverage": 562.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "M",
+              "code": "RU13M",
+              "average": 562.0,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Jíšová Zuzana",
+          "limitMet": true,
+          "bestAverage": 560.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "RU18W",
+              "average": 560.3,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Vurm Matyáš",
+          "limitMet": true,
+          "bestAverage": 556.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "M",
+              "code": "RU13M",
+              "average": 556.0,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Pitelková Adéla",
+          "limitMet": true,
+          "bestAverage": 536.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "W",
+              "code": "RU13W",
+              "average": 536.7,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Masák Jakub",
+          "limitMet": false,
+          "bestAverage": 620.0,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U13",
+              "gender": "M",
+              "code": "BU13M",
+              "average": 620.0,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Mrázek Alois",
+          "limitMet": false,
+          "bestAverage": 583.7,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U13",
+              "gender": "M",
+              "code": "BU13M",
+              "average": 583.7,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Veselý Filip",
+          "limitMet": false,
+          "bestAverage": 532.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "RU18M",
+              "average": 532.7,
+              "limit": 550,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Běhounek Pavel",
+          "limitMet": false,
+          "bestAverage": 526.3,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U13",
+              "gender": "M",
+              "code": "BU13M",
+              "average": 526.3,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Havlíčková Magdaléna",
+          "limitMet": false,
+          "bestAverage": 514.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "W",
+              "code": "RU13W",
+              "average": 514.3,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Masák Matěj",
+          "limitMet": false,
+          "bestAverage": 514.0,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U13",
+              "gender": "M",
+              "code": "BU13M",
+              "average": 514.0,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Rohlík Marek",
+          "limitMet": false,
+          "bestAverage": 508.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 508.3,
+              "limit": 550,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Jarolímek Šimon",
+          "limitMet": false,
+          "bestAverage": 506.7,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U13",
+              "gender": "M",
+              "code": "BU13M",
+              "average": 506.7,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Pavlas Vít",
+          "limitMet": false,
+          "bestAverage": 458.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "RU18M",
+              "average": 458.3,
+              "limit": 550,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Zaujec Teodor",
+          "limitMet": false,
+          "bestAverage": 453.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "RU18M",
+              "average": 453.3,
+              "limit": 550,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Bláhová Karolína",
+          "limitMet": false,
+          "bestAverage": 378.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "W",
+              "code": "RU13W",
+              "average": 378.0,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Kolková Julie",
+          "limitMet": false,
+          "bestAverage": 374.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 374.7,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "MKM Odolena Voda",
+      "slug": "mkm-odolena-voda",
+      "spsLabel": "SpS B",
+      "counts": {
+        "total6Plus": 17,
+        "divRL": 9,
+        "divKL": 1,
+        "divHL": 8,
+        "divTL": 0,
+        "discHalova": 16,
+        "discTercova": 16,
+        "discTerenni": 15,
+        "disc3D": 1,
+        "cupParticipants": 10,
+        "cupLimitMet": 5
+      },
+      "archers": [
+        {
+          "id": 3748,
+          "name": "Pinková Štěpánka",
+          "slug": "pinkova-stepanka",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 30,
+          "divisions": {
+            "RL": 30
+          },
+          "disciplines": {
+            "halova": 11,
+            "tercova": 14,
+            "terenni": 5,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 11,
+              "bestValue": "539"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 14,
+              "bestValue": "579"
+            },
+            {
+              "bucketId": 1729,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 5,
+              "bestValue": "296"
+            }
+          ]
+        },
+        {
+          "id": 3106,
+          "name": "Zadáková Karolína",
+          "slug": "zadakova-karolina",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 27,
+          "divisions": {
+            "RL": 27
+          },
+          "disciplines": {
+            "halova": 10,
+            "tercova": 14,
+            "terenni": 3,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 10,
+              "bestValue": "525"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 14,
+              "bestValue": "549"
+            },
+            {
+              "bucketId": 1731,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 3,
+              "bestValue": "258"
+            }
+          ]
+        },
+        {
+          "id": 5086,
+          "name": "Marcinková Emma",
+          "slug": "marcinkova-emma",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 20,
+          "divisions": {
+            "RL": 20
+          },
+          "disciplines": {
+            "halova": 7,
+            "tercova": 9,
+            "terenni": 4,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 7,
+              "bestValue": "280"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 9,
+              "bestValue": "569"
+            },
+            {
+              "bucketId": 1731,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 4,
+              "bestValue": "246"
+            }
+          ]
+        },
+        {
+          "id": 3321,
+          "name": "Buňatová Ema Ola",
+          "slug": "bunatova-ema-ola",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 16,
+          "divisions": {
+            "HL": 16
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 6,
+            "terenni": 4,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1674,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "452"
+            },
+            {
+              "bucketId": 1787,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 6,
+              "bestValue": "620"
+            },
+            {
+              "bucketId": 1739,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 4,
+              "bestValue": "265"
+            }
+          ]
+        },
+        {
+          "id": 4445,
+          "name": "Horešovská Edita",
+          "slug": "horesovska-edita",
+          "ageCategories": [
+            "Žákyně U13"
+          ],
+          "totalRaces": 15,
+          "divisions": {
+            "HL": 15
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 5,
+            "terenni": 3,
+            "3d": 2
+          },
+          "rankings": [
+            {
+              "bucketId": 1710,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "499"
+            },
+            {
+              "bucketId": 1808,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "ŽWA720",
+              "races": 5,
+              "bestValue": "647"
+            },
+            {
+              "bucketId": 1741,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "T24 / ŽT24",
+              "races": 3,
+              "bestValue": "236"
+            },
+            {
+              "bucketId": 1680,
+              "discipline": "3D lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "3D",
+              "races": 2,
+              "bestValue": "6.40"
+            }
+          ]
+        },
+        {
+          "id": 2034,
+          "name": "Sádovský Zdeněk",
+          "slug": "sadovsky-zdenek",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 14,
+          "divisions": {
+            "RL": 14
+          },
+          "disciplines": {
+            "halova": 7,
+            "tercova": 4,
+            "terenni": 3,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 7,
+              "bestValue": "465"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 4,
+              "bestValue": "508"
+            },
+            {
+              "bucketId": 1728,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 3,
+              "bestValue": "278"
+            }
+          ]
+        },
+        {
+          "id": 2640,
+          "name": "Makovcová Zuzana",
+          "slug": "makovcova-zuzana",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 13,
+          "divisions": {
+            "HL": 13
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 5,
+            "terenni": 2,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1674,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "422"
+            },
+            {
+              "bucketId": 1787,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 5,
+              "bestValue": "513"
+            },
+            {
+              "bucketId": 1739,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 2,
+              "bestValue": "161"
+            }
+          ]
+        },
+        {
+          "id": 2641,
+          "name": "Skřivánková Hana",
+          "slug": "skrivankova-hana",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 13,
+          "divisions": {
+            "RL": 13
+          },
+          "disciplines": {
+            "halova": 7,
+            "tercova": 3,
+            "terenni": 3,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 7,
+              "bestValue": "462"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 3,
+              "bestValue": "538"
+            },
+            {
+              "bucketId": 1729,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 3,
+              "bestValue": "251"
+            }
+          ]
+        },
+        {
+          "id": 4069,
+          "name": "Hušková Hermína",
+          "slug": "huskova-hermina",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 11,
+          "divisions": {
+            "RL": 11
+          },
+          "disciplines": {
+            "halova": 0,
+            "tercova": 6,
+            "terenni": 5,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 6,
+              "bestValue": "547"
+            },
+            {
+              "bucketId": 1731,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 5,
+              "bestValue": "226"
+            }
+          ]
+        },
+        {
+          "id": 4448,
+          "name": "Mikéska Samuel",
+          "slug": "mikeska-samuel",
+          "ageCategories": [
+            "Kadeti U18",
+            "Žáci U15"
+          ],
+          "totalRaces": 11,
+          "divisions": {
+            "KL": 11
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 1,
+            "terenni": 4,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1719,
+              "discipline": "Halová lukostřelba",
+              "division": "KL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 1,
+              "bestValue": "425"
+            },
+            {
+              "bucketId": 1761,
+              "discipline": "Halová lukostřelba",
+              "division": "KL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "521"
+            },
+            {
+              "bucketId": 1811,
+              "discipline": "Terčová lukostřelba",
+              "division": "KL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 1,
+              "bestValue": "379"
+            },
+            {
+              "bucketId": 1823,
+              "discipline": "Terénní lukostřelba",
+              "division": "KL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 4,
+              "bestValue": "259"
+            }
+          ]
+        },
+        {
+          "id": 4313,
+          "name": "Zelová Natálie",
+          "slug": "zelova-natalie",
+          "ageCategories": [
+            "Žákyně U13"
+          ],
+          "totalRaces": 9,
+          "divisions": {
+            "RL": 9
+          },
+          "disciplines": {
+            "halova": 1,
+            "tercova": 8,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1708,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 1,
+              "bestValue": "489"
+            },
+            {
+              "bucketId": 1802,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "ŽWA720",
+              "races": 8,
+              "bestValue": "554"
+            }
+          ]
+        },
+        {
+          "id": 2646,
+          "name": "Adamec Štěpán",
+          "slug": "adamec-stepan",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 8,
+          "divisions": {
+            "HL": 8
+          },
+          "disciplines": {
+            "halova": 4,
+            "tercova": 1,
+            "terenni": 3,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1717,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "425"
+            },
+            {
+              "bucketId": 1848,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 1,
+              "bestValue": "42"
+            },
+            {
+              "bucketId": 1796,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 3,
+              "bestValue": "227"
+            }
+          ]
+        },
+        {
+          "id": 2042,
+          "name": "Kadlec Marek",
+          "slug": "kadlec-marek",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 8,
+          "divisions": {
+            "HL": 8
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 1,
+            "terenni": 2,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1709,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "304"
+            },
+            {
+              "bucketId": 1807,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 1,
+              "bestValue": "354"
+            },
+            {
+              "bucketId": 1795,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 2,
+              "bestValue": "182"
+            }
+          ]
+        },
+        {
+          "id": 5087,
+          "name": "Novák Josef",
+          "slug": "novak-josef",
+          "ageCategories": [
+            "Žáci U13"
+          ],
+          "totalRaces": 8,
+          "divisions": {
+            "HL": 3,
+            "RL": 5
+          },
+          "disciplines": {
+            "halova": 2,
+            "tercova": 4,
+            "terenni": 2,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1718,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 2,
+              "bestValue": "293"
+            },
+            {
+              "bucketId": 1785,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "ŽWA720",
+              "races": 3,
+              "bestValue": "360"
+            },
+            {
+              "bucketId": 1788,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "ŽWA720",
+              "races": 1,
+              "bestValue": "408"
+            },
+            {
+              "bucketId": 1732,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "T24 / ŽT24",
+              "races": 2,
+              "bestValue": "155"
+            }
+          ]
+        },
+        {
+          "id": 2823,
+          "name": "Houdek Jakub",
+          "slug": "houdek-jakub",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 7,
+          "divisions": {
+            "HL": 7
+          },
+          "disciplines": {
+            "halova": 4,
+            "tercova": 1,
+            "terenni": 2,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1709,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "254"
+            },
+            {
+              "bucketId": 1807,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 1,
+              "bestValue": "252"
+            },
+            {
+              "bucketId": 1795,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 2,
+              "bestValue": "143"
+            }
+          ]
+        },
+        {
+          "id": 3478,
+          "name": "Turba Maxim",
+          "slug": "turba-maxim",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 7,
+          "divisions": {
+            "HL": 7
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 0,
+            "terenni": 2,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1709,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "334"
+            },
+            {
+              "bucketId": 1795,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 2,
+              "bestValue": "144"
+            }
+          ]
+        },
+        {
+          "id": 2826,
+          "name": "Pallová Amálie",
+          "slug": "pallova-amalie",
+          "ageCategories": [
+            "Žákyně U13"
+          ],
+          "totalRaces": 6,
+          "divisions": {
+            "RL": 6
+          },
+          "disciplines": {
+            "halova": 3,
+            "tercova": 3,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1708,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 3,
+              "bestValue": "481"
+            },
+            {
+              "bucketId": 1802,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "ŽWA720",
+              "races": 3,
+              "bestValue": "511"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+        {
+          "name": "Marcinková Emma",
+          "limitMet": true,
+          "bestAverage": 558.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 558.0,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Pinková Štěpánka",
+          "limitMet": true,
+          "bestAverage": 550.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "RU18W",
+              "average": 550.3,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Zadáková Karolína",
+          "limitMet": true,
+          "bestAverage": 547.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 547.0,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Zelová Natálie",
+          "limitMet": true,
+          "bestAverage": 538.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "W",
+              "code": "RU13W",
+              "average": 538.7,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Hušková Hermína",
+          "limitMet": true,
+          "bestAverage": 536.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 536.7,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Horešovská Edita",
+          "limitMet": false,
+          "bestAverage": 640.3,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U13",
+              "gender": "W",
+              "code": "BU13W",
+              "average": 640.3,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Buňatová Ema Ola",
+          "limitMet": false,
+          "bestAverage": 591.3,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "BU15W",
+              "average": 591.3,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Makovcová Zuzana",
+          "limitMet": false,
+          "bestAverage": 483.7,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "BU15W",
+              "average": 483.7,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Pallová Amálie",
+          "limitMet": false,
+          "bestAverage": 477.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "W",
+              "code": "RU13W",
+              "average": 477.3,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Novák Josef",
+          "limitMet": false,
+          "bestAverage": 250.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "M",
+              "code": "RU13M",
+              "average": 250.3,
+              "limit": 550,
+              "met": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "SK Start Praha",
+      "slug": "sk-start-praha",
+      "spsLabel": "SpS A",
+      "counts": {
+        "total6Plus": 16,
+        "divRL": 10,
+        "divKL": 3,
+        "divHL": 3,
+        "divTL": 0,
+        "discHalova": 16,
+        "discTercova": 15,
+        "discTerenni": 5,
+        "disc3D": 1,
+        "cupParticipants": 15,
+        "cupLimitMet": 11
+      },
+      "archers": [
+        {
+          "id": 4190,
+          "name": "Krčková Adéla",
+          "slug": "krckova-adela",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 36,
+          "divisions": {
+            "HL": 36
+          },
+          "disciplines": {
+            "halova": 16,
+            "tercova": 16,
+            "terenni": 4,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1706,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 16,
+              "bestValue": "492"
+            },
+            {
+              "bucketId": 1842,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 16,
+              "bestValue": "603"
+            },
+            {
+              "bucketId": 1738,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 4,
+              "bestValue": "273"
+            }
+          ]
+        },
+        {
+          "id": 3595,
+          "name": "Kulovaná Nina",
+          "slug": "kulovana-nina",
+          "ageCategories": [
+            "Kadetky U18",
+            "Žákyně U15"
+          ],
+          "totalRaces": 33,
+          "divisions": {
+            "RL": 33
+          },
+          "disciplines": {
+            "halova": 14,
+            "tercova": 19,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "550"
+            },
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 9,
+              "bestValue": "577"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 8,
+              "bestValue": "575"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 11,
+              "bestValue": "670"
+            }
+          ]
+        },
+        {
+          "id": 3244,
+          "name": "Prejdová Mia",
+          "slug": "prejdova-mia",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 33,
+          "divisions": {
+            "RL": 33
+          },
+          "disciplines": {
+            "halova": 15,
+            "tercova": 18,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 15,
+              "bestValue": "555"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 18,
+              "bestValue": "628"
+            }
+          ]
+        },
+        {
+          "id": 3249,
+          "name": "Javůrková Ema",
+          "slug": "javurkova-ema",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 31,
+          "divisions": {
+            "RL": 31
+          },
+          "disciplines": {
+            "halova": 14,
+            "tercova": 16,
+            "terenni": 1,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 14,
+              "bestValue": "555"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 16,
+              "bestValue": "633"
+            },
+            {
+              "bucketId": 1729,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 1,
+              "bestValue": "300"
+            }
+          ]
+        },
+        {
+          "id": 3092,
+          "name": "Štrupl Milan",
+          "slug": "strupl-milan",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 31,
+          "divisions": {
+            "RL": 31
+          },
+          "disciplines": {
+            "halova": 12,
+            "tercova": 19,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 12,
+              "bestValue": "545"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 19,
+              "bestValue": "586"
+            }
+          ]
+        },
+        {
+          "id": 4104,
+          "name": "Hrdinová Anna",
+          "slug": "hrdinova-anna",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 30,
+          "divisions": {
+            "RL": 30
+          },
+          "disciplines": {
+            "halova": 11,
+            "tercova": 16,
+            "terenni": 3,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 11,
+              "bestValue": "550"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 16,
+              "bestValue": "625"
+            },
+            {
+              "bucketId": 1729,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 3,
+              "bestValue": "321"
+            }
+          ]
+        },
+        {
+          "id": 3710,
+          "name": "Kadlecová Anna",
+          "slug": "kadlecova-anna",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 28,
+          "divisions": {
+            "RL": 28
+          },
+          "disciplines": {
+            "halova": 14,
+            "tercova": 14,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 14,
+              "bestValue": "578"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 14,
+              "bestValue": "649"
+            }
+          ]
+        },
+        {
+          "id": 4830,
+          "name": "Krček David",
+          "slug": "krcek-david",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 26,
+          "divisions": {
+            "KL": 26
+          },
+          "disciplines": {
+            "halova": 10,
+            "tercova": 16,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1719,
+              "discipline": "Halová lukostřelba",
+              "division": "KL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 10,
+              "bestValue": "545"
+            },
+            {
+              "bucketId": 1782,
+              "discipline": "Terčová lukostřelba",
+              "division": "KL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 16,
+              "bestValue": "612"
+            }
+          ]
+        },
+        {
+          "id": 2585,
+          "name": "Jackiv Nikolaj",
+          "slug": "jackiv-nikolaj",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 22,
+          "divisions": {
+            "RL": 22
+          },
+          "disciplines": {
+            "halova": 9,
+            "tercova": 13,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 9,
+              "bestValue": "512"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 13,
+              "bestValue": "599"
+            }
+          ]
+        },
+        {
+          "id": 4577,
+          "name": "Chorošenin Jan",
+          "slug": "chorosenin-jan",
+          "ageCategories": [
+            "Žáci U13",
+            "Žáci U15"
+          ],
+          "totalRaces": 21,
+          "divisions": {
+            "RL": 21
+          },
+          "disciplines": {
+            "halova": 8,
+            "tercova": 10,
+            "terenni": 3,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1704,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 8,
+              "bestValue": "540"
+            },
+            {
+              "bucketId": 1785,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "ŽWA720",
+              "races": 8,
+              "bestValue": "630"
+            },
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 2,
+              "bestValue": "515"
+            },
+            {
+              "bucketId": 1732,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "T24 / ŽT24",
+              "races": 3,
+              "bestValue": "296"
+            }
+          ]
+        },
+        {
+          "id": 5011,
+          "name": "Ciler Vendelín Ňima",
+          "slug": "ciler-vendelin-nima",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 19,
+          "divisions": {
+            "RL": 19
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 13,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1707,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "506"
+            },
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 13,
+              "bestValue": "631"
+            }
+          ]
+        },
+        {
+          "id": 4865,
+          "name": "Havlíčková Anika",
+          "slug": "havlickova-anika",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 19,
+          "divisions": {
+            "KL": 19
+          },
+          "disciplines": {
+            "halova": 9,
+            "tercova": 10,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1720,
+              "discipline": "Halová lukostřelba",
+              "division": "KL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 9,
+              "bestValue": "529"
+            },
+            {
+              "bucketId": 1834,
+              "discipline": "Terčová lukostřelba",
+              "division": "KL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 10,
+              "bestValue": "622"
+            }
+          ]
+        },
+        {
+          "id": 4867,
+          "name": "Rašovská Adéla",
+          "slug": "rasovska-adela",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 19,
+          "divisions": {
+            "KL": 19
+          },
+          "disciplines": {
+            "halova": 9,
+            "tercova": 10,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1720,
+              "discipline": "Halová lukostřelba",
+              "division": "KL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 9,
+              "bestValue": "530"
+            },
+            {
+              "bucketId": 1834,
+              "discipline": "Terčová lukostřelba",
+              "division": "KL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 10,
+              "bestValue": "589"
+            }
+          ]
+        },
+        {
+          "id": 2735,
+          "name": "Hranička Matěj",
+          "slug": "hranicka-matej",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 18,
+          "divisions": {
+            "HL": 18
+          },
+          "disciplines": {
+            "halova": 8,
+            "tercova": 5,
+            "terenni": 3,
+            "3d": 2
+          },
+          "rankings": [
+            {
+              "bucketId": 1709,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 8,
+              "bestValue": "441"
+            },
+            {
+              "bucketId": 1807,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 5,
+              "bestValue": "528"
+            },
+            {
+              "bucketId": 1795,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 3,
+              "bestValue": "249"
+            },
+            {
+              "bucketId": 1827,
+              "discipline": "3D lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "3D",
+              "races": 2,
+              "bestValue": "7.75"
+            }
+          ]
+        },
+        {
+          "id": 1638,
+          "name": "Putna Vojtěch",
+          "slug": "putna-vojtech",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 15,
+          "divisions": {
+            "HL": 15
+          },
+          "disciplines": {
+            "halova": 8,
+            "tercova": 7,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1709,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 8,
+              "bestValue": "442"
+            },
+            {
+              "bucketId": 1807,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 7,
+              "bestValue": "510"
+            }
+          ]
+        },
+        {
+          "id": 4533,
+          "name": "Majer Martin",
+          "slug": "majer-martin",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 7,
+          "divisions": {
+            "RL": 7
+          },
+          "disciplines": {
+            "halova": 7,
+            "tercova": 0,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 7,
+              "bestValue": "403"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+        {
+          "name": "Kulovaná Nina",
+          "limitMet": true,
+          "bestAverage": 665.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 665.0,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Kadlecová Anna",
+          "limitMet": true,
+          "bestAverage": 634.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "RU18W",
+              "average": 634.7,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Javůrková Ema",
+          "limitMet": true,
+          "bestAverage": 623.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "RU18W",
+              "average": 623.0,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Ciler Vendelín Ňima",
+          "limitMet": true,
+          "bestAverage": 622.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 622.3,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Prejdová Mia",
+          "limitMet": true,
+          "bestAverage": 620.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "RU18W",
+              "average": 620.0,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Havlíčková Anika",
+          "limitMet": true,
+          "bestAverage": 615.7,
+          "entries": [
+            {
+              "division": "C",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "CU18W",
+              "average": 615.7,
+              "limit": 580,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Chorošenin Jan",
+          "limitMet": true,
+          "bestAverage": 613.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "M",
+              "code": "RU13M",
+              "average": 613.3,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Krček David",
+          "limitMet": true,
+          "bestAverage": 604.7,
+          "entries": [
+            {
+              "division": "C",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "CU18M",
+              "average": 604.7,
+              "limit": 600,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Hrdinová Anna",
+          "limitMet": true,
+          "bestAverage": 598.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "RU18W",
+              "average": 598.0,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Štrupl Milan",
+          "limitMet": true,
+          "bestAverage": 575.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "RU18M",
+              "average": 575.7,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Jackiv Nikolaj",
+          "limitMet": true,
+          "bestAverage": 568.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "RU18M",
+              "average": 568.7,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Krčková Adéla",
+          "limitMet": false,
+          "bestAverage": 602.7,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "BU18W",
+              "average": 602.7,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Hranička Matěj",
+          "limitMet": false,
+          "bestAverage": 516.3,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "BU18M",
+              "average": 516.3,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Rašovská Adéla",
+          "limitMet": false,
+          "bestAverage": 514.7,
+          "entries": [
+            {
+              "division": "C",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "CU18W",
+              "average": 514.7,
+              "limit": 580,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Putna Vojtěch",
+          "limitMet": false,
+          "bestAverage": 467.7,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "BU18M",
+              "average": 467.7,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "1. LK Plzeň 1935",
+      "slug": "1-lk-plzen-1935",
+      "spsLabel": "SpS A",
+      "counts": {
+        "total6Plus": 13,
+        "divRL": 10,
+        "divKL": 0,
+        "divHL": 3,
+        "divTL": 0,
+        "discHalova": 13,
+        "discTercova": 12,
+        "discTerenni": 7,
+        "disc3D": 0,
+        "cupParticipants": 11,
+        "cupLimitMet": 6
+      },
+      "archers": [
+        {
+          "id": 3538,
+          "name": "Caltová Eliška",
+          "slug": "caltova-eliska",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 31,
+          "divisions": {
+            "RL": 31
+          },
+          "disciplines": {
+            "halova": 7,
+            "tercova": 20,
+            "terenni": 4,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 7,
+              "bestValue": "511"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 20,
+              "bestValue": "590"
+            },
+            {
+              "bucketId": 1729,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 4,
+              "bestValue": "303"
+            }
+          ]
+        },
+        {
+          "id": 1570,
+          "name": "Duchek Matěj",
+          "slug": "duchek-matej",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 24,
+          "divisions": {
+            "RL": 24
+          },
+          "disciplines": {
+            "halova": 8,
+            "tercova": 13,
+            "terenni": 3,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 8,
+              "bestValue": "520"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 13,
+              "bestValue": "600"
+            },
+            {
+              "bucketId": 1728,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 3,
+              "bestValue": "311"
+            }
+          ]
+        },
+        {
+          "id": 2934,
+          "name": "Kadera Jakub",
+          "slug": "kadera-jakub",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 24,
+          "divisions": {
+            "RL": 24
+          },
+          "disciplines": {
+            "halova": 7,
+            "tercova": 13,
+            "terenni": 4,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 7,
+              "bestValue": "507"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 13,
+              "bestValue": "589"
+            },
+            {
+              "bucketId": 1728,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 4,
+              "bestValue": "306"
+            }
+          ]
+        },
+        {
+          "id": 2918,
+          "name": "Veselý Pavel",
+          "slug": "vesely-pavel",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 17,
+          "divisions": {
+            "RL": 17
+          },
+          "disciplines": {
+            "halova": 8,
+            "tercova": 6,
+            "terenni": 3,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1707,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 8,
+              "bestValue": "562"
+            },
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 6,
+              "bestValue": "668"
+            },
+            {
+              "bucketId": 1730,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 3,
+              "bestValue": "345"
+            }
+          ]
+        },
+        {
+          "id": 4142,
+          "name": "Dvořáčková Tina",
+          "slug": "dvorackova-tina",
+          "ageCategories": [
+            "Žákyně U13"
+          ],
+          "totalRaces": 13,
+          "divisions": {
+            "RL": 13
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 7,
+            "terenni": 1,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1708,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "450"
+            },
+            {
+              "bucketId": 1802,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "ŽWA720",
+              "races": 7,
+              "bestValue": "529"
+            },
+            {
+              "bucketId": 1733,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "T24 / ŽT24",
+              "races": 1,
+              "bestValue": "65"
+            }
+          ]
+        },
+        {
+          "id": 5243,
+          "name": "Hradílková Karolína",
+          "slug": "hradilkova-karolina",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 12,
+          "divisions": {
+            "HL": 12
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 5,
+            "terenni": 1,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1674,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "458"
+            },
+            {
+              "bucketId": 1787,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 5,
+              "bestValue": "543"
+            },
+            {
+              "bucketId": 1739,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 1,
+              "bestValue": "188"
+            }
+          ]
+        },
+        {
+          "id": 2913,
+          "name": "Šantová Lýdia",
+          "slug": "santova-lydia",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 12,
+          "divisions": {
+            "RL": 12
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 6,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "525"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 6,
+              "bestValue": "568"
+            }
+          ]
+        },
+        {
+          "id": 2007,
+          "name": "Kvasničková Stela",
+          "slug": "kvasnickova-stela",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 11,
+          "divisions": {
+            "RL": 11
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 6,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "513"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 6,
+              "bestValue": "530"
+            }
+          ]
+        },
+        {
+          "id": 3012,
+          "name": "Mišoň Dominik",
+          "slug": "mison-dominik",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 11,
+          "divisions": {
+            "HL": 11
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 5,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1717,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "521"
+            },
+            {
+              "bucketId": 1848,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 5,
+              "bestValue": "633"
+            }
+          ]
+        },
+        {
+          "id": 4937,
+          "name": "Šrédl David",
+          "slug": "sredl-david",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 10,
+          "divisions": {
+            "RL": 10
+          },
+          "disciplines": {
+            "halova": 1,
+            "tercova": 6,
+            "terenni": 3,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1707,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 1,
+              "bestValue": "327"
+            },
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 6,
+              "bestValue": "522"
+            },
+            {
+              "bucketId": 1730,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 3,
+              "bestValue": "252"
+            }
+          ]
+        },
+        {
+          "id": 2450,
+          "name": "Fanta Antonín",
+          "slug": "fanta-antonin",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 9,
+          "divisions": {
+            "RL": 9
+          },
+          "disciplines": {
+            "halova": 3,
+            "tercova": 6,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 3,
+              "bestValue": "465"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 6,
+              "bestValue": "591"
+            }
+          ]
+        },
+        {
+          "id": 2449,
+          "name": "Fanta Tomáš",
+          "slug": "fanta-tomas",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 9,
+          "divisions": {
+            "RL": 9
+          },
+          "disciplines": {
+            "halova": 3,
+            "tercova": 6,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 3,
+              "bestValue": "496"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 6,
+              "bestValue": "577"
+            }
+          ]
+        },
+        {
+          "id": 3014,
+          "name": "Altmanová Alice",
+          "slug": "altmanova-alice",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 6,
+          "divisions": {
+            "HL": 6
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 0,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1706,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "353"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+        {
+          "name": "Veselý Pavel",
+          "limitMet": true,
+          "bestAverage": 663.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 663.3,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Duchek Matěj",
+          "limitMet": true,
+          "bestAverage": 588.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "RU18M",
+              "average": 588.7,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Kadera Jakub",
+          "limitMet": true,
+          "bestAverage": 583.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "RU18M",
+              "average": 583.7,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Caltová Eliška",
+          "limitMet": true,
+          "bestAverage": 578.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "RU18W",
+              "average": 578.3,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Fanta Tomáš",
+          "limitMet": true,
+          "bestAverage": 564.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "RU18M",
+              "average": 564.7,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Šantová Lýdia",
+          "limitMet": true,
+          "bestAverage": 538.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "RU18W",
+              "average": 538.7,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Mišoň Dominik",
+          "limitMet": false,
+          "bestAverage": 618.3,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "BU15M",
+              "average": 618.3,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Fanta Antonín",
+          "limitMet": false,
+          "bestAverage": 534.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "RU18M",
+              "average": 534.0,
+              "limit": 550,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Hradílková Karolína",
+          "limitMet": false,
+          "bestAverage": 520.7,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "BU15W",
+              "average": 520.7,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Dvořáčková Tina",
+          "limitMet": false,
+          "bestAverage": 512.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "W",
+              "code": "RU13W",
+              "average": 512.0,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Šrédl David",
+          "limitMet": false,
+          "bestAverage": 500.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 500.3,
+              "limit": 550,
+              "met": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "LK ESKA Cheb",
+      "slug": "lk-eska-cheb",
+      "spsLabel": "SpS A",
+      "counts": {
+        "total6Plus": 13,
+        "divRL": 12,
+        "divKL": 1,
+        "divHL": 0,
+        "divTL": 0,
+        "discHalova": 13,
+        "discTercova": 13,
+        "discTerenni": 1,
+        "disc3D": 0,
+        "cupParticipants": 11,
+        "cupLimitMet": 8
+      },
+      "archers": [
+        {
+          "id": 3820,
+          "name": "Kuržejová Adéla",
+          "slug": "kurzejova-adela",
+          "ageCategories": [
+            "Kadetky U18",
+            "Žákyně U15"
+          ],
+          "totalRaces": 23,
+          "divisions": {
+            "RL": 23
+          },
+          "disciplines": {
+            "halova": 9,
+            "tercova": 14,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 3,
+              "bestValue": "516"
+            },
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "554"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 14,
+              "bestValue": "635"
+            }
+          ]
+        },
+        {
+          "id": 3682,
+          "name": "Mecnerová Julie Carolina",
+          "slug": "mecnerova-julie-carolina",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 23,
+          "divisions": {
+            "RL": 23
+          },
+          "disciplines": {
+            "halova": 4,
+            "tercova": 19,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "540"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 19,
+              "bestValue": "607"
+            }
+          ]
+        },
+        {
+          "id": 4614,
+          "name": "Beneš Jan",
+          "slug": "benes-jan",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 22,
+          "divisions": {
+            "KL": 22
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 14,
+            "terenni": 2,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1719,
+              "discipline": "Halová lukostřelba",
+              "division": "KL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "540"
+            },
+            {
+              "bucketId": 1782,
+              "discipline": "Terčová lukostřelba",
+              "division": "KL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 14,
+              "bestValue": "658"
+            },
+            {
+              "bucketId": 1859,
+              "discipline": "Terénní lukostřelba",
+              "division": "KL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 2,
+              "bestValue": "316"
+            }
+          ]
+        },
+        {
+          "id": 4957,
+          "name": "Makarovics Jan",
+          "slug": "makarovics-jan",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 19,
+          "divisions": {
+            "RL": 19
+          },
+          "disciplines": {
+            "halova": 2,
+            "tercova": 17,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 2,
+              "bestValue": "430"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 17,
+              "bestValue": "518"
+            }
+          ]
+        },
+        {
+          "id": 2211,
+          "name": "Brettlová Alžběta",
+          "slug": "brettlova-alzbeta",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 17,
+          "divisions": {
+            "RL": 17
+          },
+          "disciplines": {
+            "halova": 4,
+            "tercova": 13,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "523"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 13,
+              "bestValue": "567"
+            }
+          ]
+        },
+        {
+          "id": 3336,
+          "name": "Valíček Viktor",
+          "slug": "valicek-viktor",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 17,
+          "divisions": {
+            "RL": 17
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 12,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1707,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "554"
+            },
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 12,
+              "bestValue": "649"
+            }
+          ]
+        },
+        {
+          "id": 4000,
+          "name": "Kurzweilová Sarah",
+          "slug": "kurzweilova-sarah",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 16,
+          "divisions": {
+            "RL": 16
+          },
+          "disciplines": {
+            "halova": 4,
+            "tercova": 12,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "544"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 12,
+              "bestValue": "632"
+            }
+          ]
+        },
+        {
+          "id": 4362,
+          "name": "Šatra Oliver",
+          "slug": "satra-oliver",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 14,
+          "divisions": {
+            "RL": 14
+          },
+          "disciplines": {
+            "halova": 3,
+            "tercova": 11,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1707,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 3,
+              "bestValue": "509"
+            },
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 11,
+              "bestValue": "619"
+            }
+          ]
+        },
+        {
+          "id": 4955,
+          "name": "Jung Antonín",
+          "slug": "jung-antonin",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 12,
+          "divisions": {
+            "RL": 12
+          },
+          "disciplines": {
+            "halova": 4,
+            "tercova": 8,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1707,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "492"
+            },
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 8,
+              "bestValue": "570"
+            }
+          ]
+        },
+        {
+          "id": 4743,
+          "name": "Turek Tomáš",
+          "slug": "turek-tomas",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 12,
+          "divisions": {
+            "RL": 12
+          },
+          "disciplines": {
+            "halova": 4,
+            "tercova": 8,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "440"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 8,
+              "bestValue": "482"
+            }
+          ]
+        },
+        {
+          "id": 4956,
+          "name": "Novotný Karel",
+          "slug": "novotny-karel",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 10,
+          "divisions": {
+            "RL": 10
+          },
+          "disciplines": {
+            "halova": 4,
+            "tercova": 6,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1707,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "526"
+            },
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 6,
+              "bestValue": "634"
+            }
+          ]
+        },
+        {
+          "id": 3821,
+          "name": "Raisová Natálie",
+          "slug": "raisova-natalie",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 8,
+          "divisions": {
+            "RL": 8
+          },
+          "disciplines": {
+            "halova": 3,
+            "tercova": 5,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 3,
+              "bestValue": "458"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 5,
+              "bestValue": "430"
+            }
+          ]
+        },
+        {
+          "id": 3683,
+          "name": "Křepelková Ella Dominika",
+          "slug": "krepelkova-ella-dominika",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 7,
+          "divisions": {
+            "RL": 7
+          },
+          "disciplines": {
+            "halova": 3,
+            "tercova": 4,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 3,
+              "bestValue": "516"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 4,
+              "bestValue": "530"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+        {
+          "name": "Beneš Jan",
+          "limitMet": true,
+          "bestAverage": 649.0,
+          "entries": [
+            {
+              "division": "C",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "CU18M",
+              "average": 649.0,
+              "limit": 600,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Valíček Viktor",
+          "limitMet": true,
+          "bestAverage": 640.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 640.0,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Kurzweilová Sarah",
+          "limitMet": true,
+          "bestAverage": 628.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 628.3,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Kuržejová Adéla",
+          "limitMet": true,
+          "bestAverage": 624.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 624.7,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Novotný Karel",
+          "limitMet": true,
+          "bestAverage": 620.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 620.0,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Šatra Oliver",
+          "limitMet": true,
+          "bestAverage": 610.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 610.7,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Mecnerová Julie Carolina",
+          "limitMet": true,
+          "bestAverage": 595.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "RU18W",
+              "average": 595.7,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Jung Antonín",
+          "limitMet": true,
+          "bestAverage": 552.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 552.7,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Brettlová Alžběta",
+          "limitMet": false,
+          "bestAverage": 514.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "RU18W",
+              "average": 514.3,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Křepelková Ella Dominika",
+          "limitMet": false,
+          "bestAverage": 483.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "RU18W",
+              "average": 483.7,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Makarovics Jan",
+          "limitMet": false,
+          "bestAverage": 468.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "RU18M",
+              "average": 468.7,
+              "limit": 550,
+              "met": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "name": "LK Druztová",
+      "slug": "lk-druztova",
+      "spsLabel": "SpS B",
+      "counts": {
+        "total6Plus": 12,
+        "divRL": 2,
+        "divKL": 4,
+        "divHL": 6,
+        "divTL": 0,
+        "discHalova": 12,
+        "discTercova": 11,
+        "discTerenni": 0,
+        "disc3D": 0,
+        "cupParticipants": 10,
+        "cupLimitMet": 2
+      },
+      "archers": [
+        {
+          "id": 3139,
+          "name": "Picková Nikol",
+          "slug": "pickova-nikol",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 27,
+          "divisions": {
+            "KL": 27
+          },
+          "disciplines": {
+            "halova": 12,
+            "tercova": 15,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1720,
+              "discipline": "Halová lukostřelba",
+              "division": "KL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 12,
+              "bestValue": "560"
+            },
+            {
+              "bucketId": 1834,
+              "discipline": "Terčová lukostřelba",
+              "division": "KL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 15,
+              "bestValue": "610"
+            }
+          ]
+        },
+        {
+          "id": 1715,
+          "name": "Kopecká Daniela",
+          "slug": "kopecka-daniela",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 21,
+          "divisions": {
+            "RL": 21
+          },
+          "disciplines": {
+            "halova": 11,
+            "tercova": 10,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 11,
+              "bestValue": "500"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 10,
+              "bestValue": "613"
+            }
+          ]
+        },
+        {
+          "id": 4092,
+          "name": "Cingroš Daniel",
+          "slug": "cingros-daniel",
+          "ageCategories": [
+            "Žáci U13"
+          ],
+          "totalRaces": 19,
+          "divisions": {
+            "HL": 19
+          },
+          "disciplines": {
+            "halova": 9,
+            "tercova": 10,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1718,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 9,
+              "bestValue": "449"
+            },
+            {
+              "bucketId": 1788,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "ŽWA720",
+              "races": 10,
+              "bestValue": "594"
+            }
+          ]
+        },
+        {
+          "id": 3878,
+          "name": "Kramer Jakub",
+          "slug": "kramer-jakub",
+          "ageCategories": [
+            "Žáci U13"
+          ],
+          "totalRaces": 19,
+          "divisions": {
+            "HL": 19
+          },
+          "disciplines": {
+            "halova": 11,
+            "tercova": 8,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1718,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 11,
+              "bestValue": "434"
+            },
+            {
+              "bucketId": 1788,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "ŽWA720",
+              "races": 8,
+              "bestValue": "569"
+            }
+          ]
+        },
+        {
+          "id": 4433,
+          "name": "Horák Jonáš",
+          "slug": "horak-jonas",
+          "ageCategories": [
+            "Žáci U13"
+          ],
+          "totalRaces": 14,
+          "divisions": {
+            "HL": 14
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 9,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1718,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "433"
+            },
+            {
+              "bucketId": 1788,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "ŽWA720",
+              "races": 9,
+              "bestValue": "615"
+            }
+          ]
+        },
+        {
+          "id": 2170,
+          "name": "Pechová Barbora",
+          "slug": "pechova-barbora",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 14,
+          "divisions": {
+            "KL": 14
+          },
+          "disciplines": {
+            "halova": 9,
+            "tercova": 5,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1721,
+              "discipline": "Halová lukostřelba",
+              "division": "KL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 9,
+              "bestValue": "519"
+            },
+            {
+              "bucketId": 1849,
+              "discipline": "Terčová lukostřelba",
+              "division": "KL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 5,
+              "bestValue": "431"
+            }
+          ]
+        },
+        {
+          "id": 4346,
+          "name": "Karhanová Karolína",
+          "slug": "karhanova-karolina",
+          "ageCategories": [
+            "Žákyně U13"
+          ],
+          "totalRaces": 13,
+          "divisions": {
+            "HL": 13
+          },
+          "disciplines": {
+            "halova": 8,
+            "tercova": 5,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1710,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 8,
+              "bestValue": "400"
+            },
+            {
+              "bucketId": 1808,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "ŽWA720",
+              "races": 5,
+              "bestValue": "594"
+            }
+          ]
+        },
+        {
+          "id": 4715,
+          "name": "Pacáková Magdaléna",
+          "slug": "pacakova-magdalena",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 12,
+          "divisions": {
+            "KL": 12
+          },
+          "disciplines": {
+            "halova": 7,
+            "tercova": 5,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1720,
+              "discipline": "Halová lukostřelba",
+              "division": "KL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 7,
+              "bestValue": "467"
+            },
+            {
+              "bucketId": 1834,
+              "discipline": "Terčová lukostřelba",
+              "division": "KL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 5,
+              "bestValue": "403"
+            }
+          ]
+        },
+        {
+          "id": 4091,
+          "name": "Tolar Václav",
+          "slug": "tolar-vaclav",
+          "ageCategories": [
+            "Kadeti U18",
+            "Žáci U15"
+          ],
+          "totalRaces": 12,
+          "divisions": {
+            "KL": 12
+          },
+          "disciplines": {
+            "halova": 9,
+            "tercova": 3,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1719,
+              "discipline": "Halová lukostřelba",
+              "division": "KL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 1,
+              "bestValue": "335"
+            },
+            {
+              "bucketId": 1761,
+              "discipline": "Halová lukostřelba",
+              "division": "KL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 8,
+              "bestValue": "507"
+            },
+            {
+              "bucketId": 1811,
+              "discipline": "Terčová lukostřelba",
+              "division": "KL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 3,
+              "bestValue": "436"
+            }
+          ]
+        },
+        {
+          "id": 4431,
+          "name": "Baborová Julie",
+          "slug": "baborova-julie",
+          "ageCategories": [
+            "Žákyně U13"
+          ],
+          "totalRaces": 9,
+          "divisions": {
+            "HL": 9
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 4,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1710,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "378"
+            },
+            {
+              "bucketId": 1808,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "ŽWA720",
+              "races": 4,
+              "bestValue": "589"
+            }
+          ]
+        },
+        {
+          "id": 5170,
+          "name": "Holý Ondřej",
+          "slug": "holy-ondrej",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 6,
+          "divisions": {
+            "HL": 6
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 0,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1717,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "375"
+            }
+          ]
+        },
+        {
+          "id": 3744,
+          "name": "Korelusová Barbora",
+          "slug": "korelusova-barbora",
+          "ageCategories": [
+            "Žákyně U13"
+          ],
+          "totalRaces": 6,
+          "divisions": {
+            "RL": 6
+          },
+          "disciplines": {
+            "halova": 3,
+            "tercova": 3,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1708,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 3,
+              "bestValue": "387"
+            },
+            {
+              "bucketId": 1802,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "ŽWA720",
+              "races": 3,
+              "bestValue": "316"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+        {
+          "name": "Kopecká Daniela",
+          "limitMet": true,
+          "bestAverage": 598.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 598.0,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Picková Nikol",
+          "limitMet": true,
+          "bestAverage": 591.0,
+          "entries": [
+            {
+              "division": "C",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "CU18W",
+              "average": 591.0,
+              "limit": 580,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Horák Jonáš",
+          "limitMet": false,
+          "bestAverage": 607.0,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U13",
+              "gender": "M",
+              "code": "BU13M",
+              "average": 607.0,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Cingroš Daniel",
+          "limitMet": false,
+          "bestAverage": 593.3,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U13",
+              "gender": "M",
+              "code": "BU13M",
+              "average": 593.3,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Karhanová Karolína",
+          "limitMet": false,
+          "bestAverage": 585.0,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U13",
+              "gender": "W",
+              "code": "BU13W",
+              "average": 585.0,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Kramer Jakub",
+          "limitMet": false,
+          "bestAverage": 552.7,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U13",
+              "gender": "M",
+              "code": "BU13M",
+              "average": 552.7,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Baborová Julie",
+          "limitMet": false,
+          "bestAverage": 545.3,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U13",
+              "gender": "W",
+              "code": "BU13W",
+              "average": 545.3,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Tolar Václav",
+          "limitMet": false,
+          "bestAverage": 428.0,
+          "entries": [
+            {
+              "division": "C",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "CU15M",
+              "average": 428.0,
+              "limit": 600,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Pechová Barbora",
+          "limitMet": false,
+          "bestAverage": 388.3,
+          "entries": [
+            {
+              "division": "C",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "CU15W",
+              "average": 388.3,
+              "limit": 580,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Korelusová Barbora",
+          "limitMet": false,
+          "bestAverage": 291.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "W",
+              "code": "RU13W",
+              "average": 291.7,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "LO TJ Jiskra Humpolec",
+      "slug": "lo-tj-jiskra-humpolec",
+      "spsLabel": "SpS B",
+      "counts": {
+        "total6Plus": 11,
+        "divRL": 6,
+        "divKL": 0,
+        "divHL": 9,
+        "divTL": 0,
+        "discHalova": 10,
+        "discTercova": 11,
+        "discTerenni": 3,
+        "disc3D": 2,
+        "cupParticipants": 14,
+        "cupLimitMet": 1
+      },
+      "archers": [
+        {
+          "id": 4019,
+          "name": "Kolářová Natálie",
+          "slug": "kolarova-natalie",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 33,
+          "divisions": {
+            "RL": 9,
+            "HL": 24
+          },
+          "disciplines": {
+            "halova": 14,
+            "tercova": 13,
+            "terenni": 4,
+            "3d": 2
+          },
+          "rankings": [
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "500"
+            },
+            {
+              "bucketId": 1674,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 9,
+              "bestValue": "509"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 4,
+              "bestValue": "554"
+            },
+            {
+              "bucketId": 1787,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 9,
+              "bestValue": "630"
+            },
+            {
+              "bucketId": 1739,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 4,
+              "bestValue": "272"
+            },
+            {
+              "bucketId": 1866,
+              "discipline": "3D lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "3D",
+              "races": 2,
+              "bestValue": "6.46"
+            }
+          ]
+        },
+        {
+          "id": 2521,
+          "name": "Hálová Kristýna",
+          "slug": "halova-kristyna",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 23,
+          "divisions": {
+            "RL": 23
+          },
+          "disciplines": {
+            "halova": 9,
+            "tercova": 14,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 9,
+              "bestValue": "473"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 14,
+              "bestValue": "583"
+            }
+          ]
+        },
+        {
+          "id": 3668,
+          "name": "Holbová Ilona",
+          "slug": "holbova-ilona",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 22,
+          "divisions": {
+            "RL": 15,
+            "HL": 7
+          },
+          "disciplines": {
+            "halova": 12,
+            "tercova": 8,
+            "terenni": 2,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 8,
+              "bestValue": "487"
+            },
+            {
+              "bucketId": 1674,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "455"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 7,
+              "bestValue": "525"
+            },
+            {
+              "bucketId": 1787,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 1,
+              "bestValue": "502"
+            },
+            {
+              "bucketId": 1739,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 2,
+              "bestValue": "197"
+            }
+          ]
+        },
+        {
+          "id": 4023,
+          "name": "Vála Zdenek",
+          "slug": "vala-zdenek",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 22,
+          "divisions": {
+            "RL": 22
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 12,
+            "terenni": 3,
+            "3d": 2
+          },
+          "rankings": [
+            {
+              "bucketId": 1707,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "467"
+            },
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 12,
+              "bestValue": "517"
+            },
+            {
+              "bucketId": 1730,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 3,
+              "bestValue": "229"
+            },
+            {
+              "bucketId": 1864,
+              "discipline": "3D lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "3D",
+              "races": 2,
+              "bestValue": "6.42"
+            }
+          ]
+        },
+        {
+          "id": 2751,
+          "name": "Řáda Jan",
+          "slug": "rada-jan",
+          "ageCategories": [
+            "Žáci U13"
+          ],
+          "totalRaces": 15,
+          "divisions": {
+            "RL": 8,
+            "HL": 7
+          },
+          "disciplines": {
+            "halova": 8,
+            "tercova": 7,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1704,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 1,
+              "bestValue": "438"
+            },
+            {
+              "bucketId": 1718,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 7,
+              "bestValue": "514"
+            },
+            {
+              "bucketId": 1785,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "ŽWA720",
+              "races": 7,
+              "bestValue": "430"
+            }
+          ]
+        },
+        {
+          "id": 4027,
+          "name": "Straka Marek",
+          "slug": "straka-marek",
+          "ageCategories": [
+            "Žáci U13"
+          ],
+          "totalRaces": 14,
+          "divisions": {
+            "HL": 14
+          },
+          "disciplines": {
+            "halova": 8,
+            "tercova": 6,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1718,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 8,
+              "bestValue": "463"
+            },
+            {
+              "bucketId": 1788,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "ŽWA720",
+              "races": 6,
+              "bestValue": "632"
+            }
+          ]
+        },
+        {
+          "id": 2750,
+          "name": "Řádová Anna",
+          "slug": "radova-anna",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 14,
+          "divisions": {
+            "HL": 14
+          },
+          "disciplines": {
+            "halova": 7,
+            "tercova": 7,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1706,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 7,
+              "bestValue": "402"
+            },
+            {
+              "bucketId": 1842,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 7,
+              "bestValue": "505"
+            }
+          ]
+        },
+        {
+          "id": 2752,
+          "name": "Velebná Tereza",
+          "slug": "velebna-tereza",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 12,
+          "divisions": {
+            "HL": 11,
+            "RL": 1
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 6,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1674,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "515"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 1,
+              "bestValue": "444"
+            },
+            {
+              "bucketId": 1787,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 5,
+              "bestValue": "622"
+            }
+          ]
+        },
+        {
+          "id": 5153,
+          "name": "Dědič Jakub",
+          "slug": "dedic-jakub",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 9,
+          "divisions": {
+            "HL": 9
+          },
+          "disciplines": {
+            "halova": 3,
+            "tercova": 6,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1717,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 3,
+              "bestValue": "342"
+            },
+            {
+              "bucketId": 1848,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 6,
+              "bestValue": "464"
+            }
+          ]
+        },
+        {
+          "id": 5158,
+          "name": "Malotová Julie",
+          "slug": "malotova-julie",
+          "ageCategories": [
+            "Žákyně U13"
+          ],
+          "totalRaces": 9,
+          "divisions": {
+            "HL": 9
+          },
+          "disciplines": {
+            "halova": 0,
+            "tercova": 9,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1808,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "ŽWA720",
+              "races": 9,
+              "bestValue": "563"
+            }
+          ]
+        },
+        {
+          "id": 3790,
+          "name": "Vencálek Jan",
+          "slug": "vencalek-jan",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 8,
+          "divisions": {
+            "HL": 8
+          },
+          "disciplines": {
+            "halova": 4,
+            "tercova": 4,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1717,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "399"
+            },
+            {
+              "bucketId": 1848,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 4,
+              "bestValue": "516"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+        {
+          "name": "Hálová Kristýna",
+          "limitMet": true,
+          "bestAverage": 579.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 579.3,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Straka Marek",
+          "limitMet": false,
+          "bestAverage": 626.0,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U13",
+              "gender": "M",
+              "code": "BU13M",
+              "average": 626.0,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Kolářová Natálie",
+          "limitMet": false,
+          "bestAverage": 614.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 523.0,
+              "limit": 530,
+              "met": false
+            },
+            {
+              "division": "B",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "BU15W",
+              "average": 614.3,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Velebná Tereza",
+          "limitMet": false,
+          "bestAverage": 614.3,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "BU15W",
+              "average": 614.3,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Malotová Julie",
+          "limitMet": false,
+          "bestAverage": 547.0,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U13",
+              "gender": "W",
+              "code": "BU13W",
+              "average": 547.0,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Niklová Valentýna",
+          "limitMet": false,
+          "bestAverage": 544.3,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U13",
+              "gender": "W",
+              "code": "BU13W",
+              "average": 544.3,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Kolářová Kristýna",
+          "limitMet": false,
+          "bestAverage": 541.3,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U13",
+              "gender": "W",
+              "code": "BU13W",
+              "average": 541.3,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Limburská Dominika",
+          "limitMet": false,
+          "bestAverage": 525.3,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U13",
+              "gender": "W",
+              "code": "BU13W",
+              "average": 525.3,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Holbová Ilona",
+          "limitMet": false,
+          "bestAverage": 519.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 519.0,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Vála Zdenek",
+          "limitMet": false,
+          "bestAverage": 514.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 514.0,
+              "limit": 550,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Vencálek Jan",
+          "limitMet": false,
+          "bestAverage": 507.0,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "BU15M",
+              "average": 507.0,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Řádová Anna",
+          "limitMet": false,
+          "bestAverage": 495.0,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "BU18W",
+              "average": 495.0,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Řáda Jan",
+          "limitMet": false,
+          "bestAverage": 401.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "M",
+              "code": "RU13M",
+              "average": 401.7,
+              "limit": 550,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Dědič Jakub",
+          "limitMet": false,
+          "bestAverage": 370.0,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "BU15M",
+              "average": 370.0,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "name": "T.J. Sokol Praha Vršovice",
+      "slug": "t-j-sokol-praha-vrsovice",
+      "spsLabel": "SpS B",
+      "counts": {
+        "total6Plus": 11,
+        "divRL": 11,
+        "divKL": 0,
+        "divHL": 0,
+        "divTL": 0,
+        "discHalova": 8,
+        "discTercova": 11,
+        "discTerenni": 0,
+        "disc3D": 0,
+        "cupParticipants": 11,
+        "cupLimitMet": 1
+      },
+      "archers": [
+        {
+          "id": 3718,
+          "name": "Firich Daniel",
+          "slug": "firich-daniel",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 23,
+          "divisions": {
+            "RL": 23
+          },
+          "disciplines": {
+            "halova": 7,
+            "tercova": 16,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 7,
+              "bestValue": "485"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 16,
+              "bestValue": "586"
+            }
+          ]
+        },
+        {
+          "id": 4106,
+          "name": "Hejhalová Aneta",
+          "slug": "hejhalova-aneta",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 15,
+          "divisions": {
+            "RL": 15
+          },
+          "disciplines": {
+            "halova": 7,
+            "tercova": 8,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 7,
+              "bestValue": "472"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 8,
+              "bestValue": "484"
+            }
+          ]
+        },
+        {
+          "id": 4557,
+          "name": "Khikhlukha Sofia",
+          "slug": "khikhlukha-sofia",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 15,
+          "divisions": {
+            "RL": 15
+          },
+          "disciplines": {
+            "halova": 7,
+            "tercova": 8,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 7,
+              "bestValue": "465"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 8,
+              "bestValue": "523"
+            }
+          ]
+        },
+        {
+          "id": 3711,
+          "name": "Poláková Evelína",
+          "slug": "polakova-evelina",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 15,
+          "divisions": {
+            "RL": 15
+          },
+          "disciplines": {
+            "halova": 7,
+            "tercova": 8,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 7,
+              "bestValue": "494"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 8,
+              "bestValue": "538"
+            }
+          ]
+        },
+        {
+          "id": 4799,
+          "name": "Eichler Eduard",
+          "slug": "eichler-eduard",
+          "ageCategories": [
+            "Žáci U13",
+            "Žáci U15"
+          ],
+          "totalRaces": 12,
+          "divisions": {
+            "RL": 12
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 6,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1704,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "490"
+            },
+            {
+              "bucketId": 1707,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 1,
+              "bestValue": "428"
+            },
+            {
+              "bucketId": 1785,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "ŽWA720",
+              "races": 6,
+              "bestValue": "527"
+            }
+          ]
+        },
+        {
+          "id": 5206,
+          "name": "Kovář Vojtěch",
+          "slug": "kovar-vojtech",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 12,
+          "divisions": {
+            "RL": 12
+          },
+          "disciplines": {
+            "halova": 0,
+            "tercova": 12,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 12,
+              "bestValue": "517"
+            }
+          ]
+        },
+        {
+          "id": 5205,
+          "name": "Joranová Greta",
+          "slug": "joranova-greta",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 10,
+          "divisions": {
+            "RL": 10
+          },
+          "disciplines": {
+            "halova": 0,
+            "tercova": 10,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 10,
+              "bestValue": "467"
+            }
+          ]
+        },
+        {
+          "id": 5203,
+          "name": "Berková Ema",
+          "slug": "berkova-ema",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 9,
+          "divisions": {
+            "RL": 9
+          },
+          "disciplines": {
+            "halova": 4,
+            "tercova": 5,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "399"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 5,
+              "bestValue": "495"
+            }
+          ]
+        },
+        {
+          "id": 4798,
+          "name": "Otipková Zuzana",
+          "slug": "otipkova-zuzana",
+          "ageCategories": [
+            "Žákyně U13"
+          ],
+          "totalRaces": 8,
+          "divisions": {
+            "RL": 8
+          },
+          "disciplines": {
+            "halova": 4,
+            "tercova": 4,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1708,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "457"
+            },
+            {
+              "bucketId": 1802,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "ŽWA720",
+              "races": 4,
+              "bestValue": "558"
+            }
+          ]
+        },
+        {
+          "id": 2775,
+          "name": "Stluka Jakub",
+          "slug": "stluka-jakub",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 8,
+          "divisions": {
+            "RL": 8
+          },
+          "disciplines": {
+            "halova": 4,
+            "tercova": 4,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "403"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 4,
+              "bestValue": "497"
+            }
+          ]
+        },
+        {
+          "id": 5209,
+          "name": "Šimuni Nora",
+          "slug": "simuni-nora",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 6,
+          "divisions": {
+            "RL": 6
+          },
+          "disciplines": {
+            "halova": 0,
+            "tercova": 6,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 6,
+              "bestValue": "372"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+        {
+          "name": "Firich Daniel",
+          "limitMet": true,
+          "bestAverage": 575.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "RU18M",
+              "average": 575.0,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Otipková Zuzana",
+          "limitMet": false,
+          "bestAverage": 529.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "W",
+              "code": "RU13W",
+              "average": 529.7,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Kovář Vojtěch",
+          "limitMet": false,
+          "bestAverage": 515.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 515.0,
+              "limit": 550,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Khikhlukha Sofia",
+          "limitMet": false,
+          "bestAverage": 508.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 508.7,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Eichler Eduard",
+          "limitMet": false,
+          "bestAverage": 508.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "M",
+              "code": "RU13M",
+              "average": 508.0,
+              "limit": 550,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Poláková Evelína",
+          "limitMet": false,
+          "bestAverage": 499.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "RU18W",
+              "average": 499.7,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Žalman Adam",
+          "limitMet": false,
+          "bestAverage": 494.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "M",
+              "code": "RU13M",
+              "average": 494.3,
+              "limit": 550,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Garbiel Mikuláš",
+          "limitMet": false,
+          "bestAverage": 478.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "M",
+              "code": "RU13M",
+              "average": 478.7,
+              "limit": 550,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Joranová Greta",
+          "limitMet": false,
+          "bestAverage": 448.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 448.7,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Hejhalová Aneta",
+          "limitMet": false,
+          "bestAverage": 448.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "RU18W",
+              "average": 448.3,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Šimuni Nora",
+          "limitMet": false,
+          "bestAverage": 353.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 353.0,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "name": "H-arrow Pelhřimov",
+      "slug": "h-arrow-pelhrimov",
+      "spsLabel": "SpS B",
+      "counts": {
+        "total6Plus": 10,
+        "divRL": 4,
+        "divKL": 0,
+        "divHL": 10,
+        "divTL": 0,
+        "discHalova": 10,
+        "discTercova": 10,
+        "discTerenni": 7,
+        "disc3D": 2,
+        "cupParticipants": 10,
+        "cupLimitMet": 2
+      },
+      "archers": [
+        {
+          "id": 4028,
+          "name": "Zajíčková Eliška",
+          "slug": "zajickova-eliska",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 35,
+          "divisions": {
+            "RL": 29,
+            "HL": 6
+          },
+          "disciplines": {
+            "halova": 15,
+            "tercova": 15,
+            "terenni": 5,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 9,
+              "bestValue": "487"
+            },
+            {
+              "bucketId": 1674,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "436"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 15,
+              "bestValue": "586"
+            },
+            {
+              "bucketId": 1731,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 5,
+              "bestValue": "276"
+            }
+          ]
+        },
+        {
+          "id": 4733,
+          "name": "Hanzal Maxim",
+          "slug": "hanzal-maxim",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 32,
+          "divisions": {
+            "RL": 25,
+            "HL": 7
+          },
+          "disciplines": {
+            "halova": 14,
+            "tercova": 11,
+            "terenni": 5,
+            "3d": 2
+          },
+          "rankings": [
+            {
+              "bucketId": 1707,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 11,
+              "bestValue": "476"
+            },
+            {
+              "bucketId": 1717,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 3,
+              "bestValue": "412"
+            },
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 11,
+              "bestValue": "583"
+            },
+            {
+              "bucketId": 1730,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 3,
+              "bestValue": "244"
+            },
+            {
+              "bucketId": 1796,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 2,
+              "bestValue": "187"
+            },
+            {
+              "bucketId": 1678,
+              "discipline": "3D lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "3D",
+              "races": 2,
+              "bestValue": "4.80"
+            }
+          ]
+        },
+        {
+          "id": 4972,
+          "name": "Válková Barbora",
+          "slug": "valkova-barbora",
+          "ageCategories": [
+            "Žákyně U13",
+            "Žákyně U15"
+          ],
+          "totalRaces": 31,
+          "divisions": {
+            "RL": 8,
+            "HL": 23
+          },
+          "disciplines": {
+            "halova": 13,
+            "tercova": 12,
+            "terenni": 5,
+            "3d": 1
+          },
+          "rankings": [
+            {
+              "bucketId": 1708,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 3,
+              "bestValue": "513"
+            },
+            {
+              "bucketId": 1710,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 10,
+              "bestValue": "528"
+            },
+            {
+              "bucketId": 1802,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "ŽWA720",
+              "races": 2,
+              "bestValue": "585"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 3,
+              "bestValue": "450"
+            },
+            {
+              "bucketId": 1808,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "ŽWA720",
+              "races": 7,
+              "bestValue": "662"
+            },
+            {
+              "bucketId": 1741,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "T24 / ŽT24",
+              "races": 5,
+              "bestValue": "255"
+            },
+            {
+              "bucketId": 1680,
+              "discipline": "3D lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "3D",
+              "races": 1,
+              "bestValue": "6.82"
+            }
+          ]
+        },
+        {
+          "id": 5160,
+          "name": "Soukup Milan",
+          "slug": "soukup-milan",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 17,
+          "divisions": {
+            "RL": 1,
+            "HL": 16
+          },
+          "disciplines": {
+            "halova": 8,
+            "tercova": 6,
+            "terenni": 3,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 1,
+              "bestValue": "345"
+            },
+            {
+              "bucketId": 1709,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 7,
+              "bestValue": "428"
+            },
+            {
+              "bucketId": 1807,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 6,
+              "bestValue": "528"
+            },
+            {
+              "bucketId": 1795,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 3,
+              "bestValue": "243"
+            }
+          ]
+        },
+        {
+          "id": 4329,
+          "name": "Stržínek Jakub",
+          "slug": "strzinek-jakub",
+          "ageCategories": [
+            "Žáci U13"
+          ],
+          "totalRaces": 12,
+          "divisions": {
+            "HL": 12
+          },
+          "disciplines": {
+            "halova": 2,
+            "tercova": 6,
+            "terenni": 4,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1718,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 2,
+              "bestValue": "484"
+            },
+            {
+              "bucketId": 1788,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "ŽWA720",
+              "races": 6,
+              "bestValue": "620"
+            },
+            {
+              "bucketId": 1740,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "T24 / ŽT24",
+              "races": 4,
+              "bestValue": "217"
+            }
+          ]
+        },
+        {
+          "id": 4336,
+          "name": "Hanzalová Izabela",
+          "slug": "hanzalova-izabela",
+          "ageCategories": [
+            "Žákyně U13"
+          ],
+          "totalRaces": 11,
+          "divisions": {
+            "HL": 11
+          },
+          "disciplines": {
+            "halova": 3,
+            "tercova": 5,
+            "terenni": 3,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1710,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 3,
+              "bestValue": "424"
+            },
+            {
+              "bucketId": 1808,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "ŽWA720",
+              "races": 5,
+              "bestValue": "574"
+            },
+            {
+              "bucketId": 1741,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "T24 / ŽT24",
+              "races": 3,
+              "bestValue": "158"
+            }
+          ]
+        },
+        {
+          "id": 5161,
+          "name": "Čermák Antonín",
+          "slug": "cermak-antonin",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 11,
+          "divisions": {
+            "HL": 11
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 6,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1709,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "421"
+            },
+            {
+              "bucketId": 1807,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 6,
+              "bestValue": "485"
+            }
+          ]
+        },
+        {
+          "id": 4366,
+          "name": "Nýdrle David",
+          "slug": "nydrle-david",
+          "ageCategories": [
+            "Žáci U13"
+          ],
+          "totalRaces": 10,
+          "divisions": {
+            "HL": 10
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 3,
+            "terenni": 2,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1718,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "476"
+            },
+            {
+              "bucketId": 1788,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "ŽWA720",
+              "races": 3,
+              "bestValue": "601"
+            },
+            {
+              "bucketId": 1740,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "T24 / ŽT24",
+              "races": 2,
+              "bestValue": "190"
+            }
+          ]
+        },
+        {
+          "id": 4729,
+          "name": "Dušek František",
+          "slug": "dusek-frantisek",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 9,
+          "divisions": {
+            "HL": 9
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 4,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1709,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "432"
+            },
+            {
+              "bucketId": 1807,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 4,
+              "bestValue": "513"
+            }
+          ]
+        },
+        {
+          "id": 4331,
+          "name": "Brož Adam",
+          "slug": "broz-adam",
+          "ageCategories": [
+            "Žáci U13"
+          ],
+          "totalRaces": 6,
+          "divisions": {
+            "HL": 6
+          },
+          "disciplines": {
+            "halova": 1,
+            "tercova": 5,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1718,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 1,
+              "bestValue": "380"
+            },
+            {
+              "bucketId": 1788,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "ŽWA720",
+              "races": 5,
+              "bestValue": "572"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+        {
+          "name": "Zajíčková Eliška",
+          "limitMet": true,
+          "bestAverage": 580.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 580.7,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Hanzal Maxim",
+          "limitMet": true,
+          "bestAverage": 574.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 574.7,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Stržínek Jakub",
+          "limitMet": false,
+          "bestAverage": 616.7,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U13",
+              "gender": "M",
+              "code": "BU13M",
+              "average": 616.7,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Nýdrle David",
+          "limitMet": false,
+          "bestAverage": 575.0,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U13",
+              "gender": "M",
+              "code": "BU13M",
+              "average": 575.0,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Hanzalová Izabela",
+          "limitMet": false,
+          "bestAverage": 563.0,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U13",
+              "gender": "W",
+              "code": "BU13W",
+              "average": 563.0,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Brož Adam",
+          "limitMet": false,
+          "bestAverage": 559.3,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U13",
+              "gender": "M",
+              "code": "BU13M",
+              "average": 559.3,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Soukup Milan",
+          "limitMet": false,
+          "bestAverage": 510.0,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "BU18M",
+              "average": 510.0,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Dušek František",
+          "limitMet": false,
+          "bestAverage": 508.3,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "BU18M",
+              "average": 508.3,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Čermák Antonín",
+          "limitMet": false,
+          "bestAverage": 452.0,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "BU18M",
+              "average": 452.0,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Válková Barbora",
+          "limitMet": false,
+          "bestAverage": 432.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 432.3,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "LK ARCUS Plzeň",
+      "slug": "lk-arcus-plzen",
+      "spsLabel": "SpS A",
+      "counts": {
+        "total6Plus": 10,
+        "divRL": 10,
+        "divKL": 0,
+        "divHL": 0,
+        "divTL": 0,
+        "discHalova": 10,
+        "discTercova": 10,
+        "discTerenni": 6,
+        "disc3D": 0,
+        "cupParticipants": 9,
+        "cupLimitMet": 6
+      },
+      "archers": [
+        {
+          "id": 654,
+          "name": "Krettová Julie",
+          "slug": "krettova-julie",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 33,
+          "divisions": {
+            "RL": 33
+          },
+          "disciplines": {
+            "halova": 7,
+            "tercova": 23,
+            "terenni": 3,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 7,
+              "bestValue": "552"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 23,
+              "bestValue": "628"
+            },
+            {
+              "bucketId": 1729,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 3,
+              "bestValue": "334"
+            }
+          ]
+        },
+        {
+          "id": 2427,
+          "name": "Kopička Štěpán",
+          "slug": "kopicka-stepan",
+          "ageCategories": [
+            "Žáci U15",
+            "Kadeti U18"
+          ],
+          "totalRaces": 23,
+          "divisions": {
+            "RL": 23
+          },
+          "disciplines": {
+            "halova": 9,
+            "tercova": 12,
+            "terenni": 2,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1707,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 9,
+              "bestValue": "559"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 1,
+              "bestValue": "531"
+            },
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 11,
+              "bestValue": "646"
+            },
+            {
+              "bucketId": 1730,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 2,
+              "bestValue": "313"
+            }
+          ]
+        },
+        {
+          "id": 1856,
+          "name": "Šímová Viktorie",
+          "slug": "simova-viktorie",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 23,
+          "divisions": {
+            "RL": 23
+          },
+          "disciplines": {
+            "halova": 9,
+            "tercova": 12,
+            "terenni": 2,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 9,
+              "bestValue": "564"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 12,
+              "bestValue": "664"
+            },
+            {
+              "bucketId": 1731,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 2,
+              "bestValue": "330"
+            }
+          ]
+        },
+        {
+          "id": 1888,
+          "name": "Štefl Michal",
+          "slug": "stefl-michal",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 22,
+          "divisions": {
+            "RL": 22
+          },
+          "disciplines": {
+            "halova": 8,
+            "tercova": 11,
+            "terenni": 3,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 8,
+              "bestValue": "494"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 11,
+              "bestValue": "468"
+            },
+            {
+              "bucketId": 1728,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 3,
+              "bestValue": "229"
+            }
+          ]
+        },
+        {
+          "id": 1020,
+          "name": "Staněk Richard",
+          "slug": "stanek-richard",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 21,
+          "divisions": {
+            "RL": 21
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 12,
+            "terenni": 3,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "501"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 12,
+              "bestValue": "580"
+            },
+            {
+              "bucketId": 1728,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 3,
+              "bestValue": "285"
+            }
+          ]
+        },
+        {
+          "id": 3594,
+          "name": "Fikrlová Klára",
+          "slug": "fikrlova-klara",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 20,
+          "divisions": {
+            "RL": 20
+          },
+          "disciplines": {
+            "halova": 8,
+            "tercova": 12,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 8,
+              "bestValue": "490"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 12,
+              "bestValue": "604"
+            }
+          ]
+        },
+        {
+          "id": 2796,
+          "name": "Karkošová Isabell",
+          "slug": "karkosova-isabell",
+          "ageCategories": [
+            "Žákyně U13"
+          ],
+          "totalRaces": 20,
+          "divisions": {
+            "RL": 20
+          },
+          "disciplines": {
+            "halova": 7,
+            "tercova": 13,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1708,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 7,
+              "bestValue": "550"
+            },
+            {
+              "bucketId": 1802,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "ŽWA720",
+              "races": 13,
+              "bestValue": "603"
+            }
+          ]
+        },
+        {
+          "id": 1612,
+          "name": "Vlasák Antonín",
+          "slug": "vlasak-antonin",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 17,
+          "divisions": {
+            "RL": 17
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 11,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "466"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 11,
+              "bestValue": "494"
+            }
+          ]
+        },
+        {
+          "id": 4204,
+          "name": "Kunclová Valerie",
+          "slug": "kunclova-valerie",
+          "ageCategories": [
+            "Žákyně U13"
+          ],
+          "totalRaces": 11,
+          "divisions": {
+            "RL": 11
+          },
+          "disciplines": {
+            "halova": 4,
+            "tercova": 6,
+            "terenni": 1,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1708,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "337"
+            },
+            {
+              "bucketId": 1802,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "ŽWA720",
+              "races": 6,
+              "bestValue": "472"
+            },
+            {
+              "bucketId": 1733,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "T24 / ŽT24",
+              "races": 1,
+              "bestValue": "136"
+            }
+          ]
+        },
+        {
+          "id": 3353,
+          "name": "Salkovič Daniel",
+          "slug": "salkovic-daniel",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 7,
+          "divisions": {
+            "RL": 7
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 1,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1707,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "442"
+            },
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 1,
+              "bestValue": "537"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+        {
+          "name": "Šímová Viktorie",
+          "limitMet": true,
+          "bestAverage": 662.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 662.3,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Kopička Štěpán",
+          "limitMet": true,
+          "bestAverage": 641.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 641.7,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Krettová Julie",
+          "limitMet": true,
+          "bestAverage": 618.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "RU18W",
+              "average": 618.0,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Karkošová Isabell",
+          "limitMet": true,
+          "bestAverage": 598.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "W",
+              "code": "RU13W",
+              "average": 598.7,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Fikrlová Klára",
+          "limitMet": true,
+          "bestAverage": 592.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 592.0,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Staněk Richard",
+          "limitMet": true,
+          "bestAverage": 561.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "RU18M",
+              "average": 561.3,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Kunclová Valerie",
+          "limitMet": false,
+          "bestAverage": 463.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "W",
+              "code": "RU13W",
+              "average": 463.7,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Vlasák Antonín",
+          "limitMet": false,
+          "bestAverage": 402.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "RU18M",
+              "average": 402.3,
+              "limit": 550,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Štefl Michal",
+          "limitMet": false,
+          "bestAverage": 367.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "RU18M",
+              "average": 367.0,
+              "limit": 550,
+              "met": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "LK Brno 05",
+      "slug": "lk-brno-05",
+      "spsLabel": "SpS B",
+      "counts": {
+        "total6Plus": 10,
+        "divRL": 10,
+        "divKL": 0,
+        "divHL": 0,
+        "divTL": 0,
+        "discHalova": 10,
+        "discTercova": 10,
+        "discTerenni": 1,
+        "disc3D": 0,
+        "cupParticipants": 8,
+        "cupLimitMet": 5
+      },
+      "archers": [
+        {
+          "id": 3047,
+          "name": "Vyskočilová Kateřina",
+          "slug": "vyskocilova-katerina",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 40,
+          "divisions": {
+            "RL": 40
+          },
+          "disciplines": {
+            "halova": 12,
+            "tercova": 23,
+            "terenni": 5,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 12,
+              "bestValue": "524"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 23,
+              "bestValue": "585"
+            },
+            {
+              "bucketId": 1729,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 5,
+              "bestValue": "285"
+            }
+          ]
+        },
+        {
+          "id": 4849,
+          "name": "Slámová Anna Mia",
+          "slug": "slamova-anna-mia",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 29,
+          "divisions": {
+            "RL": 29
+          },
+          "disciplines": {
+            "halova": 9,
+            "tercova": 20,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 9,
+              "bestValue": "476"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 20,
+              "bestValue": "594"
+            }
+          ]
+        },
+        {
+          "id": 3246,
+          "name": "Čech Tomáš",
+          "slug": "cech-tomas",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 29,
+          "divisions": {
+            "RL": 29
+          },
+          "disciplines": {
+            "halova": 15,
+            "tercova": 14,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 15,
+              "bestValue": "545"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 14,
+              "bestValue": "627"
+            }
+          ]
+        },
+        {
+          "id": 3632,
+          "name": "Dědičová Eliška",
+          "slug": "dedicova-eliska",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 15,
+          "divisions": {
+            "RL": 15
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 9,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "554"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 9,
+              "bestValue": "644"
+            }
+          ]
+        },
+        {
+          "id": 3067,
+          "name": "Kratina Václav",
+          "slug": "kratina-vaclav",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 14,
+          "divisions": {
+            "RL": 14
+          },
+          "disciplines": {
+            "halova": 8,
+            "tercova": 6,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 8,
+              "bestValue": "516"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 6,
+              "bestValue": "472"
+            }
+          ]
+        },
+        {
+          "id": 3409,
+          "name": "Bučková Šárka",
+          "slug": "buckova-sarka",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 12,
+          "divisions": {
+            "RL": 12
+          },
+          "disciplines": {
+            "halova": 7,
+            "tercova": 5,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 7,
+              "bestValue": "479"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 5,
+              "bestValue": "441"
+            }
+          ]
+        },
+        {
+          "id": 3404,
+          "name": "Kršek Matěj",
+          "slug": "krsek-matej",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 12,
+          "divisions": {
+            "RL": 12
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 6,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "496"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 6,
+              "bestValue": "496"
+            }
+          ]
+        },
+        {
+          "id": 3061,
+          "name": "Soukupová Veronika",
+          "slug": "soukupova-veronika",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 12,
+          "divisions": {
+            "RL": 12
+          },
+          "disciplines": {
+            "halova": 7,
+            "tercova": 5,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 7,
+              "bestValue": "485"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 5,
+              "bestValue": "488"
+            }
+          ]
+        },
+        {
+          "id": 3408,
+          "name": "Havlová Ema",
+          "slug": "havlova-ema",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 10,
+          "divisions": {
+            "RL": 10
+          },
+          "disciplines": {
+            "halova": 4,
+            "tercova": 6,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "461"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 6,
+              "bestValue": "530"
+            }
+          ]
+        },
+        {
+          "id": 4178,
+          "name": "Šifaldová Berenika",
+          "slug": "sifaldova-berenika",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 8,
+          "divisions": {
+            "RL": 8
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 3,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "525"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 3,
+              "bestValue": "531"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+        {
+          "name": "Dědičová Eliška",
+          "limitMet": true,
+          "bestAverage": 629.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 629.7,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Čech Tomáš",
+          "limitMet": true,
+          "bestAverage": 591.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "RU18M",
+              "average": 591.3,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Slámová Anna Mia",
+          "limitMet": true,
+          "bestAverage": 590.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 590.7,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Vyskočilová Kateřina",
+          "limitMet": true,
+          "bestAverage": 555.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "RU18W",
+              "average": 555.7,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Štěpánová Anna",
+          "limitMet": true,
+          "bestAverage": 532.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 532.7,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Šifaldová Berenika",
+          "limitMet": false,
+          "bestAverage": 521.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 521.7,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Havlová Ema",
+          "limitMet": false,
+          "bestAverage": 514.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 514.0,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Kršek Matěj",
+          "limitMet": false,
+          "bestAverage": 434.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "RU18M",
+              "average": 434.0,
+              "limit": 550,
+              "met": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Lukostřelba Kroměříž",
+      "slug": "lukostrelba-kromeriz",
+      "spsLabel": "SpS B",
+      "counts": {
+        "total6Plus": 10,
+        "divRL": 10,
+        "divKL": 0,
+        "divHL": 0,
+        "divTL": 0,
+        "discHalova": 9,
+        "discTercova": 10,
+        "discTerenni": 6,
+        "disc3D": 0,
+        "cupParticipants": 10,
+        "cupLimitMet": 5
+      },
+      "archers": [
+        {
+          "id": 2615,
+          "name": "Klímková Veronika",
+          "slug": "klimkova-veronika",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 34,
+          "divisions": {
+            "RL": 34
+          },
+          "disciplines": {
+            "halova": 10,
+            "tercova": 20,
+            "terenni": 4,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 10,
+              "bestValue": "534"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 20,
+              "bestValue": "592"
+            },
+            {
+              "bucketId": 1729,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 4,
+              "bestValue": "296"
+            }
+          ]
+        },
+        {
+          "id": 3794,
+          "name": "Růžková Julie",
+          "slug": "ruzkova-julie",
+          "ageCategories": [
+            "Kadetky U18",
+            "Žákyně U15"
+          ],
+          "totalRaces": 29,
+          "divisions": {
+            "RL": 29
+          },
+          "disciplines": {
+            "halova": 13,
+            "tercova": 10,
+            "terenni": 6,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 2,
+              "bestValue": "434"
+            },
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 11,
+              "bestValue": "506"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 10,
+              "bestValue": "591"
+            },
+            {
+              "bucketId": 1731,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 6,
+              "bestValue": "300"
+            }
+          ]
+        },
+        {
+          "id": 4234,
+          "name": "Navrátil Ondřej",
+          "slug": "navratil-ondrej",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 28,
+          "divisions": {
+            "RL": 28
+          },
+          "disciplines": {
+            "halova": 14,
+            "tercova": 12,
+            "terenni": 2,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1707,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 14,
+              "bestValue": "491"
+            },
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 12,
+              "bestValue": "551"
+            },
+            {
+              "bucketId": 1730,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 2,
+              "bestValue": "230"
+            }
+          ]
+        },
+        {
+          "id": 3377,
+          "name": "Velísková Michaela",
+          "slug": "veliskova-michaela",
+          "ageCategories": [
+            "Kadetky U18",
+            "Žákyně U15"
+          ],
+          "totalRaces": 27,
+          "divisions": {
+            "RL": 27
+          },
+          "disciplines": {
+            "halova": 12,
+            "tercova": 10,
+            "terenni": 5,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 2,
+              "bestValue": "454"
+            },
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 10,
+              "bestValue": "549"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 10,
+              "bestValue": "609"
+            },
+            {
+              "bucketId": 1731,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 5,
+              "bestValue": "291"
+            }
+          ]
+        },
+        {
+          "id": 2556,
+          "name": "Javoříková Sophie",
+          "slug": "javorikova-sophie",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 24,
+          "divisions": {
+            "RL": 24
+          },
+          "disciplines": {
+            "halova": 9,
+            "tercova": 9,
+            "terenni": 6,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 9,
+              "bestValue": "476"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 9,
+              "bestValue": "546"
+            },
+            {
+              "bucketId": 1729,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 6,
+              "bestValue": "271"
+            }
+          ]
+        },
+        {
+          "id": 2557,
+          "name": "Javoříková Julie",
+          "slug": "javorikova-julie",
+          "ageCategories": [
+            "Kadetky U18",
+            "Žákyně U15"
+          ],
+          "totalRaces": 23,
+          "divisions": {
+            "RL": 23
+          },
+          "disciplines": {
+            "halova": 10,
+            "tercova": 10,
+            "terenni": 3,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 1,
+              "bestValue": "407"
+            },
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 9,
+              "bestValue": "522"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 10,
+              "bestValue": "590"
+            },
+            {
+              "bucketId": 1731,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 3,
+              "bestValue": "277"
+            }
+          ]
+        },
+        {
+          "id": 2312,
+          "name": "Malcharová Thea",
+          "slug": "malcharova-thea",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 18,
+          "divisions": {
+            "RL": 18
+          },
+          "disciplines": {
+            "halova": 9,
+            "tercova": 9,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 9,
+              "bestValue": "535"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 9,
+              "bestValue": "651"
+            }
+          ]
+        },
+        {
+          "id": 2295,
+          "name": "Skopal Filip",
+          "slug": "skopal-filip",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 13,
+          "divisions": {
+            "RL": 13
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 8,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1707,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "369"
+            },
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 8,
+              "bestValue": "494"
+            }
+          ]
+        },
+        {
+          "id": 1067,
+          "name": "Ondrušková Libuše",
+          "slug": "ondruskova-libuse",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 10,
+          "divisions": {
+            "RL": 10
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 4,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "520"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 4,
+              "bestValue": "538"
+            }
+          ]
+        },
+        {
+          "id": 5391,
+          "name": "Tuma Adam",
+          "slug": "tuma-adam",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 6,
+          "divisions": {
+            "RL": 6
+          },
+          "disciplines": {
+            "halova": 0,
+            "tercova": 6,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 6,
+              "bestValue": "382"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+        {
+          "name": "Malcharová Thea",
+          "limitMet": true,
+          "bestAverage": 637.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 637.0,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Velísková Michaela",
+          "limitMet": true,
+          "bestAverage": 595.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 595.0,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Růžková Julie",
+          "limitMet": true,
+          "bestAverage": 585.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 585.3,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Klímková Veronika",
+          "limitMet": true,
+          "bestAverage": 579.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "RU18W",
+              "average": 579.7,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Javoříková Julie",
+          "limitMet": true,
+          "bestAverage": 578.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 578.7,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Navrátil Ondřej",
+          "limitMet": false,
+          "bestAverage": 542.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 542.7,
+              "limit": 550,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Ondrušková Libuše",
+          "limitMet": false,
+          "bestAverage": 521.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "RU18W",
+              "average": 521.0,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Javoříková Sophie",
+          "limitMet": false,
+          "bestAverage": 501.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "RU18W",
+              "average": 501.0,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Skopal Filip",
+          "limitMet": false,
+          "bestAverage": 465.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 465.7,
+              "limit": 550,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Tuma Adam",
+          "limitMet": false,
+          "bestAverage": 337.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 337.0,
+              "limit": 550,
+              "met": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Lukostřelba Prostějov",
+      "slug": "lukostrelba-prostejov",
+      "spsLabel": "SpS A",
+      "counts": {
+        "total6Plus": 10,
+        "divRL": 10,
+        "divKL": 0,
+        "divHL": 0,
+        "divTL": 0,
+        "discHalova": 10,
+        "discTercova": 10,
+        "discTerenni": 1,
+        "disc3D": 0,
+        "cupParticipants": 10,
+        "cupLimitMet": 7
+      },
+      "archers": [
+        {
+          "id": 2420,
+          "name": "Šinová Nikola",
+          "slug": "sinova-nikola",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 32,
+          "divisions": {
+            "RL": 32
+          },
+          "disciplines": {
+            "halova": 9,
+            "tercova": 22,
+            "terenni": 1,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 9,
+              "bestValue": "568"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 22,
+              "bestValue": "653"
+            },
+            {
+              "bucketId": 1729,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 1,
+              "bestValue": "317"
+            }
+          ]
+        },
+        {
+          "id": 2105,
+          "name": "Kopecký Jindřich",
+          "slug": "kopecky-jindrich",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 26,
+          "divisions": {
+            "RL": 26
+          },
+          "disciplines": {
+            "halova": 7,
+            "tercova": 19,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 7,
+              "bestValue": "542"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 19,
+              "bestValue": "643"
+            }
+          ]
+        },
+        {
+          "id": 2240,
+          "name": "Křečková Zuzana",
+          "slug": "kreckova-zuzana",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 25,
+          "divisions": {
+            "RL": 25
+          },
+          "disciplines": {
+            "halova": 8,
+            "tercova": 17,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 8,
+              "bestValue": "524"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 17,
+              "bestValue": "589"
+            }
+          ]
+        },
+        {
+          "id": 4656,
+          "name": "Kincl Štěpán",
+          "slug": "kincl-stepan",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 18,
+          "divisions": {
+            "RL": 18
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 12,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1707,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "483"
+            },
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 12,
+              "bestValue": "607"
+            }
+          ]
+        },
+        {
+          "id": 4001,
+          "name": "Křečková Adéla",
+          "slug": "kreckova-adela",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 17,
+          "divisions": {
+            "RL": 17
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 12,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "519"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 12,
+              "bestValue": "594"
+            }
+          ]
+        },
+        {
+          "id": 3687,
+          "name": "Zatloukal Lukáš",
+          "slug": "zatloukal-lukas",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 17,
+          "divisions": {
+            "RL": 17
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 11,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "511"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 11,
+              "bestValue": "530"
+            }
+          ]
+        },
+        {
+          "id": 4303,
+          "name": "Křesalová Lucie Anna",
+          "slug": "kresalova-lucie-anna",
+          "ageCategories": [
+            "Žákyně U13"
+          ],
+          "totalRaces": 14,
+          "divisions": {
+            "RL": 14
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 9,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1708,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "504"
+            },
+            {
+              "bucketId": 1802,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "ŽWA720",
+              "races": 9,
+              "bestValue": "583"
+            }
+          ]
+        },
+        {
+          "id": 3019,
+          "name": "Tuček Josef",
+          "slug": "tucek-josef",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 14,
+          "divisions": {
+            "RL": 14
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 8,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "506"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 8,
+              "bestValue": "563"
+            }
+          ]
+        },
+        {
+          "id": 4620,
+          "name": "Poláček Šimon",
+          "slug": "polacek-simon",
+          "ageCategories": [
+            "Žáci U13"
+          ],
+          "totalRaces": 11,
+          "divisions": {
+            "RL": 11
+          },
+          "disciplines": {
+            "halova": 3,
+            "tercova": 8,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1704,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 3,
+              "bestValue": "445"
+            },
+            {
+              "bucketId": 1785,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "ŽWA720",
+              "races": 8,
+              "bestValue": "662"
+            }
+          ]
+        },
+        {
+          "id": 4619,
+          "name": "Kopečná Eva",
+          "slug": "kopecna-eva",
+          "ageCategories": [
+            "Žákyně U13"
+          ],
+          "totalRaces": 10,
+          "divisions": {
+            "RL": 10
+          },
+          "disciplines": {
+            "halova": 3,
+            "tercova": 7,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1708,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 3,
+              "bestValue": "428"
+            },
+            {
+              "bucketId": 1802,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "ŽWA720",
+              "races": 7,
+              "bestValue": "523"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+        {
+          "name": "Šinová Nikola",
+          "limitMet": true,
+          "bestAverage": 647.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "RU18W",
+              "average": 647.7,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Kopecký Jindřich",
+          "limitMet": true,
+          "bestAverage": 633.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "RU18M",
+              "average": 633.7,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Poláček Šimon",
+          "limitMet": true,
+          "bestAverage": 626.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "M",
+              "code": "RU13M",
+              "average": 626.7,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Kincl Štěpán",
+          "limitMet": true,
+          "bestAverage": 605.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 605.7,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Křečková Adéla",
+          "limitMet": true,
+          "bestAverage": 589.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 589.7,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Křesalová Lucie Anna",
+          "limitMet": true,
+          "bestAverage": 577.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "W",
+              "code": "RU13W",
+              "average": 577.3,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Křečková Zuzana",
+          "limitMet": true,
+          "bestAverage": 573.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "RU18W",
+              "average": 573.3,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Tuček Josef",
+          "limitMet": false,
+          "bestAverage": 549.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "RU18M",
+              "average": 549.0,
+              "limit": 550,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Kopečná Eva",
+          "limitMet": false,
+          "bestAverage": 521.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "W",
+              "code": "RU13W",
+              "average": 521.0,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Zatloukal Lukáš",
+          "limitMet": false,
+          "bestAverage": 500.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "RU18M",
+              "average": 500.0,
+              "limit": 550,
+              "met": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "LK CERE",
+      "slug": "lk-cere",
+      "spsLabel": null,
+      "counts": {
+        "total6Plus": 8,
+        "divRL": 8,
+        "divKL": 0,
+        "divHL": 1,
+        "divTL": 0,
+        "discHalova": 8,
+        "discTercova": 8,
+        "discTerenni": 7,
+        "disc3D": 0,
+        "cupParticipants": 8,
+        "cupLimitMet": 1
+      },
+      "archers": [
+        {
+          "id": 4506,
+          "name": "Papežová Veronika",
+          "slug": "papezova-veronika",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 20,
+          "divisions": {
+            "RL": 20
+          },
+          "disciplines": {
+            "halova": 7,
+            "tercova": 10,
+            "terenni": 3,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 7,
+              "bestValue": "456"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 10,
+              "bestValue": "564"
+            },
+            {
+              "bucketId": 1729,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 3,
+              "bestValue": "263"
+            }
+          ]
+        },
+        {
+          "id": 2589,
+          "name": "Palyza Ondřej",
+          "slug": "palyza-ondrej",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 18,
+          "divisions": {
+            "RL": 18
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 10,
+            "terenni": 3,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "466"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 10,
+              "bestValue": "557"
+            },
+            {
+              "bucketId": 1728,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 3,
+              "bestValue": "281"
+            }
+          ]
+        },
+        {
+          "id": 3423,
+          "name": "Burešová Eliška",
+          "slug": "buresova-eliska",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 17,
+          "divisions": {
+            "RL": 17
+          },
+          "disciplines": {
+            "halova": 7,
+            "tercova": 7,
+            "terenni": 3,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 7,
+              "bestValue": "535"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 7,
+              "bestValue": "515"
+            },
+            {
+              "bucketId": 1729,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 3,
+              "bestValue": "253"
+            }
+          ]
+        },
+        {
+          "id": 3171,
+          "name": "Krumphanzlová Ema",
+          "slug": "krumphanzlova-ema",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 17,
+          "divisions": {
+            "RL": 17
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 8,
+            "terenni": 3,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "500"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 8,
+              "bestValue": "568"
+            },
+            {
+              "bucketId": 1729,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 3,
+              "bestValue": "292"
+            }
+          ]
+        },
+        {
+          "id": 2874,
+          "name": "Garšicová Veronika",
+          "slug": "garsicova-veronika",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 13,
+          "divisions": {
+            "RL": 13
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 6,
+            "terenni": 1,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "471"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 6,
+              "bestValue": "481"
+            },
+            {
+              "bucketId": 1729,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 1,
+              "bestValue": "246"
+            }
+          ]
+        },
+        {
+          "id": 3071,
+          "name": "Havlíček Vilém",
+          "slug": "havlicek-vilem",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 12,
+          "divisions": {
+            "RL": 12
+          },
+          "disciplines": {
+            "halova": 4,
+            "tercova": 5,
+            "terenni": 3,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1707,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "540"
+            },
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 5,
+              "bestValue": "628"
+            },
+            {
+              "bucketId": 1730,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 3,
+              "bestValue": "306"
+            }
+          ]
+        },
+        {
+          "id": 3158,
+          "name": "Bors Filip",
+          "slug": "bors-filip",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 8,
+          "divisions": {
+            "RL": 8
+          },
+          "disciplines": {
+            "halova": 3,
+            "tercova": 4,
+            "terenni": 1,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1707,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 3,
+              "bestValue": "429"
+            },
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 4,
+              "bestValue": "574"
+            },
+            {
+              "bucketId": 1730,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 1,
+              "bestValue": "219"
+            }
+          ]
+        },
+        {
+          "id": 4499,
+          "name": "Chromcová Anna",
+          "slug": "chromcova-anna",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 7,
+          "divisions": {
+            "RL": 6,
+            "HL": 1
+          },
+          "disciplines": {
+            "halova": 4,
+            "tercova": 3,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 3,
+              "bestValue": "410"
+            },
+            {
+              "bucketId": 1674,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 1,
+              "bestValue": "301"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 3,
+              "bestValue": "507"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+        {
+          "name": "Havlíček Vilém",
+          "limitMet": true,
+          "bestAverage": 622.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 622.3,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Bors Filip",
+          "limitMet": false,
+          "bestAverage": 549.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 549.0,
+              "limit": 550,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Krumphanzlová Ema",
+          "limitMet": false,
+          "bestAverage": 517.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "RU18W",
+              "average": 517.7,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Papežová Veronika",
+          "limitMet": false,
+          "bestAverage": 512.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "RU18W",
+              "average": 512.0,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Palyza Ondřej",
+          "limitMet": false,
+          "bestAverage": 449.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "RU18M",
+              "average": 449.0,
+              "limit": 550,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Garšicová Veronika",
+          "limitMet": false,
+          "bestAverage": 448.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "RU18W",
+              "average": 448.3,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Chromcová Anna",
+          "limitMet": false,
+          "bestAverage": 425.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 425.3,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Burešová Eliška",
+          "limitMet": false,
+          "bestAverage": 403.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "RU18W",
+              "average": 403.3,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "LO TJ Sokol Šanov",
+      "slug": "lo-tj-sokol-sanov",
+      "spsLabel": null,
+      "counts": {
+        "total6Plus": 8,
+        "divRL": 8,
+        "divKL": 0,
+        "divHL": 1,
+        "divTL": 0,
+        "discHalova": 8,
+        "discTercova": 8,
+        "discTerenni": 1,
+        "disc3D": 0,
+        "cupParticipants": 5,
+        "cupLimitMet": 3
+      },
+      "archers": [
+        {
+          "id": 2434,
+          "name": "Fučíková Adéla",
+          "slug": "fucikova-adela",
+          "ageCategories": [
+            "Žákyně U13",
+            "Žákyně U15"
+          ],
+          "totalRaces": 43,
+          "divisions": {
+            "RL": 43
+          },
+          "disciplines": {
+            "halova": 13,
+            "tercova": 27,
+            "terenni": 3,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1708,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 10,
+              "bestValue": "556"
+            },
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 3,
+              "bestValue": "512"
+            },
+            {
+              "bucketId": 1802,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "ŽWA720",
+              "races": 10,
+              "bestValue": "678"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 17,
+              "bestValue": "625"
+            },
+            {
+              "bucketId": 1733,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "T24 / ŽT24",
+              "races": 3,
+              "bestValue": "271"
+            }
+          ]
+        },
+        {
+          "id": 2124,
+          "name": "Škarek Petr",
+          "slug": "skarek-petr",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 26,
+          "divisions": {
+            "RL": 26
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 20,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1707,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "520"
+            },
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 20,
+              "bestValue": "620"
+            }
+          ]
+        },
+        {
+          "id": 4643,
+          "name": "Kovářová Tereza",
+          "slug": "kovarova-tereza",
+          "ageCategories": [
+            "Žákyně U13"
+          ],
+          "totalRaces": 18,
+          "divisions": {
+            "RL": 18
+          },
+          "disciplines": {
+            "halova": 9,
+            "tercova": 9,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1708,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 9,
+              "bestValue": "540"
+            },
+            {
+              "bucketId": 1802,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "ŽWA720",
+              "races": 9,
+              "bestValue": "621"
+            }
+          ]
+        },
+        {
+          "id": 1633,
+          "name": "Stehlíková Inka",
+          "slug": "stehlikova-inka",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 17,
+          "divisions": {
+            "RL": 17
+          },
+          "disciplines": {
+            "halova": 8,
+            "tercova": 9,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 8,
+              "bestValue": "510"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 9,
+              "bestValue": "543"
+            }
+          ]
+        },
+        {
+          "id": 3473,
+          "name": "Mikulcová Nela",
+          "slug": "mikulcova-nela",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 16,
+          "divisions": {
+            "RL": 16
+          },
+          "disciplines": {
+            "halova": 8,
+            "tercova": 8,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 8,
+              "bestValue": "469"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 8,
+              "bestValue": "523"
+            }
+          ]
+        },
+        {
+          "id": 3734,
+          "name": "Stránská Erika",
+          "slug": "stranska-erika",
+          "ageCategories": [
+            "Žákyně U13",
+            "Žákyně U15"
+          ],
+          "totalRaces": 16,
+          "divisions": {
+            "RL": 3,
+            "HL": 13
+          },
+          "disciplines": {
+            "halova": 8,
+            "tercova": 8,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1708,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 3,
+              "bestValue": "512"
+            },
+            {
+              "bucketId": 1710,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "527"
+            },
+            {
+              "bucketId": 1808,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "ŽWA720",
+              "races": 6,
+              "bestValue": "669"
+            },
+            {
+              "bucketId": 1787,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 2,
+              "bestValue": "552"
+            }
+          ]
+        },
+        {
+          "id": 2878,
+          "name": "Spišiak Sebastian",
+          "slug": "spisiak-sebastian",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 15,
+          "divisions": {
+            "RL": 15
+          },
+          "disciplines": {
+            "halova": 7,
+            "tercova": 8,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 7,
+              "bestValue": "407"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 8,
+              "bestValue": "451"
+            }
+          ]
+        },
+        {
+          "id": 2879,
+          "name": "Fagulová Michaela",
+          "slug": "fagulova-michaela",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 14,
+          "divisions": {
+            "RL": 14
+          },
+          "disciplines": {
+            "halova": 8,
+            "tercova": 6,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 8,
+              "bestValue": "465"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 6,
+              "bestValue": "490"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+        {
+          "name": "Fučíková Adéla",
+          "limitMet": true,
+          "bestAverage": 668.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "W",
+              "code": "RU13W",
+              "average": 668.3,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Kovářová Tereza",
+          "limitMet": true,
+          "bestAverage": 608.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "W",
+              "code": "RU13W",
+              "average": 608.7,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Škarek Petr",
+          "limitMet": true,
+          "bestAverage": 603.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 603.0,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Stránská Erika",
+          "limitMet": false,
+          "bestAverage": 666.7,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U13",
+              "gender": "W",
+              "code": "BU13W",
+              "average": 666.7,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Fagulová Michaela",
+          "limitMet": false,
+          "bestAverage": 470.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 470.7,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "SLK Opava",
+      "slug": "slk-opava",
+      "spsLabel": null,
+      "counts": {
+        "total6Plus": 8,
+        "divRL": 6,
+        "divKL": 0,
+        "divHL": 3,
+        "divTL": 0,
+        "discHalova": 8,
+        "discTercova": 8,
+        "discTerenni": 0,
+        "disc3D": 1,
+        "cupParticipants": 8,
+        "cupLimitMet": 2
+      },
+      "archers": [
+        {
+          "id": 4321,
+          "name": "Ištvánek Richard",
+          "slug": "istvanek-richard",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 17,
+          "divisions": {
+            "HL": 17
+          },
+          "disciplines": {
+            "halova": 9,
+            "tercova": 8,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1717,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 9,
+              "bestValue": "442"
+            },
+            {
+              "bucketId": 1848,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 8,
+              "bestValue": "555"
+            }
+          ]
+        },
+        {
+          "id": 3493,
+          "name": "Mrkvová Magdaléna",
+          "slug": "mrkvova-magdalena",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 16,
+          "divisions": {
+            "RL": 16
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 10,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "513"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 10,
+              "bestValue": "593"
+            }
+          ]
+        },
+        {
+          "id": 3996,
+          "name": "Solný Martin",
+          "slug": "solny-martin",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 14,
+          "divisions": {
+            "HL": 14
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 6,
+            "terenni": 0,
+            "3d": 2
+          },
+          "rankings": [
+            {
+              "bucketId": 1709,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "399"
+            },
+            {
+              "bucketId": 1807,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 6,
+              "bestValue": "514"
+            },
+            {
+              "bucketId": 1827,
+              "discipline": "3D lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "3D",
+              "races": 2,
+              "bestValue": "6.62"
+            }
+          ]
+        },
+        {
+          "id": 4975,
+          "name": "Němcová Lilian",
+          "slug": "nemcova-lilian",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 13,
+          "divisions": {
+            "RL": 13
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 8,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "419"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 8,
+              "bestValue": "584"
+            }
+          ]
+        },
+        {
+          "id": 3859,
+          "name": "Motyčka Timotej",
+          "slug": "motycka-timotej",
+          "ageCategories": [
+            "Žáci U13"
+          ],
+          "totalRaces": 12,
+          "divisions": {
+            "RL": 12
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 6,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1704,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "489"
+            },
+            {
+              "bucketId": 1785,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "ŽWA720",
+              "races": 6,
+              "bestValue": "551"
+            }
+          ]
+        },
+        {
+          "id": 4943,
+          "name": "Kalusová Kateřina",
+          "slug": "kalusova-katerina",
+          "ageCategories": [
+            "Žákyně U13"
+          ],
+          "totalRaces": 11,
+          "divisions": {
+            "RL": 11
+          },
+          "disciplines": {
+            "halova": 7,
+            "tercova": 4,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1708,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 7,
+              "bestValue": "468"
+            },
+            {
+              "bucketId": 1802,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "ŽWA720",
+              "races": 4,
+              "bestValue": "476"
+            }
+          ]
+        },
+        {
+          "id": 4944,
+          "name": "Klimešová Zuzana",
+          "slug": "klimesova-zuzana",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 10,
+          "divisions": {
+            "RL": 7,
+            "HL": 3
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 4,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "309"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 1,
+              "bestValue": "166"
+            },
+            {
+              "bucketId": 1842,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 3,
+              "bestValue": "290"
+            }
+          ]
+        },
+        {
+          "id": 3492,
+          "name": "Kučera Patrik",
+          "slug": "kucera-patrik",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 8,
+          "divisions": {
+            "RL": 8
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 3,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "479"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 3,
+              "bestValue": "469"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+        {
+          "name": "Mrkvová Magdaléna",
+          "limitMet": true,
+          "bestAverage": 584.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 584.7,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Němcová Lilian",
+          "limitMet": true,
+          "bestAverage": 532.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 532.3,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Ištvánek Richard",
+          "limitMet": false,
+          "bestAverage": 527.3,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "BU15M",
+              "average": 527.3,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Motyčka Timotej",
+          "limitMet": false,
+          "bestAverage": 518.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "M",
+              "code": "RU13M",
+              "average": 518.0,
+              "limit": 550,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Solný Martin",
+          "limitMet": false,
+          "bestAverage": 504.0,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "BU18M",
+              "average": 504.0,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Buček Patrik",
+          "limitMet": false,
+          "bestAverage": 446.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 446.3,
+              "limit": 550,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Kalusová Kateřina",
+          "limitMet": false,
+          "bestAverage": 374.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "W",
+              "code": "RU13W",
+              "average": 374.7,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Klimešová Zuzana",
+          "limitMet": false,
+          "bestAverage": 277.3,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "BU18W",
+              "average": 277.3,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "JIM Archery club Kyšice",
+      "slug": "jim-archery-club-kysice",
+      "spsLabel": null,
+      "counts": {
+        "total6Plus": 7,
+        "divRL": 7,
+        "divKL": 1,
+        "divHL": 0,
+        "divTL": 0,
+        "discHalova": 7,
+        "discTercova": 7,
+        "discTerenni": 3,
+        "disc3D": 0,
+        "cupParticipants": 3,
+        "cupLimitMet": 3
+      },
+      "archers": [
+        {
+          "id": 3787,
+          "name": "Pecháčková Amálie",
+          "slug": "pechackova-amalie",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 22,
+          "divisions": {
+            "RL": 22
+          },
+          "disciplines": {
+            "halova": 9,
+            "tercova": 5,
+            "terenni": 8,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 9,
+              "bestValue": "443"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 5,
+              "bestValue": "440"
+            },
+            {
+              "bucketId": 1729,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 8,
+              "bestValue": "238"
+            }
+          ]
+        },
+        {
+          "id": 3121,
+          "name": "Kočí Tomáš",
+          "slug": "koci-tomas",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 21,
+          "divisions": {
+            "RL": 21
+          },
+          "disciplines": {
+            "halova": 8,
+            "tercova": 13,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1707,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 8,
+              "bestValue": "538"
+            },
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 13,
+              "bestValue": "612"
+            }
+          ]
+        },
+        {
+          "id": 4184,
+          "name": "Lukešová Karolína",
+          "slug": "lukesova-karolina",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 21,
+          "divisions": {
+            "RL": 21
+          },
+          "disciplines": {
+            "halova": 9,
+            "tercova": 6,
+            "terenni": 6,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 9,
+              "bestValue": "536"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 6,
+              "bestValue": "608"
+            },
+            {
+              "bucketId": 1729,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 6,
+              "bestValue": "328"
+            }
+          ]
+        },
+        {
+          "id": 4688,
+          "name": "Rancová Tereza",
+          "slug": "rancova-tereza",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 12,
+          "divisions": {
+            "RL": 12
+          },
+          "disciplines": {
+            "halova": 7,
+            "tercova": 5,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 7,
+              "bestValue": "498"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 5,
+              "bestValue": "583"
+            }
+          ]
+        },
+        {
+          "id": 4185,
+          "name": "Prachařová Eliška",
+          "slug": "pracharova-eliska",
+          "ageCategories": [
+            "Žákyně U13"
+          ],
+          "totalRaces": 11,
+          "divisions": {
+            "RL": 11
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 5,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1708,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "506"
+            },
+            {
+              "bucketId": 1802,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "ŽWA720",
+              "races": 5,
+              "bestValue": "563"
+            }
+          ]
+        },
+        {
+          "id": 4779,
+          "name": "Bloomfield Sofie",
+          "slug": "bloomfield-sofie",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 10,
+          "divisions": {
+            "RL": 1,
+            "KL": 9
+          },
+          "disciplines": {
+            "halova": 1,
+            "tercova": 5,
+            "terenni": 4,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 1,
+              "bestValue": "272"
+            },
+            {
+              "bucketId": 1834,
+              "discipline": "Terčová lukostřelba",
+              "division": "KL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 5,
+              "bestValue": "592"
+            },
+            {
+              "bucketId": 1883,
+              "discipline": "Terénní lukostřelba",
+              "division": "KL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 4,
+              "bestValue": "334"
+            }
+          ]
+        },
+        {
+          "id": 3125,
+          "name": "Červená Valentýna",
+          "slug": "cervena-valentyna",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 9,
+          "divisions": {
+            "RL": 9
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 4,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "479"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 4,
+              "bestValue": "511"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+        {
+          "name": "Kočí Tomáš",
+          "limitMet": true,
+          "bestAverage": 603.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 603.3,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Rancová Tereza",
+          "limitMet": true,
+          "bestAverage": 557.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 557.7,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Prachařová Eliška",
+          "limitMet": true,
+          "bestAverage": 542.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "W",
+              "code": "RU13W",
+              "average": 542.7,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Lukostřelba Olomouc",
+      "slug": "lukostrelba-olomouc",
+      "spsLabel": null,
+      "counts": {
+        "total6Plus": 7,
+        "divRL": 7,
+        "divKL": 0,
+        "divHL": 0,
+        "divTL": 0,
+        "discHalova": 7,
+        "discTercova": 7,
+        "discTerenni": 2,
+        "disc3D": 0,
+        "cupParticipants": 5,
+        "cupLimitMet": 2
+      },
+      "archers": [
+        {
+          "id": 2047,
+          "name": "Doleželová Veronika",
+          "slug": "dolezelova-veronika",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 35,
+          "divisions": {
+            "RL": 35
+          },
+          "disciplines": {
+            "halova": 12,
+            "tercova": 17,
+            "terenni": 6,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 12,
+              "bestValue": "567"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 17,
+              "bestValue": "638"
+            },
+            {
+              "bucketId": 1729,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 6,
+              "bestValue": "345"
+            }
+          ]
+        },
+        {
+          "id": 5246,
+          "name": "Šebestová Julie",
+          "slug": "sebestova-julie",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 26,
+          "divisions": {
+            "RL": 26
+          },
+          "disciplines": {
+            "halova": 7,
+            "tercova": 19,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 7,
+              "bestValue": "492"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 19,
+              "bestValue": "616"
+            }
+          ]
+        },
+        {
+          "id": 5245,
+          "name": "Hájek Václav",
+          "slug": "hajek-vaclav",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 21,
+          "divisions": {
+            "RL": 21
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 15,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1707,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "472"
+            },
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 15,
+              "bestValue": "534"
+            }
+          ]
+        },
+        {
+          "id": 5244,
+          "name": "Šustková Anna",
+          "slug": "sustkova-anna",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 13,
+          "divisions": {
+            "RL": 13
+          },
+          "disciplines": {
+            "halova": 7,
+            "tercova": 6,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 7,
+              "bestValue": "447"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 6,
+              "bestValue": "483"
+            }
+          ]
+        },
+        {
+          "id": 5247,
+          "name": "Jurečka Alex",
+          "slug": "jurecka-alex",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 9,
+          "divisions": {
+            "RL": 9
+          },
+          "disciplines": {
+            "halova": 4,
+            "tercova": 4,
+            "terenni": 1,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "407"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 4,
+              "bestValue": "455"
+            },
+            {
+              "bucketId": 1728,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 1,
+              "bestValue": "198"
+            }
+          ]
+        },
+        {
+          "id": 5249,
+          "name": "Červenková Eliška",
+          "slug": "cervenkova-eliska",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 7,
+          "divisions": {
+            "RL": 7
+          },
+          "disciplines": {
+            "halova": 3,
+            "tercova": 4,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 3,
+              "bestValue": "313"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 4,
+              "bestValue": "316"
+            }
+          ]
+        },
+        {
+          "id": 4151,
+          "name": "Krátký Jakub",
+          "slug": "kratky-jakub",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 6,
+          "divisions": {
+            "RL": 6
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 1,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1707,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "484"
+            },
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 1,
+              "bestValue": "491"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+        {
+          "name": "Doleželová Veronika",
+          "limitMet": true,
+          "bestAverage": 632.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "RU18W",
+              "average": 632.3,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Šebestová Julie",
+          "limitMet": true,
+          "bestAverage": 610.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 610.7,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Hájek Václav",
+          "limitMet": false,
+          "bestAverage": 522.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 522.7,
+              "limit": 550,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Šustková Anna",
+          "limitMet": false,
+          "bestAverage": 439.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 439.3,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Červenková Eliška",
+          "limitMet": false,
+          "bestAverage": 280.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 280.7,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "SK Bystřice",
+      "slug": "sk-bystrice",
+      "spsLabel": null,
+      "counts": {
+        "total6Plus": 7,
+        "divRL": 7,
+        "divKL": 0,
+        "divHL": 1,
+        "divTL": 0,
+        "discHalova": 7,
+        "discTercova": 7,
+        "discTerenni": 5,
+        "disc3D": 0,
+        "cupParticipants": 6,
+        "cupLimitMet": 3
+      },
+      "archers": [
+        {
+          "id": 1184,
+          "name": "Chlupsa Ondřej",
+          "slug": "chlupsa-ondrej",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 22,
+          "divisions": {
+            "RL": 22
+          },
+          "disciplines": {
+            "halova": 9,
+            "tercova": 10,
+            "terenni": 3,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 9,
+              "bestValue": "515"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 10,
+              "bestValue": "554"
+            },
+            {
+              "bucketId": 1728,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 3,
+              "bestValue": "291"
+            }
+          ]
+        },
+        {
+          "id": 3786,
+          "name": "Fatková Karolína",
+          "slug": "fatkova-karolina",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 22,
+          "divisions": {
+            "RL": 22
+          },
+          "disciplines": {
+            "halova": 7,
+            "tercova": 12,
+            "terenni": 3,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 7,
+              "bestValue": "465"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 12,
+              "bestValue": "561"
+            },
+            {
+              "bucketId": 1731,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 3,
+              "bestValue": "263"
+            }
+          ]
+        },
+        {
+          "id": 3351,
+          "name": "Tkachuk Yaroslava",
+          "slug": "tkachuk-yaroslava",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 17,
+          "divisions": {
+            "RL": 17
+          },
+          "disciplines": {
+            "halova": 8,
+            "tercova": 7,
+            "terenni": 2,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 8,
+              "bestValue": "445"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 7,
+              "bestValue": "570"
+            },
+            {
+              "bucketId": 1731,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 2,
+              "bestValue": "216"
+            }
+          ]
+        },
+        {
+          "id": 4310,
+          "name": "Vyk Adam",
+          "slug": "vyk-adam",
+          "ageCategories": [
+            "Žáci U13"
+          ],
+          "totalRaces": 17,
+          "divisions": {
+            "RL": 17
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 11,
+            "terenni": 1,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1704,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "338"
+            },
+            {
+              "bucketId": 1785,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "ŽWA720",
+              "races": 11,
+              "bestValue": "446"
+            },
+            {
+              "bucketId": 1732,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "T24 / ŽT24",
+              "races": 1,
+              "bestValue": "120"
+            }
+          ]
+        },
+        {
+          "id": 4548,
+          "name": "Weigert Daniel",
+          "slug": "weigert-daniel",
+          "ageCategories": [
+            "Žáci U13"
+          ],
+          "totalRaces": 14,
+          "divisions": {
+            "RL": 14
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 9,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1704,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "495"
+            },
+            {
+              "bucketId": 1785,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "ŽWA720",
+              "races": 9,
+              "bestValue": "619"
+            }
+          ]
+        },
+        {
+          "id": 4740,
+          "name": "Setničková Stella Josefina",
+          "slug": "setnickova-stella-josefina",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 13,
+          "divisions": {
+            "HL": 3,
+            "RL": 10
+          },
+          "disciplines": {
+            "halova": 3,
+            "tercova": 7,
+            "terenni": 3,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1674,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 3,
+              "bestValue": "315"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 7,
+              "bestValue": "516"
+            },
+            {
+              "bucketId": 1731,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 3,
+              "bestValue": "219"
+            }
+          ]
+        },
+        {
+          "id": 3685,
+          "name": "Pivoňková Antonie",
+          "slug": "pivonkova-antonie",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 7,
+          "divisions": {
+            "RL": 7
+          },
+          "disciplines": {
+            "halova": 2,
+            "tercova": 5,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 2,
+              "bestValue": "465"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 5,
+              "bestValue": "480"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+        {
+          "name": "Weigert Daniel",
+          "limitMet": true,
+          "bestAverage": 600.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "M",
+              "code": "RU13M",
+              "average": 600.7,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Tkachuk Yaroslava",
+          "limitMet": true,
+          "bestAverage": 557.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 557.0,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Fatková Karolína",
+          "limitMet": true,
+          "bestAverage": 536.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 536.7,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Setničková Stella Josefina",
+          "limitMet": false,
+          "bestAverage": 486.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 486.7,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Píška Vojtěch",
+          "limitMet": false,
+          "bestAverage": 465.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "M",
+              "code": "RU13M",
+              "average": 465.0,
+              "limit": 550,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Vyk Adam",
+          "limitMet": false,
+          "bestAverage": 438.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "M",
+              "code": "RU13M",
+              "average": 438.3,
+              "limit": 550,
+              "met": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "TJ Sokol Kostelec na Hané LK1997",
+      "slug": "tj-sokol-kostelec-na-hane-lk1997",
+      "spsLabel": null,
+      "counts": {
+        "total6Plus": 7,
+        "divRL": 6,
+        "divKL": 0,
+        "divHL": 1,
+        "divTL": 0,
+        "discHalova": 7,
+        "discTercova": 6,
+        "discTerenni": 1,
+        "disc3D": 0,
+        "cupParticipants": 7,
+        "cupLimitMet": 2
+      },
+      "archers": [
+        {
+          "id": 4399,
+          "name": "Šinová Aneta",
+          "slug": "sinova-aneta",
+          "ageCategories": [
+            "Kadetky U18",
+            "Žákyně U15"
+          ],
+          "totalRaces": 35,
+          "divisions": {
+            "RL": 35
+          },
+          "disciplines": {
+            "halova": 12,
+            "tercova": 21,
+            "terenni": 2,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 2,
+              "bestValue": "443"
+            },
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 10,
+              "bestValue": "552"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 21,
+              "bestValue": "647"
+            },
+            {
+              "bucketId": 1731,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 2,
+              "bestValue": "290"
+            }
+          ]
+        },
+        {
+          "id": 3752,
+          "name": "Mlčochová Elena",
+          "slug": "mlcochova-elena",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 27,
+          "divisions": {
+            "RL": 27
+          },
+          "disciplines": {
+            "halova": 10,
+            "tercova": 17,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 10,
+              "bestValue": "533"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 17,
+              "bestValue": "602"
+            }
+          ]
+        },
+        {
+          "id": 5008,
+          "name": "Kolíková Alice",
+          "slug": "kolikova-alice",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 10,
+          "divisions": {
+            "RL": 10
+          },
+          "disciplines": {
+            "halova": 3,
+            "tercova": 7,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 3,
+              "bestValue": "419"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 7,
+              "bestValue": "541"
+            }
+          ]
+        },
+        {
+          "id": 2975,
+          "name": "Mrázková Barbora",
+          "slug": "mrazkova-barbora",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 8,
+          "divisions": {
+            "RL": 8
+          },
+          "disciplines": {
+            "halova": 3,
+            "tercova": 5,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 3,
+              "bestValue": "463"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 5,
+              "bestValue": "454"
+            }
+          ]
+        },
+        {
+          "id": 4244,
+          "name": "Crhová Natálie",
+          "slug": "crhova-natalie",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 7,
+          "divisions": {
+            "HL": 7
+          },
+          "disciplines": {
+            "halova": 4,
+            "tercova": 3,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1674,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "298"
+            },
+            {
+              "bucketId": 1787,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 3,
+              "bestValue": "464"
+            }
+          ]
+        },
+        {
+          "id": 4726,
+          "name": "Koláčková Michelle",
+          "slug": "kolackova-michelle",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 6,
+          "divisions": {
+            "RL": 6
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 0,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "371"
+            }
+          ]
+        },
+        {
+          "id": 5219,
+          "name": "Pořízka Karel",
+          "slug": "porizka-karel",
+          "ageCategories": [
+            "Žáci U13"
+          ],
+          "totalRaces": 6,
+          "divisions": {
+            "RL": 6
+          },
+          "disciplines": {
+            "halova": 1,
+            "tercova": 5,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1704,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 1,
+              "bestValue": "488"
+            },
+            {
+              "bucketId": 1785,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "ŽWA720",
+              "races": 5,
+              "bestValue": "471"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+        {
+          "name": "Šinová Aneta",
+          "limitMet": true,
+          "bestAverage": 636.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 636.0,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Mlčochová Elena",
+          "limitMet": true,
+          "bestAverage": 597.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 597.7,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Dýčka Rostislav",
+          "limitMet": false,
+          "bestAverage": 465.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "M",
+              "code": "RU13M",
+              "average": 465.3,
+              "limit": 550,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Crhová Natálie",
+          "limitMet": false,
+          "bestAverage": 452.0,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "BU15W",
+              "average": 452.0,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Brabec Štěpán",
+          "limitMet": false,
+          "bestAverage": 418.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "M",
+              "code": "RU13M",
+              "average": 418.3,
+              "limit": 550,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Ježiorová Alice",
+          "limitMet": false,
+          "bestAverage": 417.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "W",
+              "code": "RU13W",
+              "average": 417.0,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Pořízka Karel",
+          "limitMet": false,
+          "bestAverage": 405.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "M",
+              "code": "RU13M",
+              "average": 405.0,
+              "limit": 550,
+              "met": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "name": "TJ Sokol Letovice",
+      "slug": "tj-sokol-letovice",
+      "spsLabel": null,
+      "counts": {
+        "total6Plus": 7,
+        "divRL": 0,
+        "divKL": 0,
+        "divHL": 7,
+        "divTL": 0,
+        "discHalova": 7,
+        "discTercova": 6,
+        "discTerenni": 4,
+        "disc3D": 3,
+        "cupParticipants": 5,
+        "cupLimitMet": 0
+      },
+      "archers": [
+        {
+          "id": 4697,
+          "name": "Kintr Jakub",
+          "slug": "kintr-jakub",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 20,
+          "divisions": {
+            "HL": 20
+          },
+          "disciplines": {
+            "halova": 7,
+            "tercova": 6,
+            "terenni": 5,
+            "3d": 2
+          },
+          "rankings": [
+            {
+              "bucketId": 1717,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 7,
+              "bestValue": "448"
+            },
+            {
+              "bucketId": 1848,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 6,
+              "bestValue": "563"
+            },
+            {
+              "bucketId": 1796,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 5,
+              "bestValue": "253"
+            },
+            {
+              "bucketId": 1678,
+              "discipline": "3D lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "3D",
+              "races": 2,
+              "bestValue": "5.77"
+            }
+          ]
+        },
+        {
+          "id": 5237,
+          "name": "Martinek Jakub",
+          "slug": "martinek-jakub",
+          "ageCategories": [
+            "Žáci U13"
+          ],
+          "totalRaces": 17,
+          "divisions": {
+            "HL": 17
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 6,
+            "terenni": 4,
+            "3d": 2
+          },
+          "rankings": [
+            {
+              "bucketId": 1718,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "446"
+            },
+            {
+              "bucketId": 1788,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "ŽWA720",
+              "races": 6,
+              "bestValue": "636"
+            },
+            {
+              "bucketId": 1740,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "T24 / ŽT24",
+              "races": 4,
+              "bestValue": "266"
+            },
+            {
+              "bucketId": 1679,
+              "discipline": "3D lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "3D",
+              "races": 2,
+              "bestValue": "8.25"
+            }
+          ]
+        },
+        {
+          "id": 5142,
+          "name": "Dobeš Vojtěch",
+          "slug": "dobes-vojtech",
+          "ageCategories": [
+            "Žáci U13"
+          ],
+          "totalRaces": 16,
+          "divisions": {
+            "HL": 16
+          },
+          "disciplines": {
+            "halova": 7,
+            "tercova": 5,
+            "terenni": 3,
+            "3d": 1
+          },
+          "rankings": [
+            {
+              "bucketId": 1718,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 7,
+              "bestValue": "432"
+            },
+            {
+              "bucketId": 1788,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "ŽWA720",
+              "races": 5,
+              "bestValue": "593"
+            },
+            {
+              "bucketId": 1740,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "T24 / ŽT24",
+              "races": 3,
+              "bestValue": "219"
+            },
+            {
+              "bucketId": 1679,
+              "discipline": "3D lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "3D",
+              "races": 1,
+              "bestValue": "6.81"
+            }
+          ]
+        },
+        {
+          "id": 5262,
+          "name": "Burešová Daniela",
+          "slug": "buresova-daniela",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 10,
+          "divisions": {
+            "HL": 10
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 5,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1674,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "365"
+            },
+            {
+              "bucketId": 1787,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 5,
+              "bestValue": "489"
+            }
+          ]
+        },
+        {
+          "id": 4691,
+          "name": "Nováková Ema",
+          "slug": "novakova-ema",
+          "ageCategories": [
+            "Žákyně U13"
+          ],
+          "totalRaces": 10,
+          "divisions": {
+            "HL": 10
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 5,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1710,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "358"
+            },
+            {
+              "bucketId": 1808,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "ŽWA720",
+              "races": 5,
+              "bestValue": "553"
+            }
+          ]
+        },
+        {
+          "id": 4155,
+          "name": "Zachovalová Izabela",
+          "slug": "zachovalova-izabela",
+          "ageCategories": [
+            "Žákyně U13"
+          ],
+          "totalRaces": 9,
+          "divisions": {
+            "HL": 9
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 1,
+            "terenni": 2,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1710,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "472"
+            },
+            {
+              "bucketId": 1808,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "ŽWA720",
+              "races": 1,
+              "bestValue": "437"
+            },
+            {
+              "bucketId": 1741,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "T24 / ŽT24",
+              "races": 2,
+              "bestValue": "132"
+            }
+          ]
+        },
+        {
+          "id": 4692,
+          "name": "Bělehradová Karolína",
+          "slug": "belehradova-karolina",
+          "ageCategories": [
+            "Žákyně U13"
+          ],
+          "totalRaces": 6,
+          "divisions": {
+            "HL": 6
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 0,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1710,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "415"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+        {
+          "name": "Martinek Jakub",
+          "limitMet": false,
+          "bestAverage": 634.7,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U13",
+              "gender": "M",
+              "code": "BU13M",
+              "average": 634.7,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Dobeš Vojtěch",
+          "limitMet": false,
+          "bestAverage": 589.7,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U13",
+              "gender": "M",
+              "code": "BU13M",
+              "average": 589.7,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Kintr Jakub",
+          "limitMet": false,
+          "bestAverage": 545.7,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "BU15M",
+              "average": 545.7,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Nováková Ema",
+          "limitMet": false,
+          "bestAverage": 542.7,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U13",
+              "gender": "W",
+              "code": "BU13W",
+              "average": 542.7,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Burešová Daniela",
+          "limitMet": false,
+          "bestAverage": 467.3,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "BU15W",
+              "average": 467.3,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "TJ Spartak Chrást",
+      "slug": "tj-spartak-chrast",
+      "spsLabel": null,
+      "counts": {
+        "total6Plus": 6,
+        "divRL": 6,
+        "divKL": 0,
+        "divHL": 0,
+        "divTL": 0,
+        "discHalova": 6,
+        "discTercova": 6,
+        "discTerenni": 4,
+        "disc3D": 0,
+        "cupParticipants": 6,
+        "cupLimitMet": 2
+      },
+      "archers": [
+        {
+          "id": 2714,
+          "name": "Pirner Patrik",
+          "slug": "pirner-patrik",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 30,
+          "divisions": {
+            "RL": 30
+          },
+          "disciplines": {
+            "halova": 9,
+            "tercova": 18,
+            "terenni": 3,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1707,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 9,
+              "bestValue": "539"
+            },
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 18,
+              "bestValue": "663"
+            },
+            {
+              "bucketId": 1730,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 3,
+              "bestValue": "306"
+            }
+          ]
+        },
+        {
+          "id": 2711,
+          "name": "Bečková Alžběta",
+          "slug": "beckova-alzbeta",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 22,
+          "divisions": {
+            "RL": 22
+          },
+          "disciplines": {
+            "halova": 10,
+            "tercova": 9,
+            "terenni": 3,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 10,
+              "bestValue": "490"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 9,
+              "bestValue": "508"
+            },
+            {
+              "bucketId": 1731,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 3,
+              "bestValue": "213"
+            }
+          ]
+        },
+        {
+          "id": 2168,
+          "name": "Čechura Daniel",
+          "slug": "cechura-daniel",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 16,
+          "divisions": {
+            "RL": 16
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 10,
+            "terenni": 1,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "503"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 10,
+              "bestValue": "583"
+            },
+            {
+              "bucketId": 1728,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 1,
+              "bestValue": "255"
+            }
+          ]
+        },
+        {
+          "id": 4469,
+          "name": "Pechman Ondřej",
+          "slug": "pechman-ondrej",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 14,
+          "divisions": {
+            "RL": 14
+          },
+          "disciplines": {
+            "halova": 4,
+            "tercova": 8,
+            "terenni": 2,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1707,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "376"
+            },
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 8,
+              "bestValue": "457"
+            },
+            {
+              "bucketId": 1730,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 2,
+              "bestValue": "195"
+            }
+          ]
+        },
+        {
+          "id": 3783,
+          "name": "Pelikánová Amálie",
+          "slug": "pelikanova-amalie",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 13,
+          "divisions": {
+            "RL": 13
+          },
+          "disciplines": {
+            "halova": 4,
+            "tercova": 9,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "414"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 9,
+              "bestValue": "439"
+            }
+          ]
+        },
+        {
+          "id": 2169,
+          "name": "Čechurová Veronika",
+          "slug": "cechurova-veronika",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 11,
+          "divisions": {
+            "RL": 11
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 6,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "417"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 6,
+              "bestValue": "428"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+        {
+          "name": "Pirner Patrik",
+          "limitMet": true,
+          "bestAverage": 644.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 644.0,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Čechura Daniel",
+          "limitMet": true,
+          "bestAverage": 568.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "RU18M",
+              "average": 568.3,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Bečková Alžběta",
+          "limitMet": false,
+          "bestAverage": 503.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 503.3,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Pechman Ondřej",
+          "limitMet": false,
+          "bestAverage": 449.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 449.3,
+              "limit": 550,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Pelikánová Amálie",
+          "limitMet": false,
+          "bestAverage": 424.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 424.7,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Čechurová Veronika",
+          "limitMet": false,
+          "bestAverage": 415.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 415.3,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "SK Přerov 1908",
+      "slug": "sk-prerov-1908",
+      "spsLabel": null,
+      "counts": {
+        "total6Plus": 5,
+        "divRL": 5,
+        "divKL": 0,
+        "divHL": 0,
+        "divTL": 0,
+        "discHalova": 5,
+        "discTercova": 5,
+        "discTerenni": 0,
+        "disc3D": 0,
+        "cupParticipants": 2,
+        "cupLimitMet": 2
+      },
+      "archers": [
+        {
+          "id": 3662,
+          "name": "Hudeček Kryštof",
+          "slug": "hudecek-krystof",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 12,
+          "divisions": {
+            "RL": 12
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 7,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1707,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "527"
+            },
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 7,
+              "bestValue": "614"
+            }
+          ]
+        },
+        {
+          "id": 3987,
+          "name": "Novotný Mikuláš",
+          "slug": "novotny-mikulas",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 12,
+          "divisions": {
+            "RL": 12
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 6,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1707,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "447"
+            },
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 6,
+              "bestValue": "577"
+            }
+          ]
+        },
+        {
+          "id": 3394,
+          "name": "Soldanová Lucie",
+          "slug": "soldanova-lucie",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 11,
+          "divisions": {
+            "RL": 11
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 6,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "490"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 6,
+              "bestValue": "541"
+            }
+          ]
+        },
+        {
+          "id": 1980,
+          "name": "Skácelová Klára",
+          "slug": "skacelova-klara",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 7,
+          "divisions": {
+            "RL": 7
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 2,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "357"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 2,
+              "bestValue": "292"
+            }
+          ]
+        },
+        {
+          "id": 4801,
+          "name": "Hudečková Nikol",
+          "slug": "hudeckova-nikol",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 6,
+          "divisions": {
+            "RL": 6
+          },
+          "disciplines": {
+            "halova": 3,
+            "tercova": 3,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 3,
+              "bestValue": "459"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 3,
+              "bestValue": "388"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+        {
+          "name": "Hudeček Kryštof",
+          "limitMet": true,
+          "bestAverage": 575.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 575.7,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Novotný Mikuláš",
+          "limitMet": true,
+          "bestAverage": 566.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 566.3,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "name": "TJ Slovan Havířov",
+      "slug": "tj-slovan-havirov",
+      "spsLabel": null,
+      "counts": {
+        "total6Plus": 5,
+        "divRL": 1,
+        "divKL": 0,
+        "divHL": 5,
+        "divTL": 2,
+        "discHalova": 5,
+        "discTercova": 2,
+        "discTerenni": 3,
+        "disc3D": 5,
+        "cupParticipants": 2,
+        "cupLimitMet": 0
+      },
+      "archers": [
+        {
+          "id": 4724,
+          "name": "Formánek Šimon",
+          "slug": "formanek-simon",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 17,
+          "divisions": {
+            "HL": 14,
+            "RL": 3
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 3,
+            "terenni": 4,
+            "3d": 5
+          },
+          "rankings": [
+            {
+              "bucketId": 1717,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "482"
+            },
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 3,
+              "bestValue": "442"
+            },
+            {
+              "bucketId": 1796,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 4,
+              "bestValue": "226"
+            },
+            {
+              "bucketId": 1678,
+              "discipline": "3D lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "3D",
+              "races": 5,
+              "bestValue": "5.54"
+            }
+          ]
+        },
+        {
+          "id": 4852,
+          "name": "Hochmuth Jakub",
+          "slug": "hochmuth-jakub",
+          "ageCategories": [
+            "Žáci U13"
+          ],
+          "totalRaces": 17,
+          "divisions": {
+            "HL": 17
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 4,
+            "terenni": 4,
+            "3d": 4
+          },
+          "rankings": [
+            {
+              "bucketId": 1718,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "441"
+            },
+            {
+              "bucketId": 1788,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "ŽWA720",
+              "races": 4,
+              "bestValue": "554"
+            },
+            {
+              "bucketId": 1740,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "T24 / ŽT24",
+              "races": 4,
+              "bestValue": "185"
+            },
+            {
+              "bucketId": 1679,
+              "discipline": "3D lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "3D",
+              "races": 4,
+              "bestValue": "5.81"
+            }
+          ]
+        },
+        {
+          "id": 4008,
+          "name": "Pluta Josef",
+          "slug": "pluta-josef",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 8,
+          "divisions": {
+            "HL": 6,
+            "TL": 2
+          },
+          "disciplines": {
+            "halova": 4,
+            "tercova": 0,
+            "terenni": 0,
+            "3d": 4
+          },
+          "rankings": [
+            {
+              "bucketId": 1709,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "173"
+            },
+            {
+              "bucketId": 1827,
+              "discipline": "3D lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "3D",
+              "races": 2,
+              "bestValue": "3.58"
+            },
+            {
+              "bucketId": 1684,
+              "discipline": "3D lukostřelba",
+              "division": "TL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "3D",
+              "races": 2,
+              "bestValue": "3.67"
+            }
+          ]
+        },
+        {
+          "id": 3894,
+          "name": "Šlajs Jakub",
+          "slug": "slajs-jakub",
+          "ageCategories": [
+            "Žáci U13"
+          ],
+          "totalRaces": 8,
+          "divisions": {
+            "HL": 8
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 0,
+            "terenni": 1,
+            "3d": 2
+          },
+          "rankings": [
+            {
+              "bucketId": 1718,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "473"
+            },
+            {
+              "bucketId": 1740,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "T24 / ŽT24",
+              "races": 1,
+              "bestValue": "194"
+            },
+            {
+              "bucketId": 1679,
+              "discipline": "3D lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "3D",
+              "races": 2,
+              "bestValue": "7.83"
+            }
+          ]
+        },
+        {
+          "id": 5097,
+          "name": "Matejková Daniela",
+          "slug": "matejkova-daniela",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 6,
+          "divisions": {
+            "HL": 4,
+            "TL": 2
+          },
+          "disciplines": {
+            "halova": 4,
+            "tercova": 0,
+            "terenni": 0,
+            "3d": 2
+          },
+          "rankings": [
+            {
+              "bucketId": 1674,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "266"
+            },
+            {
+              "bucketId": 1687,
+              "discipline": "3D lukostřelba",
+              "division": "TL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "3D",
+              "races": 2,
+              "bestValue": "4.10"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+        {
+          "name": "Hochmuth Jakub",
+          "limitMet": false,
+          "bestAverage": 524.7,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U13",
+              "gender": "M",
+              "code": "BU13M",
+              "average": 524.7,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Formánek Šimon",
+          "limitMet": false,
+          "bestAverage": 387.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 387.3,
+              "limit": 550,
+              "met": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "LK Tachov",
+      "slug": "lk-tachov",
+      "spsLabel": null,
+      "counts": {
+        "total6Plus": 4,
+        "divRL": 1,
+        "divKL": 0,
+        "divHL": 3,
+        "divTL": 0,
+        "discHalova": 4,
+        "discTercova": 2,
+        "discTerenni": 2,
+        "disc3D": 1,
+        "cupParticipants": 2,
+        "cupLimitMet": 0
+      },
+      "archers": [
+        {
+          "id": 4122,
+          "name": "Novotný Josef",
+          "slug": "novotny-josef",
+          "ageCategories": [
+            "Žáci U13",
+            "Kadeti U18"
+          ],
+          "totalRaces": 17,
+          "divisions": {
+            "HL": 17
+          },
+          "disciplines": {
+            "halova": 4,
+            "tercova": 5,
+            "terenni": 5,
+            "3d": 3
+          },
+          "rankings": [
+            {
+              "bucketId": 1718,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "462"
+            },
+            {
+              "bucketId": 1788,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "ŽWA720",
+              "races": 5,
+              "bestValue": "601"
+            },
+            {
+              "bucketId": 1795,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 1,
+              "bestValue": "124"
+            },
+            {
+              "bucketId": 1740,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "T24 / ŽT24",
+              "races": 4,
+              "bestValue": "184"
+            },
+            {
+              "bucketId": 1679,
+              "discipline": "3D lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "3D",
+              "races": 3,
+              "bestValue": "6.00"
+            }
+          ]
+        },
+        {
+          "id": 4575,
+          "name": "Slánská Elena",
+          "slug": "slanska-elena",
+          "ageCategories": [
+            "Žákyně U13"
+          ],
+          "totalRaces": 9,
+          "divisions": {
+            "HL": 9
+          },
+          "disciplines": {
+            "halova": 4,
+            "tercova": 4,
+            "terenni": 1,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1710,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "464"
+            },
+            {
+              "bucketId": 1808,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "ŽWA720",
+              "races": 4,
+              "bestValue": "646"
+            },
+            {
+              "bucketId": 1741,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "T24 / ŽT24",
+              "races": 1,
+              "bestValue": "141"
+            }
+          ]
+        },
+        {
+          "id": 3575,
+          "name": "Dvořáková Kateřina",
+          "slug": "dvorakova-katerina",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 7,
+          "divisions": {
+            "HL": 7
+          },
+          "disciplines": {
+            "halova": 7,
+            "tercova": 0,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1706,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 7,
+              "bestValue": "283"
+            }
+          ]
+        },
+        {
+          "id": 4040,
+          "name": "Hubálek Jakub",
+          "slug": "hubalek-jakub",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 6,
+          "divisions": {
+            "RL": 6
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 0,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "544"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+        {
+          "name": "Slánská Elena",
+          "limitMet": false,
+          "bestAverage": 629.0,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U13",
+              "gender": "W",
+              "code": "BU13W",
+              "average": 629.0,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Novotný Josef",
+          "limitMet": false,
+          "bestAverage": 599.7,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U13",
+              "gender": "M",
+              "code": "BU13M",
+              "average": 599.7,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "LO TJ Dynamo Liberec",
+      "slug": "lo-tj-dynamo-liberec",
+      "spsLabel": null,
+      "counts": {
+        "total6Plus": 4,
+        "divRL": 4,
+        "divKL": 0,
+        "divHL": 0,
+        "divTL": 0,
+        "discHalova": 0,
+        "discTercova": 4,
+        "discTerenni": 0,
+        "disc3D": 0,
+        "cupParticipants": 6,
+        "cupLimitMet": 4
+      },
+      "archers": [
+        {
+          "id": 5338,
+          "name": "Brož Jan",
+          "slug": "broz-jan",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 9,
+          "divisions": {
+            "RL": 9
+          },
+          "disciplines": {
+            "halova": 0,
+            "tercova": 9,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 9,
+              "bestValue": "654"
+            }
+          ]
+        },
+        {
+          "id": 5339,
+          "name": "Veselý Jan",
+          "slug": "vesely-jan",
+          "ageCategories": [
+            "Žáci U13"
+          ],
+          "totalRaces": 9,
+          "divisions": {
+            "RL": 9
+          },
+          "disciplines": {
+            "halova": 0,
+            "tercova": 9,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1785,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "ŽWA720",
+              "races": 9,
+              "bestValue": "570"
+            }
+          ]
+        },
+        {
+          "id": 5388,
+          "name": "Votrubcová Zuzana",
+          "slug": "votrubcova-zuzana",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 9,
+          "divisions": {
+            "RL": 9
+          },
+          "disciplines": {
+            "halova": 0,
+            "tercova": 9,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 9,
+              "bestValue": "616"
+            }
+          ]
+        },
+        {
+          "id": 5270,
+          "name": "Šitinová Valerie",
+          "slug": "sitinova-valerie",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 7,
+          "divisions": {
+            "RL": 7
+          },
+          "disciplines": {
+            "halova": 0,
+            "tercova": 7,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 7,
+              "bestValue": "626"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+        {
+          "name": "Brož Jan",
+          "limitMet": true,
+          "bestAverage": 639.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 639.7,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Šitinová Valerie",
+          "limitMet": true,
+          "bestAverage": 600.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 600.7,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Votrubcová Zuzana",
+          "limitMet": true,
+          "bestAverage": 584.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 584.0,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Veselý Jan",
+          "limitMet": true,
+          "bestAverage": 564.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "M",
+              "code": "RU13M",
+              "average": 564.7,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Hyška Ernest František",
+          "limitMet": false,
+          "bestAverage": 488.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 488.0,
+              "limit": 550,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Winterová Mariana",
+          "limitMet": false,
+          "bestAverage": 372.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 372.3,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "SK Lapačka Šenov",
+      "slug": "sk-lapacka-senov",
+      "spsLabel": null,
+      "counts": {
+        "total6Plus": 4,
+        "divRL": 0,
+        "divKL": 0,
+        "divHL": 4,
+        "divTL": 0,
+        "discHalova": 4,
+        "discTercova": 0,
+        "discTerenni": 3,
+        "disc3D": 2,
+        "cupParticipants": 0,
+        "cupLimitMet": 0
+      },
+      "archers": [
+        {
+          "id": 4699,
+          "name": "Klečková Elen",
+          "slug": "kleckova-elen",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 9,
+          "divisions": {
+            "HL": 9
+          },
+          "disciplines": {
+            "halova": 8,
+            "tercova": 0,
+            "terenni": 1,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1674,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 8,
+              "bestValue": "408"
+            },
+            {
+              "bucketId": 1739,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 1,
+              "bestValue": "129"
+            }
+          ]
+        },
+        {
+          "id": 5137,
+          "name": "Banák Andrej",
+          "slug": "banak-andrej",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 8,
+          "divisions": {
+            "HL": 8
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 0,
+            "terenni": 1,
+            "3d": 1
+          },
+          "rankings": [
+            {
+              "bucketId": 1709,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "362"
+            },
+            {
+              "bucketId": 1795,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 1,
+              "bestValue": "138"
+            },
+            {
+              "bucketId": 1827,
+              "discipline": "3D lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "3D",
+              "races": 1,
+              "bestValue": "3.81"
+            }
+          ]
+        },
+        {
+          "id": 3031,
+          "name": "Kosňovský Matěj",
+          "slug": "kosnovsky-matej",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 7,
+          "divisions": {
+            "HL": 7
+          },
+          "disciplines": {
+            "halova": 7,
+            "tercova": 0,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1709,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 7,
+              "bestValue": "434"
+            }
+          ]
+        },
+        {
+          "id": 4617,
+          "name": "Žáček Daniel",
+          "slug": "zacek-daniel",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 7,
+          "divisions": {
+            "HL": 7
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 0,
+            "terenni": 1,
+            "3d": 1
+          },
+          "rankings": [
+            {
+              "bucketId": 1709,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "332"
+            },
+            {
+              "bucketId": 1795,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 1,
+              "bestValue": "120"
+            },
+            {
+              "bucketId": 1827,
+              "discipline": "3D lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "3D",
+              "races": 1,
+              "bestValue": "2.92"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+
+      ]
+    },
+    {
+      "id": 46,
+      "name": "SK SLAVIA PRAHA",
+      "slug": "sk-slavia-praha",
+      "spsLabel": null,
+      "counts": {
+        "total6Plus": 4,
+        "divRL": 4,
+        "divKL": 0,
+        "divHL": 0,
+        "divTL": 0,
+        "discHalova": 4,
+        "discTercova": 4,
+        "discTerenni": 0,
+        "disc3D": 0,
+        "cupParticipants": 5,
+        "cupLimitMet": 2
+      },
+      "archers": [
+        {
+          "id": 3756,
+          "name": "Vachoušek Jan",
+          "slug": "vachousek-jan",
+          "ageCategories": [
+            "Kadeti U18",
+            "Žáci U15"
+          ],
+          "totalRaces": 14,
+          "divisions": {
+            "RL": 14
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 9,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 1,
+              "bestValue": "455"
+            },
+            {
+              "bucketId": 1707,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "535"
+            },
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 9,
+              "bestValue": "627"
+            }
+          ]
+        },
+        {
+          "id": 3757,
+          "name": "Němec Mikuláš",
+          "slug": "nemec-mikulas",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 13,
+          "divisions": {
+            "RL": 13
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 7,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "461"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 7,
+              "bestValue": "508"
+            }
+          ]
+        },
+        {
+          "id": 3601,
+          "name": "Lanz Matouš",
+          "slug": "lanz-matous",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 12,
+          "divisions": {
+            "RL": 12
+          },
+          "disciplines": {
+            "halova": 4,
+            "tercova": 8,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "516"
+            },
+            {
+              "bucketId": 1775,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 8,
+              "bestValue": "600"
+            }
+          ]
+        },
+        {
+          "id": 4198,
+          "name": "Mach Kryštof",
+          "slug": "mach-krystof",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 6,
+          "divisions": {
+            "RL": 6
+          },
+          "disciplines": {
+            "halova": 2,
+            "tercova": 4,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1707,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 2,
+              "bestValue": "450"
+            },
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 4,
+              "bestValue": "507"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+        {
+          "name": "Vachoušek Jan",
+          "limitMet": true,
+          "bestAverage": 624.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 624.0,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Lanz Matouš",
+          "limitMet": true,
+          "bestAverage": 563.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "RU18M",
+              "average": 563.7,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Mach Kryštof",
+          "limitMet": false,
+          "bestAverage": 498.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 498.7,
+              "limit": 550,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Černý Oliver",
+          "limitMet": false,
+          "bestAverage": 495.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "M",
+              "code": "RU13M",
+              "average": 495.3,
+              "limit": 550,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Němec Mikuláš",
+          "limitMet": false,
+          "bestAverage": 468.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "RU18M",
+              "average": 468.3,
+              "limit": 550,
+              "met": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "name": "dp Lukostřelba Zlín",
+      "slug": "dp-lukostrelba-zlin",
+      "spsLabel": null,
+      "counts": {
+        "total6Plus": 4,
+        "divRL": 0,
+        "divKL": 0,
+        "divHL": 0,
+        "divTL": 4,
+        "discHalova": 0,
+        "discTercova": 0,
+        "discTerenni": 0,
+        "disc3D": 4,
+        "cupParticipants": 0,
+        "cupLimitMet": 0
+      },
+      "archers": [
+        {
+          "id": 5144,
+          "name": "Cholasta Adam",
+          "slug": "cholasta-adam",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 10,
+          "divisions": {
+            "TL": 10
+          },
+          "disciplines": {
+            "halova": 0,
+            "tercova": 0,
+            "terenni": 0,
+            "3d": 10
+          },
+          "rankings": [
+            {
+              "bucketId": 1684,
+              "discipline": "3D lukostřelba",
+              "division": "TL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "3D",
+              "races": 10,
+              "bestValue": "7.21"
+            }
+          ]
+        },
+        {
+          "id": 5147,
+          "name": "Kubáčová Magdaléna",
+          "slug": "kubacova-magdalena",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 8,
+          "divisions": {
+            "TL": 8
+          },
+          "disciplines": {
+            "halova": 0,
+            "tercova": 0,
+            "terenni": 0,
+            "3d": 8
+          },
+          "rankings": [
+            {
+              "bucketId": 1687,
+              "discipline": "3D lukostřelba",
+              "division": "TL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "3D",
+              "races": 8,
+              "bestValue": "4.55"
+            }
+          ]
+        },
+        {
+          "id": 4677,
+          "name": "Slováček Oliver Tobias",
+          "slug": "slovacek-oliver-tobias",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 7,
+          "divisions": {
+            "TL": 7
+          },
+          "disciplines": {
+            "halova": 0,
+            "tercova": 0,
+            "terenni": 0,
+            "3d": 7
+          },
+          "rankings": [
+            {
+              "bucketId": 1684,
+              "discipline": "3D lukostřelba",
+              "division": "TL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "3D",
+              "races": 7,
+              "bestValue": "7.23"
+            }
+          ]
+        },
+        {
+          "id": 3087,
+          "name": "Marková Julie",
+          "slug": "markova-julie",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 6,
+          "divisions": {
+            "TL": 6
+          },
+          "disciplines": {
+            "halova": 0,
+            "tercova": 0,
+            "terenni": 0,
+            "3d": 6
+          },
+          "rankings": [
+            {
+              "bucketId": 1685,
+              "discipline": "3D lukostřelba",
+              "division": "TL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "3D",
+              "races": 6,
+              "bestValue": "7.52"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+
+      ]
+    },
+    {
+      "id": 27,
+      "name": "LK Litvínov",
+      "slug": "lk-litvinov",
+      "spsLabel": null,
+      "counts": {
+        "total6Plus": 3,
+        "divRL": 3,
+        "divKL": 0,
+        "divHL": 0,
+        "divTL": 0,
+        "discHalova": 3,
+        "discTercova": 3,
+        "discTerenni": 0,
+        "disc3D": 0,
+        "cupParticipants": 3,
+        "cupLimitMet": 1
+      },
+      "archers": [
+        {
+          "id": 4770,
+          "name": "Troják Kimi Nicolette",
+          "slug": "trojak-kimi-nicolette",
+          "ageCategories": [
+            "Žákyně U13",
+            "Žákyně U15"
+          ],
+          "totalRaces": 12,
+          "divisions": {
+            "RL": 12
+          },
+          "disciplines": {
+            "halova": 1,
+            "tercova": 11,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1708,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 1,
+              "bestValue": "474"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 11,
+              "bestValue": "572"
+            }
+          ]
+        },
+        {
+          "id": 4264,
+          "name": "Urbanová Michaela",
+          "slug": "urbanova-michaela",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 12,
+          "divisions": {
+            "RL": 12
+          },
+          "disciplines": {
+            "halova": 3,
+            "tercova": 9,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 3,
+              "bestValue": "444"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 9,
+              "bestValue": "495"
+            }
+          ]
+        },
+        {
+          "id": 4771,
+          "name": "Veselý Tomáš",
+          "slug": "vesely-tomas",
+          "ageCategories": [
+            "Žáci U13",
+            "Žáci U15",
+            "Žákyně U15"
+          ],
+          "totalRaces": 12,
+          "divisions": {
+            "RL": 12
+          },
+          "disciplines": {
+            "halova": 4,
+            "tercova": 8,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1704,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 1,
+              "bestValue": "260"
+            },
+            {
+              "bucketId": 1707,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 3,
+              "bestValue": "371"
+            },
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 7,
+              "bestValue": "496"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 1,
+              "bestValue": "385"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+        {
+          "name": "Troják Kimi Nicolette",
+          "limitMet": true,
+          "bestAverage": 561.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 561.3,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Urbanová Michaela",
+          "limitMet": false,
+          "bestAverage": 492.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 492.7,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Veselý Tomáš",
+          "limitMet": false,
+          "bestAverage": 474.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 474.7,
+              "limit": 550,
+              "met": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "LK Phoenix Kostelec",
+      "slug": "lk-phoenix-kostelec",
+      "spsLabel": null,
+      "counts": {
+        "total6Plus": 3,
+        "divRL": 0,
+        "divKL": 0,
+        "divHL": 2,
+        "divTL": 1,
+        "discHalova": 1,
+        "discTercova": 1,
+        "discTerenni": 2,
+        "disc3D": 3,
+        "cupParticipants": 1,
+        "cupLimitMet": 0
+      },
+      "archers": [
+        {
+          "id": 2352,
+          "name": "Kučera Petr",
+          "slug": "kucera-petr",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 22,
+          "divisions": {
+            "HL": 22
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 3,
+            "terenni": 6,
+            "3d": 7
+          },
+          "rankings": [
+            {
+              "bucketId": 1709,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "445"
+            },
+            {
+              "bucketId": 1807,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 3,
+              "bestValue": "567"
+            },
+            {
+              "bucketId": 1795,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 6,
+              "bestValue": "285"
+            },
+            {
+              "bucketId": 1827,
+              "discipline": "3D lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "3D",
+              "races": 7,
+              "bestValue": "7.23"
+            }
+          ]
+        },
+        {
+          "id": 4675,
+          "name": "Fiala Tomáš",
+          "slug": "fiala-tomas",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 7,
+          "divisions": {
+            "TL": 7
+          },
+          "disciplines": {
+            "halova": 0,
+            "tercova": 0,
+            "terenni": 0,
+            "3d": 7
+          },
+          "rankings": [
+            {
+              "bucketId": 1686,
+              "discipline": "3D lukostřelba",
+              "division": "TL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "3D",
+              "races": 7,
+              "bestValue": "6.02"
+            }
+          ]
+        },
+        {
+          "id": 4985,
+          "name": "Kadlec Vojtěch",
+          "slug": "kadlec-vojtech",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 6,
+          "divisions": {
+            "HL": 6
+          },
+          "disciplines": {
+            "halova": 0,
+            "tercova": 0,
+            "terenni": 1,
+            "3d": 5
+          },
+          "rankings": [
+            {
+              "bucketId": 1796,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 1,
+              "bestValue": "252"
+            },
+            {
+              "bucketId": 1678,
+              "discipline": "3D lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "3D",
+              "races": 5,
+              "bestValue": "6.98"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+        {
+          "name": "Kučera Petr",
+          "limitMet": false,
+          "bestAverage": 534.7,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "BU18M",
+              "average": 534.7,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Lukostřelba Klecany",
+      "slug": "lukostrelba-klecany",
+      "spsLabel": null,
+      "counts": {
+        "total6Plus": 3,
+        "divRL": 1,
+        "divKL": 0,
+        "divHL": 2,
+        "divTL": 0,
+        "discHalova": 3,
+        "discTercova": 2,
+        "discTerenni": 1,
+        "disc3D": 1,
+        "cupParticipants": 4,
+        "cupLimitMet": 0
+      },
+      "archers": [
+        {
+          "id": 5254,
+          "name": "Táborová Eleonora",
+          "slug": "taborova-eleonora",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 11,
+          "divisions": {
+            "HL": 11
+          },
+          "disciplines": {
+            "halova": 3,
+            "tercova": 8,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1674,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 3,
+              "bestValue": "400"
+            },
+            {
+              "bucketId": 1787,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 8,
+              "bestValue": "536"
+            }
+          ]
+        },
+        {
+          "id": 2856,
+          "name": "Benešová Jana",
+          "slug": "benesova-jana",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 10,
+          "divisions": {
+            "RL": 10
+          },
+          "disciplines": {
+            "halova": 3,
+            "tercova": 0,
+            "terenni": 6,
+            "3d": 1
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 3,
+              "bestValue": "477"
+            },
+            {
+              "bucketId": 1729,
+              "discipline": "Terénní lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 6,
+              "bestValue": "247"
+            },
+            {
+              "bucketId": 1979,
+              "discipline": "3D lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "3D",
+              "races": 1,
+              "bestValue": "4.21"
+            }
+          ]
+        },
+        {
+          "id": 2853,
+          "name": "Libíček Matyáš",
+          "slug": "libicek-matyas",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 7,
+          "divisions": {
+            "HL": 7
+          },
+          "disciplines": {
+            "halova": 4,
+            "tercova": 3,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1709,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "341"
+            },
+            {
+              "bucketId": 1807,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "WA720",
+              "races": 3,
+              "bestValue": "552"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+        {
+          "name": "Kákonová Julie",
+          "limitMet": false,
+          "bestAverage": 589.0,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U13",
+              "gender": "W",
+              "code": "BU13W",
+              "average": 589.0,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Libíček Matyáš",
+          "limitMet": false,
+          "bestAverage": 537.3,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U18",
+              "gender": "M",
+              "code": "BU18M",
+              "average": 537.3,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Táborová Eleonora",
+          "limitMet": false,
+          "bestAverage": 525.0,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "BU15W",
+              "average": 525.0,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Pešanová Tereza",
+          "limitMet": false,
+          "bestAverage": 464.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 464.3,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "LK Znojmo",
+      "slug": "lk-znojmo",
+      "spsLabel": null,
+      "counts": {
+        "total6Plus": 2,
+        "divRL": 2,
+        "divKL": 0,
+        "divHL": 0,
+        "divTL": 0,
+        "discHalova": 2,
+        "discTercova": 2,
+        "discTerenni": 0,
+        "disc3D": 0,
+        "cupParticipants": 1,
+        "cupLimitMet": 1
+      },
+      "archers": [
+        {
+          "id": 4909,
+          "name": "Svobodová Anna",
+          "slug": "svobodova-anna",
+          "ageCategories": [
+            "Žákyně U15",
+            "Kadetky U18"
+          ],
+          "totalRaces": 20,
+          "divisions": {
+            "RL": 20
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 15,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "488"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 5,
+              "bestValue": "530"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 10,
+              "bestValue": "624"
+            }
+          ]
+        },
+        {
+          "id": 4359,
+          "name": "Špačková Kateřina",
+          "slug": "spackova-katerina",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 12,
+          "divisions": {
+            "RL": 12
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 7,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "518"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 7,
+              "bestValue": "524"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+        {
+          "name": "Svobodová Anna",
+          "limitMet": true,
+          "bestAverage": 610.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 610.3,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Patriot Brno",
+      "slug": "patriot-brno",
+      "spsLabel": null,
+      "counts": {
+        "total6Plus": 2,
+        "divRL": 2,
+        "divKL": 0,
+        "divHL": 0,
+        "divTL": 0,
+        "discHalova": 2,
+        "discTercova": 2,
+        "discTerenni": 0,
+        "disc3D": 0,
+        "cupParticipants": 2,
+        "cupLimitMet": 2
+      },
+      "archers": [
+        {
+          "id": 4273,
+          "name": "Kanclerová Laura",
+          "slug": "kanclerova-laura",
+          "ageCategories": [
+            "Kadetky U18",
+            "Žákyně U15"
+          ],
+          "totalRaces": 40,
+          "divisions": {
+            "RL": 40
+          },
+          "disciplines": {
+            "halova": 19,
+            "tercova": 21,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 9,
+              "bestValue": "540"
+            },
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 10,
+              "bestValue": "567"
+            },
+            {
+              "bucketId": 1776,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 3,
+              "bestValue": "634"
+            },
+            {
+              "bucketId": 1778,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 18,
+              "bestValue": "685"
+            }
+          ]
+        },
+        {
+          "id": 4272,
+          "name": "Kučera Tomáš",
+          "slug": "kucera-tomas",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 14,
+          "divisions": {
+            "RL": 14
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 9,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1707,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "484"
+            },
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 9,
+              "bestValue": "564"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+        {
+          "name": "Kanclerová Laura",
+          "limitMet": true,
+          "bestAverage": 675.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "RU15W",
+              "average": 675.7,
+              "limit": 530,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Kučera Tomáš",
+          "limitMet": true,
+          "bestAverage": 552.7,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 552.7,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "SK Lukostřelba-Libichov",
+      "slug": "sk-lukostrelba-libichov",
+      "spsLabel": null,
+      "counts": {
+        "total6Plus": 2,
+        "divRL": 0,
+        "divKL": 0,
+        "divHL": 2,
+        "divTL": 0,
+        "discHalova": 2,
+        "discTercova": 0,
+        "discTerenni": 0,
+        "disc3D": 2,
+        "cupParticipants": 0,
+        "cupLimitMet": 0
+      },
+      "archers": [
+        {
+          "id": 5053,
+          "name": "Šiftová Ellen",
+          "slug": "siftova-ellen",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 8,
+          "divisions": {
+            "HL": 8
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 0,
+            "terenni": 0,
+            "3d": 2
+          },
+          "rankings": [
+            {
+              "bucketId": 1706,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "315"
+            },
+            {
+              "bucketId": 1828,
+              "discipline": "3D lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "3D",
+              "races": 2,
+              "bestValue": "4.69"
+            }
+          ]
+        },
+        {
+          "id": 2787,
+          "name": "Čihula Vojtěch",
+          "slug": "cihula-vojtech",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 7,
+          "divisions": {
+            "HL": 7
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 0,
+            "terenni": 0,
+            "3d": 2
+          },
+          "rankings": [
+            {
+              "bucketId": 1709,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "379"
+            },
+            {
+              "bucketId": 1827,
+              "discipline": "3D lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "3D",
+              "races": 2,
+              "bestValue": "6.45"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+
+      ]
+    },
+    {
+      "id": 40,
+      "name": "SK RAPID PRAHA",
+      "slug": "sk-rapid-praha",
+      "spsLabel": null,
+      "counts": {
+        "total6Plus": 2,
+        "divRL": 2,
+        "divKL": 0,
+        "divHL": 0,
+        "divTL": 0,
+        "discHalova": 2,
+        "discTercova": 1,
+        "discTerenni": 0,
+        "disc3D": 0,
+        "cupParticipants": 1,
+        "cupLimitMet": 1
+      },
+      "archers": [
+        {
+          "id": 3819,
+          "name": "Bizinskyj Daniel",
+          "slug": "bizinskyj-daniel",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 9,
+          "divisions": {
+            "RL": 9
+          },
+          "disciplines": {
+            "halova": 4,
+            "tercova": 5,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1707,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "503"
+            },
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 5,
+              "bestValue": "579"
+            }
+          ]
+        },
+        {
+          "id": 2507,
+          "name": "Pangrác Jan",
+          "slug": "pangrac-jan",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 6,
+          "divisions": {
+            "RL": 6
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 0,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "480"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+        {
+          "name": "Bizinskyj Daniel",
+          "limitMet": true,
+          "bestAverage": 570.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 570.3,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "name": "TJ Jiskra Otrokovice",
+      "slug": "tj-jiskra-otrokovice",
+      "spsLabel": null,
+      "counts": {
+        "total6Plus": 2,
+        "divRL": 2,
+        "divKL": 0,
+        "divHL": 0,
+        "divTL": 0,
+        "discHalova": 2,
+        "discTercova": 2,
+        "discTerenni": 0,
+        "disc3D": 0,
+        "cupParticipants": 3,
+        "cupLimitMet": 1
+      },
+      "archers": [
+        {
+          "id": 4112,
+          "name": "Rozehnal Karel",
+          "slug": "rozehnal-karel",
+          "ageCategories": [
+            "Žáci U15"
+          ],
+          "totalRaces": 21,
+          "divisions": {
+            "RL": 21
+          },
+          "disciplines": {
+            "halova": 8,
+            "tercova": 13,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1707,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 8,
+              "bestValue": "521"
+            },
+            {
+              "bucketId": 1777,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žáci U15",
+              "shootingRound": "ŽWA720",
+              "races": 13,
+              "bestValue": "577"
+            }
+          ]
+        },
+        {
+          "id": 4409,
+          "name": "Sedláčková Vendula",
+          "slug": "sedlackova-vendula",
+          "ageCategories": [
+            "Žákyně U13",
+            "Žákyně U15"
+          ],
+          "totalRaces": 11,
+          "divisions": {
+            "RL": 11
+          },
+          "disciplines": {
+            "halova": 4,
+            "tercova": 7,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1708,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "H18 / ŽH18",
+              "races": 2,
+              "bestValue": "391"
+            },
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 2,
+              "bestValue": "213"
+            },
+            {
+              "bucketId": 1802,
+              "discipline": "Terčová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U13",
+              "shootingRound": "ŽWA720",
+              "races": 7,
+              "bestValue": "525"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+        {
+          "name": "Rozehnal Karel",
+          "limitMet": true,
+          "bestAverage": 574.3,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U15",
+              "gender": "M",
+              "code": "RU15M",
+              "average": 574.3,
+              "limit": 550,
+              "met": true
+            }
+          ]
+        },
+        {
+          "name": "Rozehnalová Sára",
+          "limitMet": false,
+          "bestAverage": 570.0,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U13",
+              "gender": "W",
+              "code": "BU13W",
+              "average": 570.0,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Sedláčková Vendula",
+          "limitMet": false,
+          "bestAverage": 509.0,
+          "entries": [
+            {
+              "division": "R",
+              "ageClass": "U13",
+              "gender": "W",
+              "code": "RU13W",
+              "average": 509.0,
+              "limit": 530,
+              "met": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "VŠTJ Technika Praha",
+      "slug": "vstj-technika-praha",
+      "spsLabel": null,
+      "counts": {
+        "total6Plus": 2,
+        "divRL": 0,
+        "divKL": 1,
+        "divHL": 1,
+        "divTL": 0,
+        "discHalova": 2,
+        "discTercova": 2,
+        "discTerenni": 1,
+        "disc3D": 0,
+        "cupParticipants": 1,
+        "cupLimitMet": 0
+      },
+      "archers": [
+        {
+          "id": 1653,
+          "name": "Laurichová Anna",
+          "slug": "laurichova-anna",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 8,
+          "divisions": {
+            "KL": 8
+          },
+          "disciplines": {
+            "halova": 4,
+            "tercova": 4,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1720,
+              "discipline": "Halová lukostřelba",
+              "division": "KL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 4,
+              "bestValue": "505"
+            },
+            {
+              "bucketId": 1834,
+              "discipline": "Terčová lukostřelba",
+              "division": "KL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 4,
+              "bestValue": "528"
+            }
+          ]
+        },
+        {
+          "id": 4441,
+          "name": "Sakalouskaya Alisa",
+          "slug": "sakalouskaya-alisa",
+          "ageCategories": [
+            "Žákyně U15"
+          ],
+          "totalRaces": 8,
+          "divisions": {
+            "HL": 8
+          },
+          "disciplines": {
+            "halova": 3,
+            "tercova": 4,
+            "terenni": 1,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1674,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 3,
+              "bestValue": "389"
+            },
+            {
+              "bucketId": 1787,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "ŽWA720",
+              "races": 4,
+              "bestValue": "481"
+            },
+            {
+              "bucketId": 1739,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "T24 / ŽT24",
+              "races": 1,
+              "bestValue": "145"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+        {
+          "name": "Sakalouskaya Alisa",
+          "limitMet": false,
+          "bestAverage": 468.7,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U15",
+              "gender": "W",
+              "code": "BU15W",
+              "average": 468.7,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Kentaur Pardubice",
+      "slug": "kentaur-pardubice",
+      "spsLabel": null,
+      "counts": {
+        "total6Plus": 1,
+        "divRL": 0,
+        "divKL": 0,
+        "divHL": 1,
+        "divTL": 0,
+        "discHalova": 1,
+        "discTercova": 1,
+        "discTerenni": 1,
+        "disc3D": 0,
+        "cupParticipants": 2,
+        "cupLimitMet": 0
+      },
+      "archers": [
+        {
+          "id": 5233,
+          "name": "Mašínová Sára",
+          "slug": "masinova-sara",
+          "ageCategories": [
+            "Kadetky U18"
+          ],
+          "totalRaces": 14,
+          "divisions": {
+            "HL": 14
+          },
+          "disciplines": {
+            "halova": 5,
+            "tercova": 4,
+            "terenni": 5,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1706,
+              "discipline": "Halová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 5,
+              "bestValue": "445"
+            },
+            {
+              "bucketId": 1842,
+              "discipline": "Terčová lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "WA720",
+              "races": 4,
+              "bestValue": "582"
+            },
+            {
+              "bucketId": 1738,
+              "discipline": "Terénní lukostřelba",
+              "division": "HL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 5,
+              "bestValue": "289"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+        {
+          "name": "Jára Jan",
+          "limitMet": false,
+          "bestAverage": 611.7,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U13",
+              "gender": "M",
+              "code": "BU13M",
+              "average": 611.7,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        },
+        {
+          "name": "Mašínová Sára",
+          "limitMet": false,
+          "bestAverage": 568.7,
+          "entries": [
+            {
+              "division": "B",
+              "ageClass": "U18",
+              "gender": "W",
+              "code": "BU18W",
+              "average": 568.7,
+              "limit": 999,
+              "met": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Odyssea Tišnov",
+      "slug": "odyssea-tisnov",
+      "spsLabel": null,
+      "counts": {
+        "total6Plus": 1,
+        "divRL": 0,
+        "divKL": 0,
+        "divHL": 0,
+        "divTL": 1,
+        "discHalova": 0,
+        "discTercova": 0,
+        "discTerenni": 1,
+        "disc3D": 1,
+        "cupParticipants": 0,
+        "cupLimitMet": 0
+      },
+      "archers": [
+        {
+          "id": 4794,
+          "name": "Rous Jiří",
+          "slug": "rous-jiri",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 6,
+          "divisions": {
+            "TL": 6
+          },
+          "disciplines": {
+            "halova": 0,
+            "tercova": 0,
+            "terenni": 1,
+            "3d": 5
+          },
+          "rankings": [
+            {
+              "bucketId": 1895,
+              "discipline": "Terénní lukostřelba",
+              "division": "TL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "T24 / ŽT24",
+              "races": 1,
+              "bestValue": "224"
+            },
+            {
+              "bucketId": 1684,
+              "discipline": "3D lukostřelba",
+              "division": "TL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "3D",
+              "races": 5,
+              "bestValue": "7.23"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+
+      ]
+    },
+    {
+      "id": 56,
+      "name": "SKP Vsetín",
+      "slug": "skp-vsetin",
+      "spsLabel": null,
+      "counts": {
+        "total6Plus": 1,
+        "divRL": 1,
+        "divKL": 0,
+        "divHL": 0,
+        "divTL": 0,
+        "discHalova": 1,
+        "discTercova": 0,
+        "discTerenni": 0,
+        "disc3D": 0,
+        "cupParticipants": 0,
+        "cupLimitMet": 0
+      },
+      "archers": [
+        {
+          "id": 4947,
+          "name": "Janošíková Karolína",
+          "slug": "janosikova-karolina",
+          "ageCategories": [
+            "Kadetky U18",
+            "Žákyně U15"
+          ],
+          "totalRaces": 6,
+          "divisions": {
+            "RL": 6
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 0,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1697,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadetky U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 3,
+              "bestValue": "350"
+            },
+            {
+              "bucketId": 1699,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Žákyně U15",
+              "shootingRound": "H18 / ŽH18",
+              "races": 3,
+              "bestValue": "405"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+
+      ]
+    },
+    {
+      "id": 53,
+      "name": "TJ Sokol Vlkoš",
+      "slug": "tj-sokol-vlkos",
+      "spsLabel": null,
+      "counts": {
+        "total6Plus": 1,
+        "divRL": 1,
+        "divKL": 0,
+        "divHL": 0,
+        "divTL": 0,
+        "discHalova": 1,
+        "discTercova": 0,
+        "discTerenni": 0,
+        "disc3D": 0,
+        "cupParticipants": 0,
+        "cupLimitMet": 0
+      },
+      "archers": [
+        {
+          "id": 3928,
+          "name": "Gajdošík Tadeáš",
+          "slug": "gajdosik-tadeas",
+          "ageCategories": [
+            "Kadeti U18"
+          ],
+          "totalRaces": 6,
+          "divisions": {
+            "RL": 6
+          },
+          "disciplines": {
+            "halova": 6,
+            "tercova": 0,
+            "terenni": 0,
+            "3d": 0
+          },
+          "rankings": [
+            {
+              "bucketId": 1696,
+              "discipline": "Halová lukostřelba",
+              "division": "RL",
+              "ageCategory": "Kadeti U18",
+              "shootingRound": "H18 / ŽH18",
+              "races": 6,
+              "bestValue": "457"
+            }
+          ]
+        }
+      ],
+      "cupArchers": [
+
+      ]
+    }
+  ]
+};

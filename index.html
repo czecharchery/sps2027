@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SpS 2027 – Přehled mládežnické lukostřelby (2025/2026)</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <div class="brand-group">
+        <a href="#" class="brand-link" id="headerHomeLink">
+          <span class="brand-badge">ČLS</span>
+          <div>
+            <h1 class="brand-title">SpS 2027</h1>
+            <p class="brand-subtitle">Statistika mládeže se 6 a více závody • Sezóna <span id="seasonLabel">2025/2026</span></p>
+          </div>
+        </a>
+      </div>
+      <div class="header-meta">
+        <div class="meta-pill">
+          <span class="meta-label">Zdroj dat:</span>
+          <a href="https://is.czecharchery.cz/zebricky/" target="_blank" rel="noopener noreferrer">is.czecharchery.cz/zebricky</a>
+        </div>
+        <div class="meta-pill" id="generatedAtPill" title="Čas uložení lokálních dat">
+          Data uložena lokálně
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="container main-content">
+    <!-- PŘEHLED KLUBŮ (HLAVNÍ STRÁNKA) -->
+    <section id="clubsOverviewSection">
+      <div class="criteria-banner">
+        <div class="criteria-item">
+          <strong>Věkové třídy:</strong> Žáci U13, Žáci U15, Žákyně U13, Žákyně U15, Kadeti U18, Kadetky U18
+        </div>
+        <div class="criteria-item">
+          <strong>Disciplíny a sestavy:</strong>
+          Halová (H18 / ŽH18) • Terčová (ŽWA720, WA720) • Terénní (T24 / ŽT24) • 3D (3D)
+        </div>
+      </div>
+
+      <div class="kpi-grid" id="overviewKpis">
+        <div class="kpi-card">
+          <span class="kpi-label">Klubů se závodníky (≥ 6 závodů)</span>
+          <strong class="kpi-value" id="kpiTotalClubs">–</strong>
+        </div>
+        <div class="kpi-card">
+          <span class="kpi-label">Celkem mládeže (≥ 6 závodů)</span>
+          <strong class="kpi-value" id="kpiTotalArchers">–</strong>
+        </div>
+        <div class="kpi-card">
+          <span class="kpi-label">Divize RL / KL / HL / TL</span>
+          <strong class="kpi-value kpi-value-sm" id="kpiDivisions">–</strong>
+        </div>
+        <div class="kpi-card">
+          <span class="kpi-label">Disciplíny Hala / Terč / Terén / 3D</span>
+          <strong class="kpi-value kpi-value-sm" id="kpiDisciplines">–</strong>
+        </div>
+        <div class="kpi-card">
+          <span class="kpi-label">Pohár (Účastníci / Splněný limit)</span>
+          <strong class="kpi-value kpi-value-sm" id="kpiCup">–</strong>
+        </div>
+      </div>
+
+      <div class="toolbar">
+        <div class="search-box">
+          <label for="clubSearchInput" class="sr-only">Hledat klub nebo závodníka</label>
+          <input
+            type="search"
+            id="clubSearchInput"
+            placeholder="Hledat klub podle názvu nebo jména závodníka…"
+            autocomplete="off"
+          />
+        </div>
+        <div class="toolbar-meta">
+          <span class="legend-badge">
+            <span class="legend-swatch"></span>
+            Kluby s ≥ 10 závodníky
+          </span>
+          <div class="toolbar-info" id="tableCountInfo">
+            Zobrazeno 0 klubů
+          </div>
+        </div>
+      </div>
+
+      <div class="table-card">
+        <div class="table-responsive">
+          <table class="data-table" id="clubsTable">
+            <thead>
+              <tr>
+                <th class="col-rank">#</th>
+                <th class="col-club">Jméno klubu</th>
+                <th
+                  class="col-num col-highlight"
+                  title="Počet mládeže s alespoň 6 absolvovanými závody napříč disciplínami a divizemi"
+                >
+                  Soutěžící mládež
+                </th>
+                <th
+                  class="col-num"
+                  title="Počet mládeže s alespoň 6 absolvovanými závody napříč disciplínami a divizemi, kteří mají alespoň 1 závod v divizi RL"
+                >
+                  Soutěžící mládež (RL)
+                </th>
+                <th
+                  class="col-num"
+                  title="Počet mládeže s alespoň 6 absolvovanými závody napříč disciplínami a divizemi, kteří mají alespoň 1 závod v divizi KL"
+                >
+                  Soutěžící mládež (KL)
+                </th>
+                <th
+                  class="col-num"
+                  title="Počet mládeže s alespoň 6 absolvovanými závody napříč disciplínami a divizemi, kteří mají alespoň 1 závod v divizi HL"
+                >
+                  Soutěžící mládež (HL)
+                </th>
+                <th
+                  class="col-num"
+                  title="Počet mládeže s alespoň 6 absolvovanými závody napříč disciplínami a divizemi, kteří mají alespoň 1 závod v divizi TL"
+                >
+                  Soutěžící mládež (TL)
+                </th>
+                <th
+                  class="col-num"
+                  title="Počet mládeže s alespoň 6 absolvovanými závody napříč disciplínami a divizemi, kteří mají alespoň 1 závod v disciplíně halová lukostřelba"
+                >
+                  Soutěžící mládež (hala)
+                </th>
+                <th
+                  class="col-num"
+                  title="Počet mládeže s alespoň 6 absolvovanými závody napříč disciplínami a divizemi, kteří mají alespoň 1 závod v disciplíně terčová lukostřelba"
+                >
+                  Soutěžící mládež (terčová)
+                </th>
+                <th
+                  class="col-num"
+                  title="Počet mládeže s alespoň 6 absolvovanými závody napříč disciplínami a divizemi, kteří mají alespoň 1 závod v disciplíně terénní lukostřelba"
+                >
+                  Soutěžící mládež (terénní)
+                </th>
+                <th
+                  class="col-num"
+                  title="Počet mládeže s alespoň 6 absolvovanými závody napříč disciplínami a divizemi, kteří mají alespoň 1 závod v disciplíně 3D lukostřelba"
+                >
+                  Soutěžící mládež (3D)
+                </th>
+                <th
+                  class="col-num col-cup"
+                  title="Počet závodníků, kteří se zúčastnili Poháru v terčové lukostřelbě"
+                >
+                  Účastníci Poháru
+                </th>
+                <th
+                  class="col-num col-cup"
+                  title="Počet závodníků, kteří v Poháru v terčové lukostřelbě splnili Limit SpS (Splněno = ANO)"
+                >
+                  Splněný limit (Pohár)
+                </th>
+              </tr>
+            </thead>
+            <tbody id="clubsTableBody">
+              <tr>
+                <td colspan="13" class="empty-cell">Načítání dat…</td>
+              </tr>
+            </tbody>
+            <tfoot id="clubsTableFoot"></tfoot>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <!-- DETAIL KLUBU (PODSTRÁNKA) -->
+    <section id="clubDetailSection" class="hidden">
+      <div class="detail-nav">
+        <a href="#" class="btn-back" id="backToOverviewBtn">← Zpět na tabulku všech klubů</a>
+      </div>
+
+      <div class="detail-header-card">
+        <div>
+          <span class="detail-eyebrow">Detail klubu • Sezóna <span class="detail-season">2025/2026</span></span>
+          <h2 class="detail-title" id="detailClubName">Název klubu</h2>
+        </div>
+        <div class="detail-total-badge">
+          <span class="detail-total-label">Mládež s ≥ 6 závody</span>
+          <strong class="detail-total-number" id="detailClubTotal">0</strong>
+        </div>
+      </div>
+
+      <!-- Souhrnný řádek klubu se stejnými údaji jako v hlavní tabulce -->
+      <div class="table-card detail-summary-table-card">
+        <div class="table-responsive">
+          <table class="data-table detail-summary-table">
+            <thead>
+              <tr>
+                <th class="col-club">Jméno klubu</th>
+                <th
+                  class="col-num col-highlight"
+                  title="Počet mládeže s alespoň 6 absolvovanými závody napříč disciplínami a divizemi"
+                >
+                  Soutěžící mládež
+                </th>
+                <th
+                  class="col-num"
+                  title="Počet mládeže s alespoň 6 absolvovanými závody napříč disciplínami a divizemi, kteří mají alespoň 1 závod v divizi RL"
+                >
+                  Soutěžící mládež (RL)
+                </th>
+                <th
+                  class="col-num"
+                  title="Počet mládeže s alespoň 6 absolvovanými závody napříč disciplínami a divizemi, kteří mají alespoň 1 závod v divizi KL"
+                >
+                  Soutěžící mládež (KL)
+                </th>
+                <th
+                  class="col-num"
+                  title="Počet mládeže s alespoň 6 absolvovanými závody napříč disciplínami a divizemi, kteří mají alespoň 1 závod v divizi HL"
+                >
+                  Soutěžící mládež (HL)
+                </th>
+                <th
+                  class="col-num"
+                  title="Počet mládeže s alespoň 6 absolvovanými závody napříč disciplínami a divizemi, kteří mají alespoň 1 závod v divizi TL"
+                >
+                  Soutěžící mládež (TL)
+                </th>
+                <th
+                  class="col-num"
+                  title="Počet mládeže s alespoň 6 absolvovanými závody napříč disciplínami a divizemi, kteří mají alespoň 1 závod v disciplíně halová lukostřelba"
+                >
+                  Soutěžící mládež (hala)
+                </th>
+                <th
+                  class="col-num"
+                  title="Počet mládeže s alespoň 6 absolvovanými závody napříč disciplínami a divizemi, kteří mají alespoň 1 závod v disciplíně terčová lukostřelba"
+                >
+                  Soutěžící mládež (terčová)
+                </th>
+                <th
+                  class="col-num"
+                  title="Počet mládeže s alespoň 6 absolvovanými závody napříč disciplínami a divizemi, kteří mají alespoň 1 závod v disciplíně terénní lukostřelba"
+                >
+                  Soutěžící mládež (terénní)
+                </th>
+                <th
+                  class="col-num"
+                  title="Počet mládeže s alespoň 6 absolvovanými závody napříč disciplínami a divizemi, kteří mají alespoň 1 závod v disciplíně 3D lukostřelba"
+                >
+                  Soutěžící mládež (3D)
+                </th>
+                <th
+                  class="col-num col-cup"
+                  title="Počet závodníků, kteří se zúčastnili Poháru v terčové lukostřelbě"
+                >
+                  Účastníci Poháru
+                </th>
+                <th
+                  class="col-num col-cup"
+                  title="Počet závodníků, kteří v Poháru v terčové lukostřelbě splnili Limit SpS (Splněno = ANO)"
+                >
+                  Splněný limit (Pohár)
+                </th>
+              </tr>
+            </thead>
+            <tbody id="detailSummaryRow"></tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- Konkrétní seznamy závodníků pro každý z 8 údajů -->
+      <div class="detail-categories-grid" id="detailCategoriesContainer"></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <span><strong>SpS 2027</strong> • Lokální datový přehled mládežnických žebříčků ČLS (2025/2026)</span>
+      <span>Pro aktualizaci dat spusťte <code>ruby fetch_data.rb</code></span>
+    </div>
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
